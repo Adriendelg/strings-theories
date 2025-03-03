@@ -1,0 +1,1088 @@
+{
+  "settings": {
+    "intensityLevels": {
+      "low": 100,
+      "medium": 500,
+      "high": 1000
+    },
+    "colors": {
+      "light": {
+        "level_0": "#dcd3c9",
+        "level_1": "#8ca3bc",
+        "level_2": "#758ca5",
+        "level_3": "#5f77a5",
+        "level_4": "#475f8e"
+      },
+      "dark": {
+        "level_0": "#ebedf015",
+        "level_1": "#2a3150",
+        "level_2": "#475f8e",
+        "level_3": "#758ca5",
+        "level_4": "#8ca3bc"
+      }
+    },
+    "showOverview": true,
+    "enabledScripts": [
+      "LATIN"
+    ]
+  },
+  "devices": {
+    "undefined": {},
+    "f70c0294-7ff9-472e-b359-1f1a9dd84155": {
+      "2025-02-04": {
+        "totalDelta": 178,
+        "files": {
+          "similarities between learning music and learning a language.md": {
+            "initial": 53,
+            "current": 53
+          },
+          "obsidian.md": {
+            "initial": 0,
+            "current": 0
+          },
+          "Garden/musical literacy.md": {
+            "initial": 97,
+            "current": 97
+          },
+          "intervals in P4 tuning.md": {
+            "initial": 55,
+            "current": 60
+          },
+          "Garden/the three main playing positions.md": {
+            "initial": 91,
+            "current": 91
+          },
+          "Garden/left hand.md": {
+            "initial": 34,
+            "current": 35
+          },
+          "Garden/right hand.md": {
+            "initial": 84,
+            "current": 85
+          },
+          "Garden/fretboard.md": {
+            "initial": 278,
+            "current": 278
+          },
+          "Meta/Strings Theories.md": {
+            "initial": 426,
+            "current": 428
+          },
+          "Garden/guitar.md": {
+            "initial": 32,
+            "current": 33
+          },
+          "Garden/the myth of the perfect posture.md": {
+            "initial": 130,
+            "current": 132
+          },
+          "Templates/chord template.md": {
+            "initial": 15,
+            "current": 15
+          },
+          "Garden/intent.md": {
+            "initial": 0,
+            "current": 132
+          },
+          "Garden/lh thumb.md": {
+            "initial": 92,
+            "current": 92
+          },
+          "Garden/left hand fingerings.md": {
+            "initial": 158,
+            "current": 158
+          },
+          "Garden/right hand fingerings.md": {
+            "initial": 175,
+            "current": 193
+          },
+          "what it means to read music.md": {
+            "initial": 16,
+            "current": 16
+          },
+          "scale template.md": {
+            "initial": 0,
+            "current": 16
+          }
+        }
+      },
+      "2025-02-05": {
+        "totalDelta": 1240,
+        "files": {
+          "Templates/chord template.md": {
+            "initial": 15,
+            "current": 15
+          },
+          "Templates/scale template.md": {
+            "initial": 16,
+            "current": 23
+          },
+          "Garden/P4 tuning.md": {
+            "initial": 210,
+            "current": 212
+          },
+          "Templates/tuning template.md": {
+            "initial": 0,
+            "current": 13
+          },
+          "parts of the guitar.md": {
+            "initial": 17,
+            "current": 47
+          },
+          "intervals in P4 tuning.md": {
+            "initial": 60,
+            "current": 68
+          },
+          "Garden/intervals.md": {
+            "initial": 331,
+            "current": 361
+          },
+          "Garden/common left hand mistakes.md": {
+            "initial": 78,
+            "current": 78
+          },
+          "tasks.md": {
+            "initial": 0,
+            "current": 4
+          },
+          "Garden/fretting.md": {
+            "initial": 223,
+            "current": 223
+          },
+          "Garden/the three main playing positions.md": {
+            "initial": 91,
+            "current": 124
+          },
+          "Garden/standing.md": {
+            "initial": 0,
+            "current": 196
+          },
+          "Garden/major scale harmonisation in triads.md": {
+            "initial": 198,
+            "current": 235
+          },
+          "Garden/triads.md": {
+            "initial": 281,
+            "current": 281
+          },
+          "Garden/tetrads.md": {
+            "initial": 0,
+            "current": 333
+          },
+          "Garden/functions.md": {
+            "initial": 91,
+            "current": 91
+          },
+          "Garden/V - I.md": {
+            "initial": 0,
+            "current": 12
+          },
+          "Garden/two chords cadences.md": {
+            "initial": 372,
+            "current": 372
+          },
+          "Garden/V7 chord.md": {
+            "initial": 0,
+            "current": 279
+          },
+          "Garden/major scale harmonisation in tetrads.md": {
+            "initial": 0,
+            "current": 121
+          },
+          "Garden/tonic.md": {
+            "initial": 176,
+            "current": 178
+          },
+          "Garden/sub dominant.md": {
+            "initial": 83,
+            "current": 85
+          },
+          "Garden/dominant.md": {
+            "initial": 84,
+            "current": 86
+          },
+          "Garden/major scale.md": {
+            "initial": 211,
+            "current": 211
+          },
+          "Garden/relative minor.md": {
+            "initial": 164,
+            "current": 164
+          },
+          "Garden/harmonic minor scale harmonisation in triads.md": {
+            "initial": 130,
+            "current": 130
+          },
+          "Garden/accidentals.md": {
+            "initial": 144,
+            "current": 144
+          },
+          "Garden/the 12 semitones.md": {
+            "initial": 161,
+            "current": 161
+          },
+          "intervals in standard tuning.md": {
+            "initial": 0,
+            "current": 0
+          },
+          "Garden/scale degrees.md": {
+            "initial": 0,
+            "current": 41
+          },
+          "Garden/left hand fingerings.md": {
+            "initial": 158,
+            "current": 158
+          },
+          "similarities between learning music and learning a language.md": {
+            "initial": 53,
+            "current": 53
+          },
+          "Garden/standard tuning.md": {
+            "initial": 171,
+            "current": 187
+          },
+          "what it means to read music.md": {
+            "initial": 16,
+            "current": 45
+          },
+          "Templates/new.md": {
+            "initial": 0,
+            "current": 6
+          },
+          "Garden/tonal music.md": {
+            "initial": 87,
+            "current": 109
+          },
+          "Garden/tonality.md": {
+            "initial": 168,
+            "current": 183
+          }
+        }
+      },
+      "2025-02-06": {
+        "totalDelta": 1131,
+        "files": {
+          "Garden/headstock.md": {
+            "initial": 0,
+            "current": 181
+          },
+          "parts of the guitar.md": {
+            "initial": 47,
+            "current": 51
+          },
+          "Garden/tuners.md": {
+            "initial": 0,
+            "current": 119
+          },
+          "Garden/nut.md": {
+            "initial": 0,
+            "current": 87
+          },
+          "Garden/neck.md": {
+            "initial": 0,
+            "current": 119
+          },
+          "Garden/frets.md": {
+            "initial": 0,
+            "current": 149
+          },
+          "strings.md": {
+            "initial": 0,
+            "current": 13
+          },
+          "Garden/sound board.md": {
+            "initial": 0,
+            "current": 105
+          },
+          "Garden/back and sides.md": {
+            "initial": 0,
+            "current": 76
+          },
+          "bridge.md": {
+            "initial": 0,
+            "current": 227
+          },
+          "Garden/fretboard.md": {
+            "initial": 278,
+            "current": 329
+          }
+        }
+      },
+      "2025-02-07": {
+        "totalDelta": 2107,
+        "files": {
+          "Garden/bridge.md": {
+            "initial": 227,
+            "current": 235
+          },
+          "Garden/parts of the guitar.md": {
+            "initial": 51,
+            "current": 51
+          },
+          "Garden/triads.md": {
+            "initial": 281,
+            "current": 319
+          },
+          "Garden/root position.md": {
+            "initial": 29,
+            "current": 43
+          },
+          "trz.md": {
+            "initial": 0,
+            "current": 0
+          },
+          "similarities between learning music and learning a language.md": {
+            "initial": 53,
+            "current": 53
+          },
+          "Garden/the staff.md": {
+            "initial": 281,
+            "current": 423
+          },
+          "Garden/what it means to read music.md": {
+            "initial": 45,
+            "current": 229
+          },
+          "tasks.md": {
+            "initial": 4,
+            "current": 4
+          },
+          "Garden/the beat.md": {
+            "initial": 73,
+            "current": 85
+          },
+          "Garden/tempo markings.md": {
+            "initial": 0,
+            "current": 232
+          },
+          "Garden/rhythm.md": {
+            "initial": 11,
+            "current": 64
+          },
+          "Garden/music theory.md": {
+            "initial": 96,
+            "current": 96
+          },
+          "Garden/bars.md": {
+            "initial": 0,
+            "current": 48
+          },
+          "Garden/time signature.md": {
+            "initial": 0,
+            "current": 499
+          },
+          "Garden/P4 tuning.md": {
+            "initial": 212,
+            "current": 221
+          },
+          "why I use P4 and should you use it.md": {
+            "initial": 0,
+            "current": 0
+          },
+          "Garden/basic rhythm notation.md": {
+            "initial": 0,
+            "current": 717
+          },
+          "extended techniques.md": {
+            "initial": 0,
+            "current": 0
+          },
+          "intervals in P4 tuning.md": {
+            "initial": 68,
+            "current": 68
+          },
+          "intervals in standard tuning.md": {
+            "initial": 0,
+            "current": 0
+          },
+          "Garden/strings.md": {
+            "initial": 13,
+            "current": 164
+          }
+        }
+      },
+      "2025-02-08": {
+        "totalDelta": 916,
+        "files": {
+          "Garden/the staff.md": {
+            "initial": 423,
+            "current": 423
+          },
+          "Meta/Rules.md": {
+            "initial": 46,
+            "current": 52
+          },
+          "Garden/why I use P4 and should you use it.md": {
+            "initial": 0,
+            "current": 910
+          },
+          "Garden/P4 tuning.md": {
+            "initial": 221,
+            "current": 221
+          },
+          "reading tablatures.md": {
+            "initial": 0,
+            "current": 0
+          }
+        }
+      },
+      "2025-02-09": {
+        "totalDelta": 68,
+        "files": {
+          "tasks.md": {
+            "initial": 4,
+            "current": 4
+          },
+          "reading tablatures.md": {
+            "initial": 0,
+            "current": 0
+          },
+          "audiation.md": {
+            "initial": 0,
+            "current": 0
+          },
+          "Garden/more colourful open tunings.md": {
+            "initial": 150,
+            "current": 158
+          },
+          "Garden/alternate tunings.md": {
+            "initial": 249,
+            "current": 255
+          },
+          "Garden/why use alternate tunings ?.md": {
+            "initial": 585,
+            "current": 586
+          },
+          "Major triad.md": {
+            "initial": 0,
+            "current": 5
+          },
+          "major triad in standard tuning.md": {
+            "initial": 0,
+            "current": 48
+          }
+        }
+      },
+      "2025-02-10": {
+        "totalDelta": 2036,
+        "files": {
+          "Garden/alternate tunings.md": {
+            "initial": 255,
+            "current": 255
+          },
+          "Garden/standard tuning.md": {
+            "initial": 187,
+            "current": 187
+          },
+          "Garden/string sets.md": {
+            "initial": 0,
+            "current": 103
+          },
+          "keys.md": {
+            "initial": 0,
+            "current": 0
+          },
+          "Meta/Rules.md": {
+            "initial": 52,
+            "current": 76
+          },
+          "Garden/closed position.md": {
+            "initial": 0,
+            "current": 57
+          },
+          "Garden/range.md": {
+            "initial": 0,
+            "current": 14
+          },
+          "Garden/major triads in standard tuning.md": {
+            "initial": 3,
+            "current": 153
+          },
+          "Garden/reading tablatures.md": {
+            "initial": 0,
+            "current": 175
+          },
+          "Garden/why use alternate tunings ?.md": {
+            "initial": 586,
+            "current": 586
+          },
+          "Garden/intellectual vs experiential knowing.md": {
+            "initial": 245,
+            "current": 251
+          },
+          "Garden/ear training.md": {
+            "initial": 542,
+            "current": 550
+          },
+          "Garden/audiation.md": {
+            "initial": 0,
+            "current": 267
+          },
+          "Garden/the three main playing positions.md": {
+            "initial": 124,
+            "current": 188
+          },
+          "right hand picking exercises.md": {
+            "initial": 0,
+            "current": 0
+          },
+          "right hand fingers exercises.md": {
+            "initial": 0,
+            "current": 0
+          },
+          "left hand exercises.md": {
+            "initial": 0,
+            "current": 0
+          },
+          "Garden/Major triad.md": {
+            "initial": 5,
+            "current": 402
+          },
+          "Garden/inversions.md": {
+            "initial": 0,
+            "current": 350
+          },
+          "spread voicing.md": {
+            "initial": 0,
+            "current": 350
+          },
+          "Garden/chord voicings.md": {
+            "initial": 0,
+            "current": 71
+          }
+        }
+      },
+      "2025-02-11": {
+        "totalDelta": 917,
+        "files": {
+          "Garden/spread voicing.md": {
+            "initial": 350,
+            "current": 537
+          },
+          "Garden/pick.md": {
+            "initial": 22,
+            "current": 152
+          },
+          "Garden/fingers.md": {
+            "initial": 58,
+            "current": 78
+          },
+          "Garden/right hand fingerings.md": {
+            "initial": 193,
+            "current": 193
+          },
+          "Garden/right hand.md": {
+            "initial": 85,
+            "current": 85
+          },
+          "Garden/fingers vs pick.md": {
+            "initial": 595,
+            "current": 729
+          },
+          "Garden/tetrads.md": {
+            "initial": 333,
+            "current": 340
+          },
+          "Garden/chord extensions.md": {
+            "initial": 0,
+            "current": 144
+          },
+          "Garden/major scale harmonisation in tetrads.md": {
+            "initial": 121,
+            "current": 140
+          },
+          "Garden/inversions.md": {
+            "initial": 350,
+            "current": 350
+          },
+          "left hand exercises.md": {
+            "initial": 0,
+            "current": 70
+          },
+          "Garden/left hand.md": {
+            "initial": 35,
+            "current": 42
+          },
+          "Garden/left hand fingerings.md": {
+            "initial": 158,
+            "current": 174
+          },
+          "Garden/fretting.md": {
+            "initial": 223,
+            "current": 223
+          },
+          "Untitled.md": {
+            "initial": 6,
+            "current": 0
+          },
+          "spider exercise and variations.md": {
+            "initial": 0,
+            "current": 183
+          }
+        }
+      },
+      "2025-02-12": {
+        "totalDelta": 365,
+        "files": {
+          "Garden/spider exercise and variations.md": {
+            "initial": 184,
+            "current": 271
+          },
+          "left hand exercises.md": {
+            "initial": 70,
+            "current": 149
+          },
+          "Garden/switch from hell.md": {
+            "initial": 0,
+            "current": 153
+          },
+          "two fingers marathon.md": {
+            "initial": 0,
+            "current": 46
+          }
+        }
+      },
+      "2025-02-13": {
+        "totalDelta": 1358,
+        "files": {
+          "Garden/common left hand mistakes.md": {
+            "initial": 78,
+            "current": 78
+          },
+          "Garden/simple principles for a great left hand.md": {
+            "initial": 109,
+            "current": 122
+          },
+          "Garden/two fingers marathon.md": {
+            "initial": 47,
+            "current": 277
+          },
+          "Garden/switch from hell.md": {
+            "initial": 153,
+            "current": 155
+          },
+          "Garden/left hand.md": {
+            "initial": 42,
+            "current": 57
+          },
+          "Garden/left hand exercises.md": {
+            "initial": 149,
+            "current": 166
+          },
+          "Garden/music genres.md": {
+            "initial": 10,
+            "current": 10
+          },
+          "Garden/minor scales.md": {
+            "initial": 71,
+            "current": 72
+          },
+          "Garden/fingers vs pick.md": {
+            "initial": 729,
+            "current": 729
+          },
+          "Garden/neck.md": {
+            "initial": 119,
+            "current": 120
+          },
+          "Garden/what your body is made for.md": {
+            "initial": 92,
+            "current": 93
+          },
+          "Garden/chords.md": {
+            "initial": 0,
+            "current": 89
+          },
+          "similarities between learning music and learning a language.md": {
+            "initial": 53,
+            "current": 53
+          },
+          "Garden/practice.md": {
+            "initial": 7,
+            "current": 252
+          },
+          "Garden/fuck talent.md": {
+            "initial": 0,
+            "current": 744
+          },
+          "what it means to get good.md": {
+            "initial": 0,
+            "current": 0
+          }
+        }
+      },
+      "2025-02-14": {
+        "totalDelta": 1332,
+        "files": {
+          "Garden/what it means to get good.md": {
+            "initial": 4,
+            "current": 565
+          },
+          "Garden/practice.md": {
+            "initial": 252,
+            "current": 230
+          },
+          "Garden/musical literacy.md": {
+            "initial": 97,
+            "current": 100
+          },
+          "Garden/basic rhythm notation.md": {
+            "initial": 717,
+            "current": 717
+          },
+          "similarities between learning music and learning a language.md": {
+            "initial": 53,
+            "current": 618
+          },
+          "Garden/understanding chord diagrams.md": {
+            "initial": 0,
+            "current": 215
+          },
+          "Garden/reading tablatures.md": {
+            "initial": 175,
+            "current": 184
+          },
+          "Meta/Strings Theories.md": {
+            "initial": 428,
+            "current": 428
+          },
+          "Garden/muted notes.md": {
+            "initial": 98,
+            "current": 99
+          }
+        }
+      },
+      "2025-02-15": {
+        "totalDelta": 0,
+        "files": {
+          "similarities between learning music and learning a language.md": {
+            "initial": 619,
+            "current": 619
+          }
+        }
+      },
+      "2025-02-16": {
+        "totalDelta": 1061,
+        "files": {
+          "Garden/similarities between learning music and learning a language.md": {
+            "initial": 619,
+            "current": 604
+          },
+          "Garden/music genres.md": {
+            "initial": 10,
+            "current": 10
+          },
+          "Garden/tuning the guitar.md": {
+            "initial": 194,
+            "current": 277
+          },
+          "Garden/tunings.md": {
+            "initial": 8,
+            "current": 8
+          },
+          "Garden/why you should always tune first.md": {
+            "initial": 0,
+            "current": 102
+          },
+          "Garden/understanding chord diagrams.md": {
+            "initial": 215,
+            "current": 215
+          },
+          "Garden/key signature.md": {
+            "initial": 0,
+            "current": 175
+          },
+          "Garden/V7 chord.md": {
+            "initial": 279,
+            "current": 325
+          },
+          "Garden/the three main playing positions.md": {
+            "initial": 188,
+            "current": 188
+          },
+          "Garden/footstool.md": {
+            "initial": 0,
+            "current": 216
+          },
+          "Garden/strap.md": {
+            "initial": 0,
+            "current": 287
+          },
+          "Garden/chord tone.md": {
+            "initial": 0,
+            "current": 91
+          },
+          "Garden/accidentals.md": {
+            "initial": 144,
+            "current": 174
+          },
+          "Garden/enharmonics.md": {
+            "initial": 0,
+            "current": 46
+          }
+        }
+      },
+      "2025-02-17": {
+        "totalDelta": 10,
+        "files": {
+          "Garden/types.md": {
+            "initial": 32,
+            "current": 42
+          },
+          "Garden/what it means to get good.md": {
+            "initial": 565,
+            "current": 565
+          },
+          "Garden/similarities between learning music and learning a language.md": {
+            "initial": 604,
+            "current": 604
+          }
+        }
+      },
+      "2025-02-18": {
+        "totalDelta": 0,
+        "files": {
+          "Garden/types.md": {
+            "initial": 42,
+            "current": 42
+          }
+        }
+      },
+      "2025-02-25": {
+        "totalDelta": 440,
+        "files": {
+          "Garden/basic rhythm notation.md": {
+            "initial": 717,
+            "current": 775
+          },
+          "how to practice reading rhythm.md": {
+            "initial": 0,
+            "current": 377
+          },
+          "Templates/abcmusictemplate.md": {
+            "initial": 0,
+            "current": 5
+          }
+        }
+      },
+      "2025-02-26": {
+        "totalDelta": 0,
+        "files": {
+          "how to practice reading rhythm.md": {
+            "initial": 377,
+            "current": 377
+          }
+        }
+      },
+      "2025-02-27": {
+        "totalDelta": 1265,
+        "files": {
+          "intervals in P4 tuning.md": {
+            "initial": 68,
+            "current": 68
+          },
+          "Garden/string sets.md": {
+            "initial": 103,
+            "current": 104
+          },
+          "Garden/major triads in standard tuning.md": {
+            "initial": 153,
+            "current": 157
+          },
+          "tasks.md": {
+            "initial": 4,
+            "current": 4
+          },
+          "right hand picking exercises.md": {
+            "initial": 0,
+            "current": 0
+          },
+          "Garden/left hand exercises.md": {
+            "initial": 166,
+            "current": 170
+          },
+          "Garden/simple principles for a great left hand.md": {
+            "initial": 122,
+            "current": 143
+          },
+          "Garden/right hand.md": {
+            "initial": 85,
+            "current": 85
+          },
+          "Garden/fingers.md": {
+            "initial": 78,
+            "current": 78
+          },
+          "Garden/classical right hand.md": {
+            "initial": 94,
+            "current": 104
+          },
+          "Garden/fingerpicking right hand.md": {
+            "initial": 148,
+            "current": 157
+          },
+          "Garden/free strokes.md": {
+            "initial": 62,
+            "current": 62
+          },
+          "Garden/right hand fingers exercises.md": {
+            "initial": 0,
+            "current": 271
+          },
+          "Garden/practice.md": {
+            "initial": 230,
+            "current": 235
+          },
+          "Garden/practice mode vs performance mode.md": {
+            "initial": 0,
+            "current": 940
+          },
+          "Garden/fuck talent.md": {
+            "initial": 744,
+            "current": 744
+          },
+          "Garden/what it means to get good.md": {
+            "initial": 565,
+            "current": 565
+          }
+        }
+      },
+      "2025-02-28": {
+        "totalDelta": 11,
+        "files": {
+          "Garden/music theory.md": {
+            "initial": 96,
+            "current": 96
+          },
+          "Garden/pitch.md": {
+            "initial": 13,
+            "current": 13
+          },
+          "Garden/musical literacy.md": {
+            "initial": 100,
+            "current": 100
+          },
+          "Garden/the 12 semitones.md": {
+            "initial": 161,
+            "current": 161
+          },
+          "Garden/why we need both flats and sharps.md": {
+            "initial": 162,
+            "current": 162
+          },
+          "Garden/major scale.md": {
+            "initial": 211,
+            "current": 211
+          },
+          "Garden/intervals.md": {
+            "initial": 361,
+            "current": 361
+          },
+          "Garden/the staff.md": {
+            "initial": 423,
+            "current": 434
+          },
+          "Garden/triads.md": {
+            "initial": 319,
+            "current": 319
+          },
+          "Garden/inversions.md": {
+            "initial": 350,
+            "current": 350
+          },
+          "Garden/the beat.md": {
+            "initial": 85,
+            "current": 85
+          },
+          "Garden/basic rhythm notation.md": {
+            "initial": 775,
+            "current": 775
+          },
+          "Garden/time signature.md": {
+            "initial": 499,
+            "current": 499
+          },
+          "Garden/tonality.md": {
+            "initial": 183,
+            "current": 183
+          }
+        }
+      },
+      "2025-03-01": {
+        "totalDelta": 0,
+        "files": {
+          "Garden/the beat.md": {
+            "initial": 85,
+            "current": 85
+          },
+          "Garden/the staff.md": {
+            "initial": 434,
+            "current": 434
+          },
+          "Garden/tonality.md": {
+            "initial": 183,
+            "current": 183
+          },
+          "Garden/right hand fingers exercises.md": {
+            "initial": 271,
+            "current": 271
+          }
+        }
+      },
+      "2025-03-02": {
+        "totalDelta": 105,
+        "files": {
+          "scales.md": {
+            "initial": 0,
+            "current": 91
+          },
+          "Garden/major scale.md": {
+            "initial": 211,
+            "current": 211
+          },
+          "Garden/spread voicing.md": {
+            "initial": 537,
+            "current": 551
+          },
+          "major triads in P4.md": {
+            "initial": 0,
+            "current": 0
+          },
+          "Garden/major triads in standard tuning.md": {
+            "initial": 157,
+            "current": 157
+          }
+        }
+      },
+      "2025-03-03": {
+        "totalDelta": 5,
+        "files": {
+          "Garden/spread voicing.md": {
+            "initial": 551,
+            "current": 551
+          },
+          "Garden/my gear.md": {
+            "initial": 155,
+            "current": 160
+          },
+          "form.md": {
+            "initial": 0,
+            "current": 0
+          },
+          "scales.md": {
+            "initial": 318,
+            "current": 0
+          },
+          "tetracords.md": {
+            "initial": 0,
+            "current": 0
+          },
+          "Untitled.md": {
+            "initial": 0,
+            "current": 0
+          }
+        }
+      }
+    }
+  }
+}

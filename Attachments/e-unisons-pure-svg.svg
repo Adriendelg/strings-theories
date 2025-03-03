@@ -1,0 +1,87 @@
+<svg viewBox="0 0 800 300" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect x="50" y="30" width="700" height="240" fill="#3B4252"/>
+  
+  <!-- Fret markers -->
+  <g fill="#D8DEE9" opacity="0.3">
+    <circle cx="195" cy="150" r="8"/>
+    <circle cx="311" cy="150" r="8"/>
+    <circle cx="427" cy="150" r="8"/>
+    <circle cx="543" cy="150" r="8"/>
+    <circle cx="659" cy="150" r="8"/>
+  </g>
+
+  <!-- Fret lines -->
+  <g stroke="#D8DEE9" stroke-width="1">
+    <line x1="50" y1="30" x2="50" y2="270"/>
+    <line x1="108" y1="30" x2="108" y2="270"/>
+    <line x1="166" y1="30" x2="166" y2="270"/>
+    <line x1="224" y1="30" x2="224" y2="270"/>
+    <line x1="282" y1="30" x2="282" y2="270"/>
+    <line x1="340" y1="30" x2="340" y2="270"/>
+    <line x1="398" y1="30" x2="398" y2="270"/>
+    <line x1="456" y1="30" x2="456" y2="270"/>
+    <line x1="514" y1="30" x2="514" y2="270"/>
+    <line x1="572" y1="30" x2="572" y2="270"/>
+    <line x1="630" y1="30" x2="630" y2="270"/>
+    <line x1="688" y1="30" x2="688" y2="270"/>
+  </g>
+
+  <!-- Strings -->
+  <g stroke="#D8DEE9">
+    <line x1="50" y1="50" x2="750" y2="50" stroke-width="1"/>
+    <line x1="50" y1="90" x2="750" y2="90" stroke-width="1.2"/>
+    <line x1="50" y1="130" x2="750" y2="130" stroke-width="1.4"/>
+    <line x1="50" y1="170" x2="750" y2="170" stroke-width="1.6"/>
+    <line x1="50" y1="210" x2="750" y2="210" stroke-width="1.8"/>
+    <line x1="50" y1="250" x2="750" y2="250" stroke-width="2"/>
+  </g>
+
+  <!-- High E unisons -->
+  <g>
+    <!-- Open high E -->
+    <circle cx="29" cy="50" r="15" fill="#BF616A"/>
+    <text x="29" y="55" text-anchor="middle" fill="#ECEFF4">E</text>
+    
+    <!-- 5th fret B string -->
+    <circle cx="311" cy="90" r="15" fill="#BF616A"/>
+    <text x="311" y="95" text-anchor="middle" fill="#ECEFF4">E</text>
+    
+    <!-- 9th fret G string -->
+    <circle cx="543" cy="130" r="15" fill="#BF616A"/>
+    <text x="543" y="135" text-anchor="middle" fill="#ECEFF4">E</text>
+  </g>
+
+  <!-- Connecting lines -->
+  <g stroke="#BF616A" stroke-width="2" stroke-dasharray="5,5" opacity="0.8">
+    <path d="M29,50 Q170,70 311,90" fill="none"/>
+    <path d="M311,90 Q427,110 543,130" fill="none"/>
+    <path d="M29,50 Q286,90 543,130" fill="none"/>
+  </g>
+
+  <!-- String labels -->
+  <g fill="#D8DEE9" font-size="12">
+    <text x="20" y="55" text-anchor="end">e</text>
+    <text x="20" y="95" text-anchor="end">B</text>
+    <text x="20" y="135" text-anchor="end">G</text>
+    <text x="20" y="175" text-anchor="end">D</text>
+    <text x="20" y="215" text-anchor="end">A</text>
+    <text x="20" y="255" text-anchor="end">E</text>
+  </g>
+
+  <!-- Fret numbers -->
+  <g fill="#D8DEE9" font-size="12">
+    <text x="50" y="20" text-anchor="middle">0</text>
+    <text x="108" y="20" text-anchor="middle">1</text>
+    <text x="166" y="20" text-anchor="middle">2</text>
+    <text x="224" y="20" text-anchor="middle">3</text>
+    <text x="282" y="20" text-anchor="middle">4</text>
+    <text x="340" y="20" text-anchor="middle">5</text>
+    <text x="398" y="20" text-anchor="middle">6</text>
+    <text x="456" y="20" text-anchor="middle">7</text>
+    <text x="514" y="20" text-anchor="middle">8</text>
+    <text x="572" y="20" text-anchor="middle">9</text>
+    <text x="630" y="20" text-anchor="middle">10</text>
+    <text x="688" y="20" text-anchor="middle">11</text>
+  </g>
+</svg>

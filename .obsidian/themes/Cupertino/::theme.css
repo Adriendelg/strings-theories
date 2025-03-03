@@ -1,0 +1,77 @@
+/* @settings
+
+[Previous settings section remains exactly the same...]
+
+*/
+
+/* Nord Color Palette */
+:root {
+  --nord0: #2E3440;  /* Polar Night - darkest */
+  --nord1: #3B4252;  /* Polar Night */
+  --nord2: #434C5E;  /* Polar Night */
+  --nord3: #4C566A;  /* Polar Night - lightest */
+  --nord4: #D8DEE9;  /* Snow Storm - darkest */
+  --nord5: #E5E9F0;  /* Snow Storm */
+  --nord6: #ECEFF4;  /* Snow Storm - lightest */
+  --nord7: #8FBCBB;  /* Frost */
+  --nord8: #88C0D0;  /* Frost */
+  --nord9: #81A1C1;  /* Frost */
+  --nord10: #5E81AC; /* Frost */
+  --nord11: #BF616A; /* Aurora - red */
+  --nord12: #D08770; /* Aurora - orange */
+  --nord13: #EBCB8B; /* Aurora - yellow */
+  --nord14: #A3BE8C; /* Aurora - green */
+  --nord15: #B48EAD; /* Aurora - purple */
+}
+
+body{
+    /* Keep all existing body variables the same */
+}
+
+body.theme-dark {
+    --background-modifier-cover: rgba(0, 0, 0, 0.6);
+    --background-modifier-border-hover: var(--nord3);
+    --color-red-rgb: 191, 97, 106;     /* nord11 */
+    --color-red: var(--nord11);
+    --color-orange-rgb: 208, 135, 112;  /* nord12 */
+    --color-orange: var(--nord12);
+    --color-yellow-rgb: 235, 203, 139;  /* nord13 */
+    --color-yellow: var(--nord13);
+    --color-green-rgb: 163, 190, 140;   /* nord14 */
+    --color-green: var(--nord14);
+    --color-cyan-rgb: 136, 192, 208;    /* nord8 */
+    --color-cyan: var(--nord8);
+    --color-blue-rgb: 94, 129, 172;     /* nord10 */
+    --color-blue: var(--nord10);
+    --color-purple-rgb: 180, 142, 173;  /* nord15 */
+    --color-purple: var(--nord15);
+    --color-pink-rgb: 180, 142, 173;    /* Using nord15 as alternative */
+    --color-pink: var(--nord15);
+    --divider-color: rgba(255, 255, 255, 0.05) !important;
+    --modal-border-color: rgba(0, 0, 0, 1);
+    --modal-background: rgb(from var(--nord1) r g b / 75%) !important;
+    --interactive-normal: var(--nord2);
+    --input-shadow: inset 0 0.5px 0px 0px rgba(255, 255, 255, 0.3), 0 2px 2px 0 rgba(0, 0, 0, 0.1), 0 1px 1px 0 rgba(0, 0, 0, 0.1), 0 1px 1px 0 rgba(0, 0, 0, 0.1) !important;
+    --background-primary: var(--nord0);
+    --background-primary-alt: var(--nord1);
+    --background-secondary: var(--nord1);
+    --background-secondary-alt: var(--nord2);
+    --background-modifier-border: rgba(255, 255, 255, 0.05) !important;
+    --text-normal: var(--nord4);
+    --text-muted: var(--nord3);
+    --text-faint: var(--nord3);
+    --text-accent: var(--nord8);
+    --text-accent-hover: var(--nord7);
+    --text-on-accent: var(--nord0);
+    --interactive-hover: var(--nord3);
+    --interactive-accent: var(--nord8);
+    --interactive-accent-hover: var(--nord7);
+    --code-normal: var(--nord4);
+    --code-background: var(--nord1);
+    --shadow-s: 0px 1px 2px rgba(0, 0, 0, 0.121), 0px 3.4px 6.7px rgba(0, 0, 0, 0.179), 0px 15px 30px rgba(0, 0, 0, 0.3);
+    --shadow-l: 0px 1px 2px rgba(0, 0, 0, 0.121), 0px 3.4px 6.7px rgba(0, 0, 0, 0.179), 0px 15px 30px rgba(0, 0, 0, 0.3);
+}
+
+/* Keep all remaining CSS rules exactly the same as in your original file... */
+
+[Rest of original CSS file remains unchanged]

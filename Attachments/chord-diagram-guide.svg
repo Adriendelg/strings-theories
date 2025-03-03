@@ -1,0 +1,64 @@
+<svg viewBox="0 0 400 500" xmlns="http://www.w3.org/2000/svg">
+    <!-- Title -->
+    <text x="200" y="30" text-anchor="middle" font-size="20" fill="#ECEFF4" font-family="Arial">How to Read Guitar Chord Diagrams</text>
+    
+    <!-- Example chord diagram -->
+    <g transform="translate(150, 80)">
+        <!-- Open string notes -->
+        <text x="0" y="-25" text-anchor="middle" fill="#ECEFF4" font-size="14">E</text>
+        <text x="20" y="-25" text-anchor="middle" fill="#ECEFF4" font-size="14">A</text>
+        <text x="40" y="-25" text-anchor="middle" fill="#ECEFF4" font-size="14">D</text>
+        <text x="60" y="-25" text-anchor="middle" fill="#ECEFF4" font-size="14">G</text>
+        <text x="80" y="-25" text-anchor="middle" fill="#ECEFF4" font-size="14">B</text>
+        <text x="100" y="-25" text-anchor="middle" fill="#ECEFF4" font-size="14">e</text>
+
+        <!-- Position indicator -->
+        <text x="-25" y="30" fill="#ECEFF4" font-size="16" font-style="italic">I</text>
+        
+        <!-- Fretboard -->
+        <rect x="0" y="0" width="100" height="160" fill="#3B4252" rx="4"/>
+        
+        <!-- Fret lines -->
+        <line x1="0" y1="40" x2="100" y2="40" stroke="#D8DEE9" stroke-width="1"/>
+        <line x1="0" y1="80" x2="100" y2="80" stroke="#D8DEE9" stroke-width="1"/>
+        <line x1="0" y1="120" x2="100" y2="120" stroke="#D8DEE9" stroke-width="1"/>
+        
+        <!-- Strings -->
+        <line x1="0" y1="0" x2="0" y2="160" stroke="#D8DEE9" stroke-width="1"/>
+        <line x1="20" y1="0" x2="20" y2="160" stroke="#D8DEE9" stroke-width="1"/>
+        <line x1="40" y1="0" x2="40" y2="160" stroke="#D8DEE9" stroke-width="1"/>
+        <line x1="60" y1="0" x2="60" y2="160" stroke="#D8DEE9" stroke-width="1"/>
+        <line x1="80" y1="0" x2="80" y2="160" stroke="#D8DEE9" stroke-width="1"/>
+        <line x1="100" y1="0" x2="100" y2="160" stroke="#D8DEE9" stroke-width="1"/>
+    
+        <!-- Nut -->
+        <rect x="0" y="0" width="100" height="5" fill="#D8DEE9"/>
+        
+        <!-- String indicators (lowered) -->
+        <text x="0" y="-8" text-anchor="middle" font-size="16" fill="#D8DEE9">×</text>
+        <text x="60" y="-8" text-anchor="middle" font-size="14" fill="#D8DEE9">0</text>
+        <text x="100" y="-8" text-anchor="middle" font-size="14" fill="#D8DEE9">0</text>
+        
+        <!-- C Major chord finger positions -->
+        <!-- 3rd fret A string (C - root) -->
+        <circle cx="20" cy="100" r="12" fill="#BF616A"/>
+        <text x="20" y="104" text-anchor="middle" fill="#ECEFF4" font-size="12">3</text>
+        
+        <!-- 2nd fret D string (E) -->
+        <circle cx="40" cy="60" r="12" fill="#81A1C1"/>
+        <text x="40" y="64" text-anchor="middle" fill="#ECEFF4" font-size="12">2</text>
+        
+        <!-- 1st fret B string (C) -->
+        <circle cx="80" cy="20" r="12" fill="#81A1C1"/>
+        <text x="80" y="24" text-anchor="middle" fill="#ECEFF4" font-size="12">1</text>
+    </g>
+    
+    <!-- Key Points -->
+    <g transform="translate(50, 300)">
+        <text x="150" y="0" text-anchor="middle" fill="#ECEFF4" font-size="16">Key Points:</text>
+        <text x="150" y="30" text-anchor="middle" fill="#ECEFF4" font-size="14">• Numbers show which fingers to use (1=index, 4=pinky)</text>
+        <text x="150" y="55" text-anchor="middle" fill="#ECEFF4" font-size="14">• Red dot indicates the root note (C)</text>
+        <text x="150" y="80" text-anchor="middle" fill="#ECEFF4" font-size="14">• Roman numerals show the position on the neck (I = first position)</text>
+        <text x="150" y="105" text-anchor="middle" fill="#ECEFF4" font-size="14">• × indicates a muted string, 0 indicates an open string</text>
+    </g>
+</svg>

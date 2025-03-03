@@ -1,0 +1,22 @@
+{
+  "promptDelete": false,
+  "alwaysUpdateLinks": true,
+  "showLineNumber": true,
+  "vimMode": true,
+  "mobileToolbarCommands": [
+    "editor:insert-wikilink",
+    "editor:set-heading",
+    "command-palette:open",
+    "editor:insert-embed",
+    "editor:toggle-bullet-list",
+    "editor:insert-table",
+    "editor:attach-file",
+    "editor:toggle-bold",
+    "editor:toggle-italics",
+    "editor:toggle-highlight",
+    "editor:toggle-blockquote",
+    "editor:undo",
+    "editor:redo",
+    "editor:configure-toolbar"
+  ]
+}

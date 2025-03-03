@@ -1,0 +1,50 @@
+<svg viewBox="0 0 200 340" xmlns="http://www.w3.org/2000/svg">
+    <!-- Fretboard background -->
+    <rect x="30" y="40" width="170" height="280" fill="#3B4252"/>
+    
+    <!-- String lines -->
+    <line x1="45" y1="40" x2="45" y2="320" stroke="#D8DEE9" stroke-width="2"/>
+    <line x1="73" y1="40" x2="73" y2="320" stroke="#D8DEE9" stroke-width="2"/>
+    <line x1="101" y1="40" x2="101" y2="320" stroke="#D8DEE9" stroke-width="2"/>
+    <line x1="129" y1="40" x2="129" y2="320" stroke="#D8DEE9" stroke-width="2"/>
+    <line x1="157" y1="40" x2="157" y2="320" stroke="#D8DEE9" stroke-width="2"/>
+    <line x1="185" y1="40" x2="185" y2="320" stroke="#D8DEE9" stroke-width="2"/>
+
+    <!-- Fret lines -->
+    <line x1="30" y1="40" x2="200" y2="40" stroke="#D8DEE9" stroke-width="3"/>
+    <line x1="30" y1="92" x2="200" y2="92" stroke="#D8DEE9" stroke-width="2"/>
+    <line x1="30" y1="144" x2="200" y2="144" stroke="#D8DEE9" stroke-width="2"/>
+    <line x1="30" y1="196" x2="200" y2="196" stroke="#D8DEE9" stroke-width="2"/>
+    <line x1="30" y1="248" x2="200" y2="248" stroke="#D8DEE9" stroke-width="2"/>
+    <line x1="30" y1="300" x2="200" y2="300" stroke="#D8DEE9" stroke-width="2"/>
+
+    <!-- Barre indicator -->
+    <rect x="35" y="55" width="160" height="25" fill="#BF616A" rx="12.5"/>
+    
+    <!-- Notes in barre -->
+    <text x="157" y="71" text-anchor="middle" fill="#ECEFF4" font-size="14">C</text>
+    <text x="185" y="71" text-anchor="middle" fill="#ECEFF4" font-size="14">F</text>
+
+    <!-- Finger position markers with note names -->
+    <circle cx="45" cy="66" r="15" fill="#BF616A"/> <!-- Root note -->
+    <text x="45" y="71" text-anchor="middle" fill="#ECEFF4" font-size="14">F</text>
+    <circle cx="73" cy="170" r="15" fill="#81A1C1"/>
+    <text x="73" y="175" text-anchor="middle" fill="#ECEFF4" font-size="14">C</text>
+    <circle cx="101" cy="170" r="15" fill="#81A1C1"/>
+    <text x="101" y="175" text-anchor="middle" fill="#ECEFF4" font-size="14">F</text>
+    <circle cx="129" cy="118" r="15" fill="#81A1C1"/>
+    <text x="129" y="123" text-anchor="middle" fill="#ECEFF4" font-size="14">A</text>
+
+    <!-- String labels -->
+    <text x="45" y="15" text-anchor="middle" fill="#D8DEE9" font-size="12">6</text>
+    <text x="73" y="15" text-anchor="middle" fill="#D8DEE9" font-size="12">5</text>
+    <text x="101" y="15" text-anchor="middle" fill="#D8DEE9" font-size="12">4</text>
+    <text x="129" y="15" text-anchor="middle" fill="#D8DEE9" font-size="12">3</text>
+    <text x="157" y="15" text-anchor="middle" fill="#D8DEE9" font-size="12">2</text>
+    <text x="185" y="15" text-anchor="middle" fill="#D8DEE9" font-size="12">1</text>
+
+    <!-- Fret numbers -->
+    <text x="20" y="66" text-anchor="end" fill="#D8DEE9" font-size="12">1</text>
+    <text x="20" y="118" text-anchor="end" fill="#D8DEE9" font-size="12">2</text>
+    <text x="20" y="170" text-anchor="end" fill="#D8DEE9" font-size="12">3</text>
+</svg>

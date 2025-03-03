@@ -1,0 +1,71 @@
+<svg viewBox="-250 -250 500 500" xmlns="http://www.w3.org/2000/svg">
+  <!-- Circle background -->
+  <circle cx="0" cy="0" r="200" fill="none" stroke="#4C566A" stroke-width="2"/>
+  
+  <!-- Key circles and text using Nord colors -->
+  <g id="keys">
+    <!-- C (12 o'clock) - Nord Frost 1 -->
+    <circle cx="0" cy="-200" r="40" fill="#8FBCBB" stroke="#4C566A"/>
+    <text x="0" y="-210" text-anchor="middle" font-size="16" fill="#2E3440">C major</text>
+    <text x="0" y="-190" text-anchor="middle" font-size="14" fill="#2E3440">a minor</text>
+    
+    <!-- G (1 o'clock) - Nord Frost 2 -->
+    <circle cx="100" cy="-173.2" r="40" fill="#88C0D0" stroke="#4C566A"/>
+    <text x="100" y="-183.2" text-anchor="middle" font-size="16" fill="#2E3440">G major</text>
+    <text x="100" y="-163.2" text-anchor="middle" font-size="14" fill="#2E3440">e minor</text>
+    
+    <!-- D (2 o'clock) - Nord Frost 3 -->
+    <circle cx="173.2" cy="-100" r="40" fill="#81A1C1" stroke="#4C566A"/>
+    <text x="173.2" y="-110" text-anchor="middle" font-size="16" fill="#2E3440">D major</text>
+    <text x="173.2" y="-90" text-anchor="middle" font-size="14" fill="#2E3440">b minor</text>
+    
+    <!-- A (3 o'clock) - Nord Frost 4 -->
+    <circle cx="200" cy="0" r="40" fill="#5E81AC" stroke="#4C566A"/>
+    <text x="200" y="-10" text-anchor="middle" font-size="16" fill="#ECEFF4">A major</text>
+    <text x="200" y="10" text-anchor="middle" font-size="14" fill="#ECEFF4">f# minor</text>
+    
+    <!-- E (4 o'clock) - Nord Aurora Red -->
+    <circle cx="173.2" cy="100" r="40" fill="#BF616A" stroke="#4C566A"/>
+    <text x="173.2" y="90" text-anchor="middle" font-size="16" fill="#ECEFF4">E major</text>
+    <text x="173.2" y="110" text-anchor="middle" font-size="14" fill="#ECEFF4">c# minor</text>
+    
+    <!-- B (5 o'clock) - Nord Aurora Orange -->
+    <circle cx="100" cy="173.2" r="40" fill="#D08770" stroke="#4C566A"/>
+    <text x="100" y="163.2" text-anchor="middle" font-size="16" fill="#2E3440">B major</text>
+    <text x="100" y="183.2" text-anchor="middle" font-size="14" fill="#2E3440">g# minor</text>
+    
+    <!-- F# (6 o'clock) - Nord Aurora Yellow -->
+    <circle cx="0" cy="200" r="40" fill="#EBCB8B" stroke="#4C566A"/>
+    <text x="0" y="190" text-anchor="middle" font-size="16" fill="#2E3440">F# major</text>
+    <text x="0" y="210" text-anchor="middle" font-size="14" fill="#2E3440">d# minor</text>
+    
+    <!-- Db/C# (7 o'clock) - Nord Aurora Green -->
+    <circle cx="-100" cy="173.2" r="40" fill="#A3BE8C" stroke="#4C566A"/>
+    <text x="-100" y="163.2" text-anchor="middle" font-size="16" fill="#2E3440">Db major</text>
+    <text x="-100" y="183.2" text-anchor="middle" font-size="14" fill="#2E3440">bb minor</text>
+    
+    <!-- Ab (8 o'clock) - Nord Aurora Purple -->
+    <circle cx="-173.2" cy="100" r="40" fill="#B48EAD" stroke="#4C566A"/>
+    <text x="-173.2" y="90" text-anchor="middle" font-size="16" fill="#2E3440">Ab major</text>
+    <text x="-173.2" y="110" text-anchor="middle" font-size="14" fill="#2E3440">f minor</text>
+    
+    <!-- Eb (9 o'clock) - Nord Snow Dark -->
+    <circle cx="-200" cy="0" r="40" fill="#4C566A" stroke="#4C566A"/>
+    <text x="-200" y="-10" text-anchor="middle" font-size="16" fill="#ECEFF4">Eb major</text>
+    <text x="-200" y="10" text-anchor="middle" font-size="14" fill="#ECEFF4">c minor</text>
+    
+    <!-- Bb (10 o'clock) - Nord Frost 2 -->
+    <circle cx="-173.2" cy="-100" r="40" fill="#88C0D0" stroke="#4C566A"/>
+    <text x="-173.2" y="-110" text-anchor="middle" font-size="16" fill="#2E3440">Bb major</text>
+    <text x="-173.2" y="-90" text-anchor="middle" font-size="14" fill="#2E3440">g minor</text>
+    
+    <!-- F (11 o'clock) - Nord Frost 1 -->
+    <circle cx="-100" cy="-173.2" r="40" fill="#8FBCBB" stroke="#4C566A"/>
+    <text x="-100" y="-183.2" text-anchor="middle" font-size="16" fill="#2E3440">F major</text>
+    <text x="-100" y="-163.2" text-anchor="middle" font-size="14" fill="#2E3440">d minor</text>
+  </g>
+
+  <!-- Center text -->
+  <text x="0" y="0" text-anchor="middle" font-size="20" font-weight="bold" fill="#2E3440">Circle of</text>
+  <text x="0" y="25" text-anchor="middle" font-size="20" font-weight="bold" fill="#2E3440">Fifths</text>
+</svg>

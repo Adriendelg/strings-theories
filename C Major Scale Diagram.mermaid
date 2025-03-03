@@ -1,0 +1,28 @@
+graph TD
+    A[Triad Construction] --> B[Bottom Third]
+    B --> C[Major Third]
+    B --> D[Minor Third]
+    
+    C --> E[Major Third + Major Third]
+    C --> F[Major Third + Minor Third]
+    D --> G[Minor Third + Major Third]
+    D --> H[Minor Third + Minor Third]
+    
+    E --> I[Augmented Triad]
+    F --> J[Major Triad]
+    G --> K[Minor Triad]
+    H --> L[Diminished Triad]
+    
+    I --> W[4 semitones + 4 semitones = 8 semitones]
+    J --> X[4 semitones + 3 semitones = 7 semitones]
+    K --> Y[3 semitones + 4 semitones = 7 semitones]
+    L --> Z[3 semitones + 3 semitones = 6 semitones]
+    
+    %% Aurora colors for different triad types
+    style I fill:#BF616A,color:#2E3440
+    style J fill:#A3BE8C,color:#2E3440
+    style K fill:#81A1C1,color:#2E3440
+    style L fill:#EBCB8B,color:#2E3440
+    
+    %% Linkstyle for connecting lines
+    linkStyle default stroke:#81A1C1,stroke-width:2px

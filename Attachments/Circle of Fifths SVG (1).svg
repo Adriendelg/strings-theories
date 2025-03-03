@@ -1,0 +1,83 @@
+<svg viewBox="-250 -250 500 500" xmlns="http://www.w3.org/2000/svg">
+  <!-- Circle background -->
+  <circle cx="0" cy="0" r="200" fill="none" stroke="#4C566A" stroke-width="2"/>
+  
+  <!-- Key circles and text -->
+  <g id="keys">
+    <!-- C (12 o'clock) - Strong Blue -->
+    <circle cx="0" cy="-200" r="40" fill="#5E81AC" stroke="#4C566A"/>
+    <text x="0" y="-210" text-anchor="middle" font-size="16" fill="#ECEFF4">C major</text>
+    <text x="0" y="-190" text-anchor="middle" font-size="14" fill="#ECEFF4">a minor</text>
+    <text x="0" y="-175" text-anchor="middle" font-size="12" fill="#ECEFF4">no ♯/♭</text>
+    
+    <!-- G (1 o'clock) - Blue-Green -->
+    <circle cx="100" cy="-173.2" r="40" fill="#6E98A4" stroke="#4C566A"/>
+    <text x="100" y="-183.2" text-anchor="middle" font-size="16" fill="#ECEFF4">G major</text>
+    <text x="100" y="-163.2" text-anchor="middle" font-size="14" fill="#ECEFF4">e minor</text>
+    <text x="100" y="-148.2" text-anchor="middle" font-size="12" fill="#ECEFF4">F♯</text>
+    
+    <!-- D (2 o'clock) - Teal -->
+    <circle cx="173.2" cy="-100" r="40" fill="#7EB09C" stroke="#4C566A"/>
+    <text x="173.2" y="-110" text-anchor="middle" font-size="16" fill="#2E3440">D major</text>
+    <text x="173.2" y="-90" text-anchor="middle" font-size="14" fill="#2E3440">b minor</text>
+    <text x="173.2" y="-75" text-anchor="middle" font-size="12" fill="#2E3440">F♯ C♯</text>
+    
+    <!-- A (3 o'clock) - Strong Green -->
+    <circle cx="200" cy="0" r="40" fill="#8EBE8C" stroke="#4C566A"/>
+    <text x="200" y="-10" text-anchor="middle" font-size="16" fill="#2E3440">A major</text>
+    <text x="200" y="10" text-anchor="middle" font-size="14" fill="#2E3440">f♯ minor</text>
+    <text x="200" y="25" text-anchor="middle" font-size="12" fill="#2E3440">F♯ C♯ G♯</text>
+    
+    <!-- E (4 o'clock) - Yellow-Green -->
+    <circle cx="173.2" cy="100" r="40" fill="#B1BE8C" stroke="#4C566A"/>
+    <text x="173.2" y="90" text-anchor="middle" font-size="16" fill="#2E3440">E major</text>
+    <text x="173.2" y="110" text-anchor="middle" font-size="14" fill="#2E3440">c♯ minor</text>
+    <text x="173.2" y="125" text-anchor="middle" font-size="12" fill="#2E3440">F♯ C♯ G♯ D♯</text>
+    
+    <!-- B (5 o'clock) - Yellow -->
+    <circle cx="100" cy="173.2" r="40" fill="#D4BE8C" stroke="#4C566A"/>
+    <text x="100" y="163.2" text-anchor="middle" font-size="16" fill="#2E3440">B major</text>
+    <text x="100" y="183.2" text-anchor="middle" font-size="14" fill="#2E3440">g♯ minor</text>
+    <text x="100" y="198.2" text-anchor="middle" font-size="12" fill="#2E3440">F♯ C♯ G♯ D♯ A♯</text>
+    
+    <!-- F# (6 o'clock) - Strong Orange -->
+    <circle cx="0" cy="200" r="40" fill="#D08770" stroke="#4C566A"/>
+    <text x="0" y="190" text-anchor="middle" font-size="16" fill="#2E3440">F♯ major</text>
+    <text x="0" y="210" text-anchor="middle" font-size="14" fill="#2E3440">d♯ minor</text>
+    <text x="0" y="225" text-anchor="middle" font-size="12" fill="#2E3440">F♯ C♯ G♯ D♯ A♯ E♯</text>
+    
+    <!-- Db (7 o'clock) - Red-Orange -->
+    <circle cx="-100" cy="173.2" r="40" fill="#C57B83" stroke="#4C566A"/>
+    <text x="-100" y="163.2" text-anchor="middle" font-size="16" fill="#ECEFF4">D♭ major</text>
+    <text x="-100" y="183.2" text-anchor="middle" font-size="14" fill="#ECEFF4">b♭ minor</text>
+    <text x="-100" y="198.2" text-anchor="middle" font-size="12" fill="#ECEFF4">B♭ E♭ A♭ D♭ G♭</text>
+    
+    <!-- Ab (8 o'clock) - Red -->
+    <circle cx="-173.2" cy="100" r="40" fill="#BA6E96" stroke="#4C566A"/>
+    <text x="-173.2" y="90" text-anchor="middle" font-size="16" fill="#ECEFF4">A♭ major</text>
+    <text x="-173.2" y="110" text-anchor="middle" font-size="14" fill="#ECEFF4">f minor</text>
+    <text x="-173.2" y="125" text-anchor="middle" font-size="12" fill="#ECEFF4">B♭ E♭ A♭ D♭</text>
+    
+    <!-- Eb (9 o'clock) - Strong Purple -->
+    <circle cx="-200" cy="0" r="40" fill="#B48EAD" stroke="#4C566A"/>
+    <text x="-200" y="-10" text-anchor="middle" font-size="16" fill="#ECEFF4">E♭ major</text>
+    <text x="-200" y="10" text-anchor="middle" font-size="14" fill="#ECEFF4">c minor</text>
+    <text x="-200" y="25" text-anchor="middle" font-size="12" fill="#ECEFF4">B♭ E♭ A♭</text>
+    
+    <!-- Bb (10 o'clock) - Blue-Purple -->
+    <circle cx="-173.2" cy="-100" r="40" fill="#9287AC" stroke="#4C566A"/>
+    <text x="-173.2" y="-110" text-anchor="middle" font-size="16" fill="#ECEFF4">B♭ major</text>
+    <text x="-173.2" y="-90" text-anchor="middle" font-size="14" fill="#ECEFF4">g minor</text>
+    <text x="-173.2" y="-75" text-anchor="middle" font-size="12" fill="#ECEFF4">B♭ E♭</text>
+    
+    <!-- F (11 o'clock) - Light Blue -->
+    <circle cx="-100" cy="-173.2" r="40" fill="#7584AC" stroke="#4C566A"/>
+    <text x="-100" y="-183.2" text-anchor="middle" font-size="16" fill="#ECEFF4">F major</text>
+    <text x="-100" y="-163.2" text-anchor="middle" font-size="14" fill="#ECEFF4">d minor</text>
+    <text x="-100" y="-148.2" text-anchor="middle" font-size="12" fill="#ECEFF4">B♭</text>
+  </g>
+
+  <!-- Center text -->
+  <text x="0" y="0" text-anchor="middle" font-size="20" font-weight="bold" fill="#2E3440">Circle of</text>
+  <text x="0" y="25" text-anchor="middle" font-size="20" font-weight="bold" fill="#2E3440">Fifths</text>
+</svg>

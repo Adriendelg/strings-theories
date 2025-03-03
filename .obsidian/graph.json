@@ -1,0 +1,79 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": false,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "tag:#technique  ",
+      "color": {
+        "a": 1,
+        "rgb": 11833005
+      }
+    },
+    {
+      "query": "tag:#musictheory  ",
+      "color": {
+        "a": 1,
+        "rgb": 15058569
+      }
+    },
+    {
+      "query": "tag:#practice  ",
+      "color": {
+        "a": 1,
+        "rgb": 10796174
+      }
+    },
+    {
+      "query": "tag:#posture  ",
+      "color": {
+        "a": 1,
+        "rgb": 9665405
+      }
+    },
+    {
+      "query": "tag:#gear  ",
+      "color": {
+        "a": 1,
+        "rgb": 12477803
+      }
+    },
+    {
+      "query": "tag:#fretboardtheory  ",
+      "color": {
+        "a": 1,
+        "rgb": 14402476
+      }
+    },
+    {
+      "query": "tag:#meta  ",
+      "color": {
+        "a": 1,
+        "rgb": 5543867
+      }
+    },
+    {
+      "query": "tag:#tunings  ",
+      "color": {
+        "a": 1,
+        "rgb": 12751434
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": false,
+  "centerStrength": 0.236663958841051,
+  "repelStrength": 10,
+  "linkStrength": 1,
+  "linkDistance": 106,
+  "scale": 0.7841768515902103,
+  "close": true
+}

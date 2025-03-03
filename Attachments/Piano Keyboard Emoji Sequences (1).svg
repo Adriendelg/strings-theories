@@ -1,0 +1,62 @@
+<svg viewBox="0 0 400 180" xmlns="http://www.w3.org/2000/svg">
+  <!-- White keys -->
+  <!-- C -->
+  <rect x="0" y="30" width="50" height="150" fill="white" stroke="#333"/>
+  <!-- D -->
+  <rect x="50" y="30" width="50" height="150" fill="white" stroke="#333"/>
+  <!-- E -->
+  <rect x="100" y="30" width="50" height="150" fill="white" stroke="#333"/>
+  <!-- F -->
+  <rect x="150" y="30" width="50" height="150" fill="white" stroke="#333"/>
+  <!-- G -->
+  <rect x="200" y="30" width="50" height="150" fill="white" stroke="#333"/>
+  <!-- A -->
+  <rect x="250" y="30" width="50" height="150" fill="white" stroke="#333"/>
+  <!-- B -->
+  <rect x="300" y="30" width="50" height="150" fill="white" stroke="#333"/>
+  <!-- C -->
+  <rect x="350" y="30" width="50" height="150" fill="white" stroke="#333"/>
+
+  <!-- Black keys -->
+  <!-- C#/Db -->
+  <rect x="35" y="30" width="30" height="90" fill="#333" stroke="#222"/>
+  <!-- D#/Eb -->
+  <rect x="85" y="30" width="30" height="90" fill="#333" stroke="#222"/>
+  <!-- F#/Gb -->
+  <rect x="185" y="30" width="30" height="90" fill="#333" stroke="#222"/>
+  <!-- G#/Ab -->
+  <rect x="235" y="30" width="30" height="90" fill="#333" stroke="#222"/>
+  <!-- A#/Bb -->
+  <rect x="285" y="30" width="30" height="90" fill="#333" stroke="#222"/>
+
+  <!-- Black key labels -->
+  <!-- C#/Db -->
+  <text x="50" y="65" text-anchor="middle" fill="white" font-size="10">C♯</text>
+  <text x="50" y="80" text-anchor="middle" fill="white" font-size="10">D♭</text>
+  
+  <!-- D#/Eb -->
+  <text x="100" y="65" text-anchor="middle" fill="white" font-size="10">D♯</text>
+  <text x="100" y="80" text-anchor="middle" fill="white" font-size="10">E♭</text>
+  
+  <!-- F#/Gb -->
+  <text x="200" y="65" text-anchor="middle" fill="white" font-size="10">F♯</text>
+  <text x="200" y="80" text-anchor="middle" fill="white" font-size="10">G♭</text>
+  
+  <!-- G#/Ab -->
+  <text x="250" y="65" text-anchor="middle" fill="white" font-size="10">G♯</text>
+  <text x="250" y="80" text-anchor="middle" fill="white" font-size="10">A♭</text>
+  
+  <!-- A#/Bb -->
+  <text x="300" y="65" text-anchor="middle" fill="white" font-size="10">A♯</text>
+  <text x="300" y="80" text-anchor="middle" fill="white" font-size="10">B♭</text>
+
+  <!-- White key labels -->
+  <text x="25" y="170" text-anchor="middle" fill="#333" font-size="14">C</text>
+  <text x="75" y="170" text-anchor="middle" fill="#333" font-size="14">D</text>
+  <text x="125" y="170" text-anchor="middle" fill="#333" font-size="14">E</text>
+  <text x="175" y="170" text-anchor="middle" fill="#333" font-size="14">F</text>
+  <text x="225" y="170" text-anchor="middle" fill="#333" font-size="14">G</text>
+  <text x="275" y="170" text-anchor="middle" fill="#333" font-size="14">A</text>
+  <text x="325" y="170" text-anchor="middle" fill="#333" font-size="14">B</text>
+  <text x="375" y="170" text-anchor="middle" fill="#333" font-size="14">C</text>
+</svg>

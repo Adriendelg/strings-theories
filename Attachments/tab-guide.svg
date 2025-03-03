@@ -1,0 +1,47 @@
+<svg viewBox="0 0 400 400" xmlns="http://www.w3.org/2000/svg">
+    <!-- Title -->
+    <text x="200" y="30" text-anchor="middle" font-size="20" fill="#ECEFF4" font-family="Arial">How to Read Guitar Tabs</text>
+    
+    <!-- Play order arrow (lowered) -->
+    <g transform="translate(50, 70)">
+        <path d="M 0 0 L 280 0 L 275 -5 M 280 0 L 275 5" 
+              stroke="#88C0D0" stroke-width="2" fill="none"/>
+        <text x="140" y="-15" text-anchor="middle" fill="#88C0D0" font-size="14">Play from left to right</text>
+    </g>
+    
+    <!-- Tab Staff -->
+    <g transform="translate(50, 100)">
+        <!-- String labels -->
+        <text x="-15" y="20" text-anchor="end" fill="#ECEFF4" font-size="14">e</text>
+        <text x="-15" y="44" text-anchor="end" fill="#ECEFF4" font-size="14">B</text>
+        <text x="-15" y="68" text-anchor="end" fill="#ECEFF4" font-size="14">G</text>
+        <text x="-15" y="92" text-anchor="end" fill="#ECEFF4" font-size="14">D</text>
+        <text x="-15" y="116" text-anchor="end" fill="#ECEFF4" font-size="14">A</text>
+        <text x="-15" y="140" text-anchor="end" fill="#ECEFF4" font-size="14">E</text>
+        
+        <!-- Tab lines -->
+        <line x1="0" y1="20" x2="300" y2="20" stroke="#D8DEE9" stroke-width="1"/>
+        <line x1="0" y1="44" x2="300" y2="44" stroke="#D8DEE9" stroke-width="1"/>
+        <line x1="0" y1="68" x2="300" y2="68" stroke="#D8DEE9" stroke-width="1"/>
+        <line x1="0" y1="92" x2="300" y2="92" stroke="#D8DEE9" stroke-width="1"/>
+        <line x1="0" y1="116" x2="300" y2="116" stroke="#D8DEE9" stroke-width="1"/>
+        <line x1="0" y1="140" x2="300" y2="140" stroke="#D8DEE9" stroke-width="1"/>
+        
+        <!-- Example tab numbers (centered on strings) -->
+        <text x="40" y="97" text-anchor="middle" fill="#81A1C1" font-size="16">2</text>
+        <text x="80" y="97" text-anchor="middle" fill="#81A1C1" font-size="16">4</text>
+        <text x="120" y="73" text-anchor="middle" fill="#81A1C1" font-size="16">0</text>
+        <text x="160" y="73" text-anchor="middle" fill="#81A1C1" font-size="16">2</text>
+        <text x="200" y="49" text-anchor="middle" fill="#81A1C1" font-size="16">1</text>
+        <text x="240" y="49" text-anchor="middle" fill="#81A1C1" font-size="16">3</text>
+    </g>
+    
+    <!-- Key Points -->
+    <g transform="translate(50, 280)">
+        <text x="150" y="0" text-anchor="middle" fill="#ECEFF4" font-size="16">Key Points:</text>
+        <text x="150" y="30" text-anchor="middle" fill="#ECEFF4" font-size="14">• Each line represents a string (high e to low E)</text>
+        <text x="150" y="55" text-anchor="middle" fill="#ECEFF4" font-size="14">• Numbers show which fret to play</text>
+        <text x="150" y="80" text-anchor="middle" fill="#ECEFF4" font-size="14">• 0 means play the open string</text>
+        <text x="150" y="105" text-anchor="middle" fill="#ECEFF4" font-size="14">• Numbers are played in sequence from left to right</text>
+    </g>
+</svg>

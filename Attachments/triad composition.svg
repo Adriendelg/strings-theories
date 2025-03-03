@@ -1,0 +1,75 @@
+<svg viewBox="0 0 800 450" xmlns="http://www.w3.org/2000/svg">
+    <!-- Major Triad -->
+    <g transform="translate(100,200)">
+        <circle cx="0" cy="0" r="20" fill="#A3BE8C" stroke="#D8DEE9" stroke-width="2"/>
+        <text x="0" y="5" text-anchor="middle" fill="#ECEFF4" font-family="Arial">R</text>
+        
+        <circle cx="0" cy="-60" r="20" fill="#A3BE8C" stroke="#D8DEE9" stroke-width="2"/>
+        <text x="0" y="-55" text-anchor="middle" fill="#ECEFF4" font-family="Arial">M3</text>
+        
+        <circle cx="0" cy="-120" r="20" fill="#A3BE8C" stroke="#D8DEE9" stroke-width="2"/>
+        <text x="0" y="-115" text-anchor="middle" fill="#ECEFF4" font-family="Arial">P5</text>
+        
+        <text x="0" y="40" text-anchor="middle" fill="#E5E9F0" font-family="Arial">Major</text>
+        <text x="-40" y="-30" fill="#88C0D0" font-family="Arial">Major Third</text>
+        <text x="-40" y="-90" fill="#88C0D0" font-family="Arial">Minor Third</text>
+    </g>
+
+    <!-- Minor Triad -->
+    <g transform="translate(300,200)">
+        <circle cx="0" cy="0" r="20" fill="#81A1C1" stroke="#D8DEE9" stroke-width="2"/>
+        <text x="0" y="5" text-anchor="middle" fill="#ECEFF4" font-family="Arial">R</text>
+        
+        <circle cx="0" cy="-60" r="20" fill="#81A1C1" stroke="#D8DEE9" stroke-width="2"/>
+        <text x="0" y="-55" text-anchor="middle" fill="#ECEFF4" font-family="Arial">m3</text>
+        
+        <circle cx="0" cy="-120" r="20" fill="#81A1C1" stroke="#D8DEE9" stroke-width="2"/>
+        <text x="0" y="-115" text-anchor="middle" fill="#ECEFF4" font-family="Arial">P5</text>
+        
+        <text x="0" y="40" text-anchor="middle" fill="#E5E9F0" font-family="Arial">Minor</text>
+        <text x="-40" y="-30" fill="#88C0D0" font-family="Arial">Minor Third</text>
+        <text x="-40" y="-90" fill="#88C0D0" font-family="Arial">Major Third</text>
+    </g>
+
+    <!-- Diminished Triad -->
+    <g transform="translate(500,200)">
+        <circle cx="0" cy="0" r="20" fill="#EBCB8B" stroke="#D8DEE9" stroke-width="2"/>
+        <text x="0" y="5" text-anchor="middle" fill="#2E3440" font-family="Arial">R</text>
+        
+        <circle cx="0" cy="-60" r="20" fill="#EBCB8B" stroke="#D8DEE9" stroke-width="2"/>
+        <text x="0" y="-55" text-anchor="middle" fill="#2E3440" font-family="Arial">m3</text>
+        
+        <circle cx="0" cy="-120" r="20" fill="#EBCB8B" stroke="#D8DEE9" stroke-width="2"/>
+        <text x="0" y="-115" text-anchor="middle" fill="#2E3440" font-family="Arial">d5</text>
+        
+        <text x="0" y="40" text-anchor="middle" fill="#E5E9F0" font-family="Arial">Diminished</text>
+        <text x="-40" y="-30" fill="#88C0D0" font-family="Arial">Minor Third</text>
+        <text x="-40" y="-90" fill="#88C0D0" font-family="Arial">Minor Third</text>
+    </g>
+
+    <!-- Augmented Triad -->
+    <g transform="translate(700,200)">
+        <circle cx="0" cy="0" r="20" fill="#BF616A" stroke="#D8DEE9" stroke-width="2"/>
+        <text x="0" y="5" text-anchor="middle" fill="#ECEFF4" font-family="Arial">R</text>
+        
+        <circle cx="0" cy="-60" r="20" fill="#BF616A" stroke="#D8DEE9" stroke-width="2"/>
+        <text x="0" y="-55" text-anchor="middle" fill="#ECEFF4" font-family="Arial">M3</text>
+        
+        <circle cx="0" cy="-120" r="20" fill="#BF616A" stroke="#D8DEE9" stroke-width="2"/>
+        <text x="0" y="-115" text-anchor="middle" fill="#ECEFF4" font-family="Arial">A5</text>
+        
+        <text x="0" y="40" text-anchor="middle" fill="#E5E9F0" font-family="Arial">Augmented</text>
+        <text x="-40" y="-30" fill="#88C0D0" font-family="Arial">Major Third</text>
+        <text x="-40" y="-90" fill="#88C0D0" font-family="Arial">Major Third</text>
+    </g>
+
+    <!-- Legend -->
+    <g transform="translate(50,350)" font-family="Arial" fill="#D8DEE9">
+        <text x="0" y="0">R = Root</text>
+        <text x="0" y="25">M3 = Major Third</text>
+        <text x="0" y="50">m3 = Minor Third</text>
+        <text x="250" y="0">P5 = Perfect Fifth</text>
+        <text x="250" y="25">d5 = Diminished Fifth</text>
+        <text x="250" y="50">A5 = Augmented Fifth</text>
+    </g>
+</svg>

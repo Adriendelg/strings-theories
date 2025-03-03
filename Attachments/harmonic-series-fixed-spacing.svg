@@ -1,0 +1,81 @@
+<svg viewBox="0 0 800 500" xmlns="http://www.w3.org/2000/svg">
+    <!-- Title -->
+    <text x="400" y="40" text-anchor="middle" font-family="Arial" font-size="24" fill="#2E3440">Natural Harmonics on a Guitar String</text>
+    <text x="400" y="70" text-anchor="middle" font-family="Arial" font-size="16" fill="#4C566A">(Example for a string tuned to E)</text>
+
+    <!-- Harmonic Labels Top -->
+    <g font-family="Arial" font-size="14">
+        <!-- 2nd harmonic -->
+        <text x="400" y="120" text-anchor="middle" fill="#2E3440">2nd Harmonic</text>
+        <text x="400" y="140" text-anchor="middle" fill="#5E81AC">E (octave)</text>
+        <text x="400" y="160" text-anchor="middle" fill="#4C566A">× 2</text>
+
+        <!-- 3rd harmonic -->
+        <text x="267" y="120" text-anchor="middle" fill="#2E3440">3rd Harmonic</text>
+        <text x="267" y="140" text-anchor="middle" fill="#81A1C1">B (fifth + octave)</text>
+        <text x="267" y="160" text-anchor="middle" fill="#4C566A">× 3</text>
+
+        <!-- 5th harmonic -->
+        <text x="130" y="120" text-anchor="middle" fill="#2E3440">5th Harmonic</text>
+        <text x="130" y="140" text-anchor="middle" fill="#8FBCBB">G# (third + 2 octaves)</text>
+        <text x="130" y="160" text-anchor="middle" fill="#4C566A">× 5</text>
+    </g>
+
+    <!-- String -->
+    <line x1="50" y1="250" x2="750" y2="250" stroke="#D8DEE9" stroke-width="2"/>
+
+    <!-- Nut and Bridge -->
+    <rect x="40" y="230" width="10" height="40" fill="#3B4252"/>
+    <rect x="750" y="230" width="10" height="40" fill="#3B4252"/>
+    
+    <!-- Fret numbers - Adjusted spacing -->
+    <g font-family="Arial" font-size="12" fill="#4C566A">
+        <text x="130" y="280" text-anchor="middle">4</text>
+        <text x="170" y="280" text-anchor="middle">5</text>
+        <text x="267" y="280" text-anchor="middle">7</text>
+        <text x="320" y="280" text-anchor="middle">9</text>
+        <text x="400" y="280" text-anchor="middle">12</text>
+        <text x="480" y="280" text-anchor="middle">16</text>
+        <text x="560" y="280" text-anchor="middle">19</text>
+        <text x="670" y="280" text-anchor="middle">24</text>
+    </g>
+
+    <!-- Harmonic Labels Bottom -->
+    <g font-family="Arial" font-size="14">
+        <!-- 4th harmonic -->
+        <text x="170" y="330" text-anchor="middle" fill="#2E3440">4th Harmonic</text>
+        <text x="170" y="350" text-anchor="middle" fill="#88C0D0">E (2 octaves)</text>
+        <text x="170" y="370" text-anchor="middle" fill="#4C566A">× 4</text>
+
+        <!-- 6th harmonic -->
+        <text x="100" y="400" text-anchor="middle" fill="#2E3440">6th Harmonic</text>
+        <text x="100" y="420" text-anchor="middle" fill="#A3BE8C">B (fifth + 2 octaves)</text>
+        <text x="100" y="440" text-anchor="middle" fill="#4C566A">× 6</text>
+    </g>
+
+    <!-- Harmonic Nodes - Adjusted positions to match fret numbers -->
+    <!-- 2nd harmonic -->
+    <circle cx="400" cy="250" r="8" fill="#5E81AC"/>
+
+    <!-- 3rd harmonic -->
+    <circle cx="267" cy="250" r="8" fill="#81A1C1"/>
+    <circle cx="560" cy="250" r="8" fill="#81A1C1"/>
+
+    <!-- 4th harmonic -->
+    <circle cx="170" cy="250" r="8" fill="#88C0D0"/>
+    <circle cx="400" cy="250" r="8" fill="#88C0D0"/>
+    <circle cx="670" cy="250" r="8" fill="#88C0D0"/>
+
+    <!-- 5th harmonic -->
+    <circle cx="130" cy="250" r="6" fill="#8FBCBB"/>
+    <circle cx="320" cy="250" r="6" fill="#8FBCBB"/>
+    <circle cx="480" cy="250" r="6" fill="#8FBCBB"/>
+    <circle cx="670" cy="250" r="6" fill="#8FBCBB"/>
+
+    <!-- 6th harmonic -->
+    <circle cx="100" cy="250" r="6" fill="#A3BE8C"/>
+    <circle cx="267" cy="250" r="6" fill="#A3BE8C"/>
+    <circle cx="400" cy="250" r="6" fill="#A3BE8C"/>
+    <circle cx="560" cy="250" r="6" fill="#A3BE8C"/>
+    <circle cx="670" cy="250" r="6" fill="#A3BE8C"/>
+</svg>
