@@ -1084,7 +1084,7 @@
         }
       },
       "2025-03-04": {
-        "totalDelta": 254,
+        "totalDelta": 562,
         "files": {
           "Garden/scales.md": {
             "initial": 318,
@@ -1092,7 +1092,7 @@
           },
           "Garden/tetrads.md": {
             "initial": 340,
-            "current": 340
+            "current": 341
           },
           "Garden/two chords cadences.md": {
             "initial": 374,
@@ -1129,6 +1129,34 @@
           "Garden/harmonic minor scale.md": {
             "initial": 0,
             "current": 169
+          },
+          "Garden/spread voicing.md": {
+            "initial": 551,
+            "current": 551
+          },
+          "Garden/basic guitar maintenance.md": {
+            "initial": 424,
+            "current": 424
+          },
+          "Garden/right hand fingers exercises.md": {
+            "initial": 271,
+            "current": 271
+          },
+          "Garden/modern fingerstyle.md": {
+            "initial": 253,
+            "current": 264
+          },
+          "Garden/strap.md": {
+            "initial": 287,
+            "current": 287
+          },
+          "Garden/tapping.md": {
+            "initial": 0,
+            "current": 280
+          },
+          "Garden/extended techniques.md": {
+            "initial": 0,
+            "current": 16
           }
         }
       }
