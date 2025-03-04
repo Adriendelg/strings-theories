@@ -30,13 +30,13 @@
             "state": {
               "type": "webviewer",
               "state": {
-                "url": "https://claude.ai/chat/5bd6ae10-1ac8-4354-859b-5bfd10df47af",
-                "title": "Whole Note Rhythm Divisions - Claude",
+                "url": "https://claude.ai/chat/50ac718d-221b-4186-8e71-c2f75bc4c958",
+                "title": "Interval Structure of Harmonic Minor Scale - Claude",
                 "mode": "webview"
               },
               "pinned": true,
               "icon": "globe-2",
-              "title": "Whole Note Rhythm Divisions - Claude"
+              "title": "Interval Structure of Harmonic Minor Scale - Claude"
             }
           },
           {
@@ -78,9 +78,79 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
+          },
+          {
+            "id": "92e4cf601715d5e4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Garden/tetrads.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "tetrads"
+            }
+          },
+          {
+            "id": "59ff69b76c1d0871",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Garden/harmonic minor scale.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "harmonic minor scale"
+            }
+          },
+          {
+            "id": "9783a5581c56c44c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Garden/accidentals.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "accidentals"
+            }
+          },
+          {
+            "id": "98a87a7dd6a235c9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Garden/enharmonics.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "enharmonics"
+            }
+          },
+          {
+            "id": "a65d3482711c2ade",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Garden/major scale.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "major scale"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -258,6 +328,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Garden/harmonic minor scale.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -342,7 +413,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Graph of harmonic minor scale"
             }
           }
         ]
@@ -370,12 +441,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6ef9b7b3abc7683b",
+  "active": "59ff69b76c1d0871",
   "lastOpenFiles": [
+    "Garden/accidentals.md",
+    "Garden/harmonic minor scale.md",
+    "Garden/major scale.md",
+    "Garden/enharmonics.md",
+    "Garden/intervals.md",
+    "dimimished 7th.md",
+    "Attachments/harmonic-minor-intervals.svg",
+    "Garden/natural minor scale harmonisation in triads.md",
+    "Garden/dominant.md",
+    "Garden/tetrads.md",
+    "Garden/scales.md",
     "git",
     "tetracords.md",
     "Untitled.md",
-    "Garden/scales.md",
     "Garden/form.md",
     "form.md",
     "Garden/my gear.md",
@@ -383,7 +464,6 @@
     "Garden/major triads in standard tuning.md",
     "major triads in P4.md",
     "scales.md",
-    "Garden/major scale.md",
     "Attachments/Pasted image 20250210091014.png",
     "Garden/right hand fingers exercises.md",
     "Garden/the staff.md",
@@ -392,13 +472,6 @@
     "Garden/basic rhythm notation.md",
     "Garden/time signature.md",
     "Garden/inversions.md",
-    "Garden/triads.md",
-    "Garden/musical literacy.md",
-    "Garden/the 12 semitones.md",
-    "Garden/why we need both flats and sharps.md",
-    "Garden/intervals.md",
-    "Garden/pitch.md",
-    "Garden/music theory.md",
     "Attachments/tab-guide.svg",
     "Attachments/chord-diagram-guide.svg",
     "Attachments/gptchorddiagram.svg",
@@ -407,7 +480,6 @@
     "Attachments/Hand Fingering Labels.svg",
     "Attachments/Pasted image 20250210094053.png",
     "Attachments/Pasted image 20250210094135.png",
-    "Attachments/Pasted image 20250210094109.png",
     "Attachments/tetrad-intervals.mermaid",
     "Attachments/txtsvg/fretboard.txt",
     "Attachments/txtsvg/fretboard.txtz",

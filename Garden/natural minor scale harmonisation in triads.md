@@ -3,8 +3,15 @@ tags:
   - 🪴
   - musictheory
   - basics
-aliases:
-  - natural minor
+aliases: 
+upstream:
+  - "[[scales]]"
+  - "[[functions]]"
+downstream: 
+aligned:
+  - "[[major scale harmonisation in triads]]"
+contrasting:
+  - "[[harmonic minor scale]]"
 ---
 just like the [[major scale]], we can harmonise the [[relative minor]] scale in triads
 

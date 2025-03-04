@@ -40,7 +40,7 @@ Different chords from the scale play different roles in [[tonal music]], here ar
 
 
 # how about the relative minor scale?
-[[minor scale harmonisation in triads]]
+[[natural minor scale harmonisation in triads]]
 
 # going further
 There are a lot of other ways to harmonise a scale than just [[triads]], first we can have a look at what happens when we add another third on top of the existing triad structure: [[major scale harmonisation in tetrads]] 

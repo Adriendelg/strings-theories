@@ -67,7 +67,7 @@ Tetrads have a more complex and rich sound than [[triads]] and thus are used mor
 
 The most used tetrads are:
 - [[Major 7]]
-- [[dominant 7]]
+- [[dominant]]
 - [[minor 7]]
 - [[half diminished]]
 

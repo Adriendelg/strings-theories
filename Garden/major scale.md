@@ -3,9 +3,10 @@ tags:
   - 🌱
   - basics
   - musictheory
-aliases:
-  - ionian
+aliases: []
 formula: 221 2 221
+function:
+  - T
 ---
 The major scale is one of the basic building blocks of music, it is the tool used for most of [[tonal music]]. It's a specific arrangement of tones and [[the 12 semitones|semitones]] forming a series of 7 consecutive notes. We call the starting note of the scale the [[tonic]]. 
  
@@ -27,3 +28,14 @@ we can construct chords by piling up notes from the scale, this is called harmon
 
 - [[major scale harmonisation in triads]]
 - [[major scale harmonisation in tetrads]]
+
+# modes of the major scale 
+- [[ionian]]
+- [[dorian]]
+- [[phrygian]]
+- [[lydian]]
+- [[mixolydian]]
+- [[aeolian]]
+- [[locrian]]
+
+jz

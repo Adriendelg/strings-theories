@@ -30,17 +30,6 @@
     }
   ],
   "editor:save-file": [],
-  "vimium:show-markers": [
-    {
-      "modifiers": [
-        "Alt",
-        "Ctrl",
-        "Mod",
-        "Shift"
-      ],
-      "key": "F"
-    }
-  ],
   "switcher:open": [],
   "darlal-switcher-plus:switcher-plus:open": [
     {
@@ -85,6 +74,45 @@
         "Alt"
       ],
       "key": "G"
+    }
+  ],
+  "vimium:show-markers": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "F"
+    }
+  ],
+  "editor:open-search": [],
+  "workspace:next-tab": [
+    {
+      "modifiers": [
+        "Ctrl"
+      ],
+      "key": "Tab"
+    },
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "L"
+    }
+  ],
+  "editor:toggle-checklist-status": [],
+  "workspace:previous-tab": [
+    {
+      "modifiers": [
+        "Ctrl",
+        "Shift"
+      ],
+      "key": "Tab"
+    },
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "H"
     }
   ]
 }

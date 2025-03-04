@@ -3,7 +3,16 @@ tags:
   - 🪴
   - musictheory
 function:
-  - SD
+  - D
+aliases:
+  - dominant 7
+upstream:
+  - "[[tetrads]]"
+  - "[[major scale harmonisation in tetrads]]"
+  - "[[harmonic minor scale harmonisation in tetrads]]"
+downstream: 
+aligned: 
+contrasting:
 ---
 The role of the dominant is to create a strong tension, a pull towards the [[tonic|tonic chord]]. It features dissonances that can be resolved by going back to the [[tonic]]. It is often preceded by a [[sub dominant]] to prepare the tension of the dominant. 
 

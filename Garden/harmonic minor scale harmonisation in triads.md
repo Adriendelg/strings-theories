@@ -4,7 +4,7 @@ tags:
   - musictheory
   - basics
 ---
-When harmonising the modified [[minor scale harmonisation in triads|natural minor]] now called the [[harmonic minor scale]] in triads we observe this series:
+When harmonising the modified [[natural minor scale harmonisation in triads|natural minor]] now called the [[harmonic minor scale]] in triads we observe this series:
 - i min
 - ii dim
 - III M

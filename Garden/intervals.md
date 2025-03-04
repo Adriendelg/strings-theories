@@ -24,7 +24,7 @@ Here is a table of all useful intervals:
 | 7          | [[Perfect 5th]]    | P5                  | C to G         | Three and half steps |     |
 | 8          | [[minor 6th]]      | m6                  | C to Ab        | Four whole steps     |     |
 | 9          | [[Major 6th]]      | M6                  | C to A         | Four and half steps  |     |
-| 9          | [[dimimished 7th]] | dim7                | C to B𝄫       | Four and half step   |     |
+| 9          | [[diminished 7th]] | dim7                | C to B𝄫       | Four and half step   |     |
 | 10         | [[minor 7th]]      | m7                  | C to Bb        | Five whole steps     |     |
 | 11         | [[Major 7th]]      | M7                  | C to B         | Five and half steps  |     |
 | 12         | [[Perfect 8ve]]    | P8                  | C to C         | Six whole steps      |     |
