@@ -71,12 +71,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "capo.md",
+                "file": "Garden/extended techniques.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "capo"
+              "title": "extended techniques"
             }
           }
         ],
@@ -258,7 +258,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "capo.md",
+                "file": "Garden/extended techniques.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -343,7 +343,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of capo"
+              "title": "Graph of extended techniques"
             }
           }
         ]
@@ -373,8 +373,10 @@
   },
   "active": "4afdeac2281e0e1f",
   "lastOpenFiles": [
-    "Garden/extended techniques.md",
+    "follow your curiosity.md",
+    "Garden/capo.md",
     "capo.md",
+    "Garden/extended techniques.md",
     "Garden/tetrads.md",
     "Garden/strap.md",
     "Garden/tapping.md",
@@ -399,8 +401,6 @@
     "form.md",
     "Garden/my gear.md",
     "Garden/major triads in standard tuning.md",
-    "major triads in P4.md",
-    "scales.md",
     "Attachments/Pasted image 20250210091014.png",
     "Attachments/tab-guide.svg",
     "Attachments/chord-diagram-guide.svg",
