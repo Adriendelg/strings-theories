@@ -4,6 +4,11 @@ tags:
   - musictheory
 aliases:
   - seventh chords
+upstream:
+  - "[[triads]]"
+downstream: 
+aligned: 
+contrasting:
 ---
 Tetrads are a [[triads|triad]] on which we piled another third, it is a stack of 3 thirds. 
 

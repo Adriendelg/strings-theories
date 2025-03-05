@@ -71,40 +71,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Garden/extended techniques.md",
+                "file": "capo.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "extended techniques"
-            }
-          },
-          {
-            "id": "dc3e631ddd350226",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Garden/strap.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "strap"
-            }
-          },
-          {
-            "id": "92e4cf601715d5e4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Garden/tetrads.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "tetrads"
+              "title": "capo"
             }
           }
         ],
@@ -286,7 +258,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Garden/extended techniques.md",
+                "file": "capo.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -371,7 +343,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of extended techniques"
+              "title": "Graph of capo"
             }
           }
         ]
@@ -401,11 +373,12 @@
   },
   "active": "4afdeac2281e0e1f",
   "lastOpenFiles": [
+    "Garden/extended techniques.md",
+    "capo.md",
+    "Garden/tetrads.md",
+    "Garden/strap.md",
     "Garden/tapping.md",
     "Garden/spread voicing.md",
-    "Garden/strap.md",
-    "Garden/tetrads.md",
-    "Garden/extended techniques.md",
     "Garden/modern fingerstyle.md",
     "Garden/right hand fingers exercises.md",
     "Garden/basic guitar maintenance.md",
@@ -429,7 +402,6 @@
     "major triads in P4.md",
     "scales.md",
     "Attachments/Pasted image 20250210091014.png",
-    "Garden/the staff.md",
     "Attachments/tab-guide.svg",
     "Attachments/chord-diagram-guide.svg",
     "Attachments/gptchorddiagram.svg",
