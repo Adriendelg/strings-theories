@@ -70,5 +70,5 @@ K:C
 ```
 
 
-3. second variation, much wider [[intervals|interval]] leap this time hitting the [[sub dominant]] IV chord and ending on the [[dominant]] for tension
+3. second variation, much wider [[intervals|interval]] leap this time hitting the [[sub dominant]] IV chord and ending on the [[dominant]] for tensionπp
 
