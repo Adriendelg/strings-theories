@@ -57,12 +57,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "melody.md",
+                "file": "Inbox/Sprouts.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "melody"
+              "title": "Sprouts"
             }
           }
         ],
@@ -244,7 +244,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "melody.md",
+                "file": "Inbox/Sprouts.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -329,7 +329,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of melody"
+              "title": "Graph of Sprouts"
             }
           }
         ]
@@ -357,10 +357,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6ef9b7b3abc7683b",
+  "active": "33a57192b34a3f0d",
   "lastOpenFiles": [
-    "Inbox",
     "melody.md",
+    "Inbox/Sprouts.md",
+    "Inbox",
     "Garden/spread voicing.md",
     "Garden/follow your curiosity.md",
     "Garden/extended techniques.md",
@@ -403,7 +404,6 @@
     "Attachments/untitled folder",
     "Templates",
     "C Major Scale Diagram.mermaid",
-    "Playground",
-    "Library"
+    "Playground"
   ]
 }
