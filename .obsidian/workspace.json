@@ -26,13 +26,13 @@
             "state": {
               "type": "webviewer",
               "state": {
-                "url": "https://claude.ai/chat/54c5a2ed-8987-4600-beaa-c7ae1e0ad3da",
-                "title": "Happy Birthday Melody in ABC Notation - Claude",
+                "url": "https://claude.ai/chat/4aca1a3b-28f8-4ff4-971c-6a1c3e7fdeb6",
+                "title": "Adding Harmonic Accompaniment to Melodic Motif - Claude",
                 "mode": "webview"
               },
               "pinned": true,
               "icon": "globe-2",
-              "title": "Happy Birthday Melody in ABC Notation - Claude"
+              "title": "Adding Harmonic Accompaniment to Melodic Motif - Claude"
             }
           },
           {
@@ -43,12 +43,12 @@
               "type": "webviewer",
               "state": {
                 "url": "https://mammouth.ai/app/a/2876/c/574838",
-                "title": "Mammouth AI",
+                "title": "mammouth.ai/app/a/2876/c/574838",
                 "mode": "webview"
               },
               "pinned": true,
               "icon": "globe-2",
-              "title": "Mammouth AI"
+              "title": "mammouth.ai/app/a/2876/c/574838"
             }
           },
           {
