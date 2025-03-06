@@ -1,0 +1,7277 @@
+{
+  "settings": {
+    "useAdvancedFormatting": false,
+    "countType": "note",
+    "countConfig": {
+      "customSuffix": "n",
+      "$sessionCountType": "word"
+    },
+    "countType2": "word",
+    "countConfig2": {
+      "$sessionCountType": "word",
+      "customSuffix": "w"
+    },
+    "countType3": "link",
+    "countConfig3": {
+      "$sessionCountType": "word",
+      "customSuffix": "x"
+    },
+    "pipeSeparator": "|",
+    "abbreviateDescriptions": true,
+    "alignment": "inline",
+    "showSameCountsOnFolders": true,
+    "folderCountType": "word",
+    "folderCountConfig": {
+      "customSuffix": "w",
+      "$sessionCountType": "word"
+    },
+    "folderCountType2": "none",
+    "folderCountConfig2": {
+      "$sessionCountType": "word"
+    },
+    "folderCountType3": "none",
+    "folderCountConfig3": {
+      "$sessionCountType": "word"
+    },
+    "folderPipeSeparator": "|",
+    "folderAbbreviateDescriptions": false,
+    "folderAlignment": "inline",
+    "showSameCountsOnRoot": true,
+    "rootCountType": "word",
+    "rootCountConfig": {
+      "customSuffix": "w",
+      "$sessionCountType": "word"
+    },
+    "rootCountType2": "none",
+    "rootCountConfig2": {
+      "$sessionCountType": "word"
+    },
+    "rootCountType3": "none",
+    "rootCountConfig3": {
+      "$sessionCountType": "word"
+    },
+    "rootPipeSeparator": "|",
+    "rootAbbreviateDescriptions": false,
+    "showAdvanced": false,
+    "wordsPerMinute": 265,
+    "charsPerMinute": 500,
+    "wordsPerPage": 300,
+    "charsPerPage": 1500,
+    "charsPerPageIncludesWhitespace": false,
+    "characterCountType": "AllCharacters",
+    "pageCountType": "ByWords",
+    "includeDirectories": "",
+    "excludeComments": false,
+    "excludeCodeBlocks": false,
+    "excludeNonVisibleLinkPortions": false,
+    "excludeFootnotes": false,
+    "momentDateFormat": "",
+    "debugMode": false
+  },
+  "cachedCounts": {
+    "melody.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 389,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 1.2966666666666666,
+      "characterCount": 2395,
+      "nonWhitespaceCharacterCount": 1956,
+      "readingTimeInMinutes": 1.4679245283018867,
+      "linkCount": 16,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1741255300679,
+      "modifiedDate": 1741286406211,
+      "sizeInBytes": 2530,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 1.2966666666666666,
+        "wordCount": 389,
+        "characterCount": 2395,
+        "nonWhitespaceCharacterCount": 1956
+      },
+      "frontmatter": {
+        "tags": [
+          "🌱",
+          "musictheory"
+        ],
+        "aliases": null,
+        "upstream": [
+          "[[music theory]]"
+        ],
+        "downstream": null,
+        "aligned": null,
+        "contrasting": [
+          "[[harmony]]"
+        ]
+      }
+    },
+    "Templates/tuning template.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 8,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.02666666666666667,
+      "characterCount": 98,
+      "nonWhitespaceCharacterCount": 75,
+      "readingTimeInMinutes": 0.03018867924528302,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1737655338611,
+      "modifiedDate": 1738710470425,
+      "sizeInBytes": 141,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.02666666666666667,
+        "wordCount": 8,
+        "characterCount": 98,
+        "nonWhitespaceCharacterCount": 75
+      },
+      "frontmatter": {
+        "tags": [
+          "🌱",
+          "tunings"
+        ],
+        "aliases": null
+      }
+    },
+    "Templates/scale template.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 17,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.056666666666666664,
+      "characterCount": 203,
+      "nonWhitespaceCharacterCount": 158,
+      "readingTimeInMinutes": 0.06415094339622641,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1737655359674,
+      "modifiedDate": 1738710203425,
+      "sizeInBytes": 257,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.056666666666666664,
+        "wordCount": 17,
+        "characterCount": 203,
+        "nonWhitespaceCharacterCount": 158
+      },
+      "frontmatter": {
+        "tags": [
+          "🌱",
+          "#scale"
+        ],
+        "function": null,
+        "system": null
+      }
+    },
+    "Templates/new.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0,
+      "characterCount": 2,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1738749463013,
+      "modifiedDate": 1738749536285,
+      "sizeInBytes": 81,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 2,
+        "nonWhitespaceCharacterCount": 0
+      },
+      "frontmatter": {
+        "tags": [
+          "🌱"
+        ],
+        "aliases": null,
+        "upstream": null,
+        "downstream": null,
+        "aligned": null,
+        "contrasting": null
+      }
+    },
+    "Templates/chord template.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 8,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.02666666666666667,
+      "characterCount": 96,
+      "nonWhitespaceCharacterCount": 72,
+      "readingTimeInMinutes": 0.03018867924528302,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1737655435468,
+      "modifiedDate": 1737711026619,
+      "sizeInBytes": 147,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.02666666666666667,
+        "wordCount": 8,
+        "characterCount": 96,
+        "nonWhitespaceCharacterCount": 72
+      },
+      "frontmatter": {
+        "tags": [
+          "🌱",
+          "chord"
+        ],
+        "function": null,
+        "voicing": null
+      }
+    },
+    "Templates/abcmusictemplate.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 2,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.006666666666666667,
+      "characterCount": 38,
+      "nonWhitespaceCharacterCount": 33,
+      "readingTimeInMinutes": 0.007547169811320755,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1740473694810,
+      "modifiedDate": 1740474097037,
+      "sizeInBytes": 38,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.006666666666666667,
+        "wordCount": 2,
+        "characterCount": 38,
+        "nonWhitespaceCharacterCount": 33
+      }
+    },
+    "Meta/why.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 350,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 1.1666666666666667,
+      "characterCount": 1964,
+      "nonWhitespaceCharacterCount": 1606,
+      "readingTimeInMinutes": 1.320754716981132,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1737154204069,
+      "modifiedDate": 1737929478873,
+      "sizeInBytes": 1999,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 1.1666666666666667,
+        "wordCount": 350,
+        "characterCount": 1964,
+        "nonWhitespaceCharacterCount": 1606
+      },
+      "frontmatter": {
+        "tags": [
+          "meta",
+          "personal"
+        ]
+      }
+    },
+    "Meta/goals.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 96,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.32,
+      "characterCount": 534,
+      "nonWhitespaceCharacterCount": 428,
+      "readingTimeInMinutes": 0.3622641509433962,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1737151949771,
+      "modifiedDate": 1738669250902,
+      "sizeInBytes": 565,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.32,
+        "wordCount": 96,
+        "characterCount": 534,
+        "nonWhitespaceCharacterCount": 428
+      },
+      "frontmatter": {
+        "tags": [
+          "🌲",
+          "meta"
+        ]
+      }
+    },
+    "Meta/Strings Theories.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 423,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 1.41,
+      "characterCount": 2388,
+      "nonWhitespaceCharacterCount": 1936,
+      "readingTimeInMinutes": 1.5962264150943397,
+      "linkCount": 9,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1737136360163,
+      "modifiedDate": 1738708589638,
+      "sizeInBytes": 2414,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 1.41,
+        "wordCount": 423,
+        "characterCount": 2388,
+        "nonWhitespaceCharacterCount": 1936
+      },
+      "frontmatter": {
+        "tags": [
+          "meta"
+        ]
+      }
+    },
+    "Meta/Rules.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 74,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.24666666666666667,
+      "characterCount": 391,
+      "nonWhitespaceCharacterCount": 315,
+      "readingTimeInMinutes": 0.2792452830188679,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1737151811223,
+      "modifiedDate": 1739176976372,
+      "sizeInBytes": 422,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.24666666666666667,
+        "wordCount": 74,
+        "characterCount": 391,
+        "nonWhitespaceCharacterCount": 315
+      },
+      "frontmatter": {
+        "tags": [
+          "🌲",
+          "meta"
+        ]
+      }
+    },
+    "Garden/follow your curiosity.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 267,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.89,
+      "characterCount": 1520,
+      "nonWhitespaceCharacterCount": 1242,
+      "readingTimeInMinutes": 1.0075471698113208,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1741172531209,
+      "modifiedDate": 1741255275554,
+      "sizeInBytes": 1630,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.89,
+        "wordCount": 267,
+        "characterCount": 1520,
+        "nonWhitespaceCharacterCount": 1242
+      },
+      "frontmatter": {
+        "tags": [
+          "🌱",
+          "practice"
+        ],
+        "aliases": null,
+        "upstream": [
+          "[[practice]]"
+        ],
+        "downstream": null,
+        "aligned": null,
+        "contrasting": null
+      }
+    },
+    "Garden/capo.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 517,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 1.7233333333333334,
+      "characterCount": 2957,
+      "nonWhitespaceCharacterCount": 2413,
+      "readingTimeInMinutes": 1.950943396226415,
+      "linkCount": 12,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1741168131637,
+      "modifiedDate": 1741172457496,
+      "sizeInBytes": 3149,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 1.7233333333333334,
+        "wordCount": 517,
+        "characterCount": 2957,
+        "nonWhitespaceCharacterCount": 2413
+      },
+      "frontmatter": {
+        "tags": [
+          "🌱",
+          "gear",
+          "fretboardtheory"
+        ],
+        "aliases": null,
+        "upstream": [
+          "[[barre chords]]",
+          "[[the 12 semitones]]"
+        ],
+        "downstream": null,
+        "aligned": [
+          "[[transposition]]"
+        ],
+        "contrasting": null
+      }
+    },
+    "Garden/extended techniques.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 117,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.39,
+      "characterCount": 756,
+      "nonWhitespaceCharacterCount": 630,
+      "readingTimeInMinutes": 0.44150943396226416,
+      "linkCount": 7,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1741082169574,
+      "modifiedDate": 1741168129580,
+      "sizeInBytes": 896,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.39,
+        "wordCount": 117,
+        "characterCount": 756,
+        "nonWhitespaceCharacterCount": 630
+      },
+      "frontmatter": {
+        "tags": [
+          "🌱",
+          "technique"
+        ],
+        "aliases": null,
+        "upstream": [
+          "[[technique]]"
+        ],
+        "downstream": null,
+        "aligned": [
+          "[[modern fingerstyle]]"
+        ],
+        "contrasting": null
+      }
+    },
+    "Garden/tapping.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 243,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.81,
+      "characterCount": 1488,
+      "nonWhitespaceCharacterCount": 1229,
+      "readingTimeInMinutes": 0.9169811320754717,
+      "linkCount": 9,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1741082295156,
+      "modifiedDate": 1741084099434,
+      "sizeInBytes": 1638,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.81,
+        "wordCount": 243,
+        "characterCount": 1488,
+        "nonWhitespaceCharacterCount": 1229
+      },
+      "frontmatter": {
+        "tags": [
+          "🌱",
+          "technique"
+        ],
+        "aliases": null,
+        "upstream": [
+          "[[extended techniques]]"
+        ],
+        "downstream": null,
+        "aligned": [
+          "[[modern fingerstyle]]"
+        ],
+        "contrasting": null
+      }
+    },
+    "Garden/harmonic minor scale.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 132,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.44,
+      "characterCount": 921,
+      "nonWhitespaceCharacterCount": 767,
+      "readingTimeInMinutes": 0.4981132075471698,
+      "linkCount": 15,
+      "embedCount": 1,
+      "aliases": null,
+      "createdDate": 1741078623516,
+      "modifiedDate": 1741081712343,
+      "sizeInBytes": 1135,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.44,
+        "wordCount": 132,
+        "characterCount": 921,
+        "nonWhitespaceCharacterCount": 767
+      },
+      "frontmatter": {
+        "tags": [
+          "🌱"
+        ],
+        "aliases": null,
+        "upstream": [
+          "[[scales]]"
+        ],
+        "downstream": null,
+        "aligned": null,
+        "contrasting": [
+          "[[natural minor scale harmonisation in triads|natural minor]]"
+        ],
+        "formula": "212 2 131",
+        "function": [
+          "T"
+        ]
+      }
+    },
+    "Garden/natural minor scale harmonisation in triads.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 253,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.8433333333333334,
+      "characterCount": 1500,
+      "nonWhitespaceCharacterCount": 1221,
+      "readingTimeInMinutes": 0.9547169811320755,
+      "linkCount": 10,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1737537702265,
+      "modifiedDate": 1741078776707,
+      "sizeInBytes": 1719,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.8433333333333334,
+        "wordCount": 253,
+        "characterCount": 1500,
+        "nonWhitespaceCharacterCount": 1221
+      },
+      "frontmatter": {
+        "tags": [
+          "🪴",
+          "musictheory",
+          "basics"
+        ],
+        "aliases": null,
+        "upstream": [
+          "[[scales]]",
+          "[[functions]]"
+        ],
+        "downstream": null,
+        "aligned": [
+          "[[major scale harmonisation in triads]]"
+        ],
+        "contrasting": [
+          "[[harmonic minor scale]]"
+        ]
+      }
+    },
+    "Garden/dominant.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 79,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.2633333333333333,
+      "characterCount": 450,
+      "nonWhitespaceCharacterCount": 365,
+      "readingTimeInMinutes": 0.2981132075471698,
+      "linkCount": 8,
+      "embedCount": 0,
+      "aliases": [
+        "dominant 7"
+      ],
+      "createdDate": 1737637546200,
+      "modifiedDate": 1741078584440,
+      "sizeInBytes": 695,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.2633333333333333,
+        "wordCount": 79,
+        "characterCount": 450,
+        "nonWhitespaceCharacterCount": 365
+      },
+      "frontmatter": {
+        "tags": [
+          "🪴",
+          "musictheory"
+        ],
+        "function": [
+          "D"
+        ],
+        "aliases": [
+          "dominant 7"
+        ],
+        "upstream": [
+          "[[tetrads]]",
+          "[[major scale harmonisation in tetrads]]",
+          "[[harmonic minor scale harmonisation in tetrads]]"
+        ],
+        "downstream": null,
+        "aligned": null,
+        "contrasting": null
+      }
+    },
+    "Garden/why you should always tune first.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 87,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.29,
+      "characterCount": 487,
+      "nonWhitespaceCharacterCount": 397,
+      "readingTimeInMinutes": 0.3283018867924528,
+      "linkCount": 3,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1739695883621,
+      "modifiedDate": 1739696154360,
+      "sizeInBytes": 675,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.29,
+        "wordCount": 87,
+        "characterCount": 487,
+        "nonWhitespaceCharacterCount": 397
+      },
+      "frontmatter": {
+        "tags": [
+          "🌱",
+          "practice",
+          "gear"
+        ],
+        "aliases": null,
+        "upstream": [
+          "[[tunings]]",
+          "[[tuning the guitar]]"
+        ],
+        "downstream": null,
+        "aligned": [
+          "[[ear training]]",
+          "[[audiation]]"
+        ],
+        "contrasting": null
+      }
+    },
+    "Garden/why you need music theory.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 731,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 2.4366666666666665,
+      "characterCount": 4221,
+      "nonWhitespaceCharacterCount": 3457,
+      "readingTimeInMinutes": 2.758490566037736,
+      "linkCount": 6,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1737532411394,
+      "modifiedDate": 1737535012901,
+      "sizeInBytes": 4259,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 2.4366666666666665,
+        "wordCount": 731,
+        "characterCount": 4221,
+        "nonWhitespaceCharacterCount": 3457
+      },
+      "frontmatter": {
+        "tags": [
+          "🌲",
+          "musictheory"
+        ]
+      }
+    },
+    "Garden/why we need both flats and sharps.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 154,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.5133333333333333,
+      "characterCount": 911,
+      "nonWhitespaceCharacterCount": 747,
+      "readingTimeInMinutes": 0.5811320754716981,
+      "linkCount": 3,
+      "embedCount": 2,
+      "aliases": null,
+      "createdDate": 1737370419041,
+      "modifiedDate": 1737626865277,
+      "sizeInBytes": 960,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.5133333333333333,
+        "wordCount": 154,
+        "characterCount": 911,
+        "nonWhitespaceCharacterCount": 747
+      },
+      "frontmatter": {
+        "tags": [
+          "🌱",
+          "musictheory",
+          "basics"
+        ]
+      }
+    },
+    "Garden/why use alternate tunings ?.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 579,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 1.93,
+      "characterCount": 3375,
+      "nonWhitespaceCharacterCount": 2761,
+      "readingTimeInMinutes": 2.1849056603773587,
+      "linkCount": 13,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1737153538282,
+      "modifiedDate": 1739109247670,
+      "sizeInBytes": 3409,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 1.93,
+        "wordCount": 579,
+        "characterCount": 3375,
+        "nonWhitespaceCharacterCount": 2761
+      },
+      "frontmatter": {
+        "tags": [
+          "🌲",
+          "tunings"
+        ]
+      }
+    },
+    "Garden/why the guitar.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 36,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.12,
+      "characterCount": 211,
+      "nonWhitespaceCharacterCount": 171,
+      "readingTimeInMinutes": 0.13584905660377358,
+      "linkCount": 1,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1737149817194,
+      "modifiedDate": 1737451196308,
+      "sizeInBytes": 242,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.12,
+        "wordCount": 36,
+        "characterCount": 211,
+        "nonWhitespaceCharacterCount": 171
+      },
+      "frontmatter": {
+        "tags": [
+          "🌲",
+          "meta"
+        ]
+      }
+    },
+    "Garden/why I use P4 and should you use it.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 898,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 2.993333333333333,
+      "characterCount": 4956,
+      "nonWhitespaceCharacterCount": 4033,
+      "readingTimeInMinutes": 3.388679245283019,
+      "linkCount": 13,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1738924045757,
+      "modifiedDate": 1739012351599,
+      "sizeInBytes": 5003,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 2.993333333333333,
+        "wordCount": 898,
+        "characterCount": 4956,
+        "nonWhitespaceCharacterCount": 4033
+      },
+      "frontmatter": {
+        "tags": [
+          "🌲",
+          "tunings",
+          "personal"
+        ]
+      }
+    },
+    "Garden/what your body is made for.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 90,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.3,
+      "characterCount": 475,
+      "nonWhitespaceCharacterCount": 378,
+      "readingTimeInMinutes": 0.33962264150943394,
+      "linkCount": 2,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1737240402626,
+      "modifiedDate": 1739437271750,
+      "sizeInBytes": 509,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.3,
+        "wordCount": 90,
+        "characterCount": 475,
+        "nonWhitespaceCharacterCount": 378
+      },
+      "frontmatter": {
+        "tags": [
+          "🌲",
+          "posture"
+        ]
+      }
+    },
+    "Garden/what it means to read music.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 224,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.7466666666666667,
+      "characterCount": 1298,
+      "nonWhitespaceCharacterCount": 1064,
+      "readingTimeInMinutes": 0.8452830188679246,
+      "linkCount": 10,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1738527385620,
+      "modifiedDate": 1738919363534,
+      "sizeInBytes": 1336,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.7466666666666667,
+        "wordCount": 224,
+        "characterCount": 1298,
+        "nonWhitespaceCharacterCount": 1064
+      },
+      "frontmatter": {
+        "tags": [
+          "🪴",
+          "musictheory"
+        ]
+      }
+    },
+    "Garden/what it means to get good.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 547,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 1.8233333333333333,
+      "characterCount": 2949,
+      "nonWhitespaceCharacterCount": 2378,
+      "readingTimeInMinutes": 2.0641509433962266,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1739439353397,
+      "modifiedDate": 1739523272519,
+      "sizeInBytes": 3059,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 1.8233333333333333,
+        "wordCount": 547,
+        "characterCount": 2949,
+        "nonWhitespaceCharacterCount": 2378
+      },
+      "frontmatter": {
+        "tags": [
+          "🌱",
+          "practice"
+        ],
+        "aliases": null,
+        "upstream": [
+          "[[practice]]"
+        ],
+        "downstream": null,
+        "aligned": null,
+        "contrasting": null
+      }
+    },
+    "Garden/use.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 78,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.26,
+      "characterCount": 448,
+      "nonWhitespaceCharacterCount": 363,
+      "readingTimeInMinutes": 0.2943396226415094,
+      "linkCount": 1,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1738598038238,
+      "modifiedDate": 1738598611554,
+      "sizeInBytes": 508,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.26,
+        "wordCount": 78,
+        "characterCount": 448,
+        "nonWhitespaceCharacterCount": 363
+      },
+      "frontmatter": {
+        "tags": [
+          "🌱",
+          "#alexandertechnique",
+          "posture"
+        ]
+      }
+    },
+    "Garden/use leverage.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 197,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.6566666666666666,
+      "characterCount": 1151,
+      "nonWhitespaceCharacterCount": 940,
+      "readingTimeInMinutes": 0.7433962264150943,
+      "linkCount": 4,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1738226221112,
+      "modifiedDate": 1738226861065,
+      "sizeInBytes": 1194,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.6566666666666666,
+        "wordCount": 197,
+        "characterCount": 1151,
+        "nonWhitespaceCharacterCount": 940
+      },
+      "frontmatter": {
+        "tags": [
+          "🪴",
+          "LH",
+          "technique"
+        ]
+      }
+    },
+    "Garden/understanding chord diagrams.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 188,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.6266666666666667,
+      "characterCount": 1075,
+      "nonWhitespaceCharacterCount": 878,
+      "readingTimeInMinutes": 0.7094339622641509,
+      "linkCount": 7,
+      "embedCount": 1,
+      "aliases": [
+        "chord diagrams",
+        "chord boxes"
+      ],
+      "createdDate": 1739524091042,
+      "modifiedDate": 1739525451959,
+      "sizeInBytes": 1360,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.6266666666666667,
+        "wordCount": 188,
+        "characterCount": 1075,
+        "nonWhitespaceCharacterCount": 878
+      },
+      "frontmatter": {
+        "tags": [
+          "fretboardtheory",
+          "basics",
+          "🪴"
+        ],
+        "aliases": [
+          "chord diagrams",
+          "chord boxes"
+        ],
+        "upstream": [
+          "[[fretboard]]",
+          "[[chords]]",
+          "[[fingerings]]"
+        ],
+        "downstream": null,
+        "aligned": [
+          "[[quirks in guitar notation]]"
+        ],
+        "contrasting": [
+          "[[the staff]]",
+          "[[reading tablatures]]"
+        ]
+      }
+    },
+    "Garden/types.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 31,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.10333333333333333,
+      "characterCount": 276,
+      "nonWhitespaceCharacterCount": 239,
+      "readingTimeInMinutes": 0.1169811320754717,
+      "linkCount": 11,
+      "embedCount": 0,
+      "aliases": [
+        "types of guitar",
+        "guitar models",
+        "guitar type"
+      ],
+      "createdDate": 1737152805773,
+      "modifiedDate": 1739785187974,
+      "sizeInBytes": 370,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.10333333333333333,
+        "wordCount": 31,
+        "characterCount": 276,
+        "nonWhitespaceCharacterCount": 239
+      },
+      "frontmatter": {
+        "tags": [
+          "🌲",
+          "gear"
+        ],
+        "aliases": [
+          "types of guitar",
+          "guitar models",
+          "guitar type"
+        ]
+      }
+    },
+    "Garden/two fingers marathon.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 246,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.82,
+      "characterCount": 1372,
+      "nonWhitespaceCharacterCount": 1107,
+      "readingTimeInMinutes": 0.9283018867924528,
+      "linkCount": 4,
+      "embedCount": 1,
+      "aliases": null,
+      "createdDate": 1739349407894,
+      "modifiedDate": 1739437233877,
+      "sizeInBytes": 1588,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.82,
+        "wordCount": 246,
+        "characterCount": 1372,
+        "nonWhitespaceCharacterCount": 1107
+      },
+      "frontmatter": {
+        "tags": [
+          "🌱",
+          "technique",
+          "LH"
+        ],
+        "aliases": null,
+        "upstream": [
+          "[[left hand exercises]]",
+          "[[technique]]"
+        ],
+        "downstream": null,
+        "aligned": [
+          "[[switch from hell]]",
+          "[[spider exercise and variations]]"
+        ],
+        "contrasting": null
+      }
+    },
+    "Garden/two chords cadences.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 355,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 1.1833333333333333,
+      "characterCount": 3005,
+      "nonWhitespaceCharacterCount": 2184,
+      "readingTimeInMinutes": 1.3396226415094339,
+      "linkCount": 28,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1737971471291,
+      "modifiedDate": 1741078521454,
+      "sizeInBytes": 3059,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 1.1833333333333333,
+        "wordCount": 355,
+        "characterCount": 3005,
+        "nonWhitespaceCharacterCount": 2184
+      },
+      "frontmatter": {
+        "tags": [
+          "🌲",
+          "musictheory"
+        ]
+      }
+    },
+    "Garden/tunings.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 6,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.02,
+      "characterCount": 56,
+      "nonWhitespaceCharacterCount": 50,
+      "readingTimeInMinutes": 0.022641509433962263,
+      "linkCount": 3,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1737153197763,
+      "modifiedDate": 1737447825734,
+      "sizeInBytes": 99,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.02,
+        "wordCount": 6,
+        "characterCount": 56,
+        "nonWhitespaceCharacterCount": 50
+      },
+      "frontmatter": {
+        "tags": [
+          "🌲",
+          "🗺",
+          "tunings"
+        ]
+      }
+    },
+    "Garden/tuning the guitar.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 245,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.8166666666666667,
+      "characterCount": 1362,
+      "nonWhitespaceCharacterCount": 1101,
+      "readingTimeInMinutes": 0.9245283018867925,
+      "linkCount": 8,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1737627678794,
+      "modifiedDate": 1739695876869,
+      "sizeInBytes": 1638,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.8166666666666667,
+        "wordCount": 245,
+        "characterCount": 1362,
+        "nonWhitespaceCharacterCount": 1101
+      },
+      "frontmatter": {
+        "tags": [
+          "🌱",
+          "tunings",
+          "basics"
+        ],
+        "upstream": [
+          "[[tunings]]",
+          "[[tuners]]",
+          "[[note repetition on the fretboard]]",
+          "[[harmonics]]"
+        ],
+        "downstream": [
+          "[[why you should always tune first]]"
+        ],
+        "aligned": [
+          "[[standard tuning]]",
+          "[[P4 tuning]]"
+        ],
+        "contrasting": null
+      }
+    },
+    "Garden/tuners.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 115,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.38333333333333336,
+      "characterCount": 662,
+      "nonWhitespaceCharacterCount": 544,
+      "readingTimeInMinutes": 0.4339622641509434,
+      "linkCount": 3,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1738835692231,
+      "modifiedDate": 1738840483603,
+      "sizeInBytes": 723,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.38333333333333336,
+        "wordCount": 115,
+        "characterCount": 662,
+        "nonWhitespaceCharacterCount": 544
+      },
+      "frontmatter": {
+        "tags": [
+          "🌱",
+          "gear"
+        ],
+        "upstream": [
+          "[[headstock]]"
+        ]
+      }
+    },
+    "Garden/triads.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 288,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.96,
+      "characterCount": 2064,
+      "nonWhitespaceCharacterCount": 1639,
+      "readingTimeInMinutes": 1.0867924528301887,
+      "linkCount": 14,
+      "embedCount": 1,
+      "aliases": null,
+      "createdDate": 1737415882737,
+      "modifiedDate": 1741078521448,
+      "sizeInBytes": 2122,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.96,
+        "wordCount": 288,
+        "characterCount": 2064,
+        "nonWhitespaceCharacterCount": 1639
+      },
+      "frontmatter": {
+        "tags": [
+          "basics",
+          "musictheory",
+          "🌲",
+          "🗺"
+        ]
+      }
+    },
+    "Garden/tonic.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 167,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.5566666666666666,
+      "characterCount": 927,
+      "nonWhitespaceCharacterCount": 747,
+      "readingTimeInMinutes": 0.630188679245283,
+      "linkCount": 9,
+      "embedCount": 0,
+      "aliases": [
+        "tonic chord"
+      ],
+      "createdDate": 1737636211213,
+      "modifiedDate": 1741078521436,
+      "sizeInBytes": 1010,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.5566666666666666,
+        "wordCount": 167,
+        "characterCount": 927,
+        "nonWhitespaceCharacterCount": 747
+      },
+      "frontmatter": {
+        "tags": [
+          "🪴",
+          "musictheory"
+        ],
+        "aliases": [
+          "tonic chord"
+        ],
+        "function": [
+          "T"
+        ]
+      }
+    },
+    "Garden/tonality.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 158,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.5266666666666666,
+      "characterCount": 934,
+      "nonWhitespaceCharacterCount": 765,
+      "readingTimeInMinutes": 0.5962264150943396,
+      "linkCount": 7,
+      "embedCount": 1,
+      "aliases": [
+        "key",
+        "tonalities",
+        "keys"
+      ],
+      "createdDate": 1737368458456,
+      "modifiedDate": 1738750231529,
+      "sizeInBytes": 1186,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.5266666666666666,
+        "wordCount": 158,
+        "characterCount": 934,
+        "nonWhitespaceCharacterCount": 765
+      },
+      "frontmatter": {
+        "tags": [
+          "🌲",
+          "basics",
+          "musictheory"
+        ],
+        "aliases": [
+          "key",
+          "tonalities",
+          "keys"
+        ],
+        "upstream": [
+          "[[the 12 semitones]]"
+        ],
+        "downstream": [
+          "[[tonal music]]",
+          "[[relative minor]]"
+        ],
+        "aligned": [
+          "[[major scale]]"
+        ],
+        "contrasting": [
+          "[[modal music]]"
+        ]
+      }
+    },
+    "Garden/tonal music.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 85,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.2833333333333333,
+      "characterCount": 583,
+      "nonWhitespaceCharacterCount": 493,
+      "readingTimeInMinutes": 0.32075471698113206,
+      "linkCount": 9,
+      "embedCount": 0,
+      "aliases": [
+        "functional harmony"
+      ],
+      "createdDate": 1737572882808,
+      "modifiedDate": 1738750054042,
+      "sizeInBytes": 838,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.2833333333333333,
+        "wordCount": 85,
+        "characterCount": 583,
+        "nonWhitespaceCharacterCount": 493
+      },
+      "frontmatter": {
+        "tags": [
+          "🌱",
+          "musictheory"
+        ],
+        "aliases": [
+          "functional harmony"
+        ],
+        "upstream": [
+          "[[tonality]]"
+        ],
+        "downstream": [
+          "[[functions]]"
+        ],
+        "aligned": [
+          "[[tension and release]]",
+          "[[cadence|cadences]]"
+        ],
+        "contrasting": [
+          "[[modal music]]",
+          "[[atonal music]]"
+        ]
+      }
+    },
+    "Garden/time signature.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 379,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 1.2633333333333334,
+      "characterCount": 2966,
+      "nonWhitespaceCharacterCount": 2326,
+      "readingTimeInMinutes": 1.430188679245283,
+      "linkCount": 16,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1738922653204,
+      "modifiedDate": 1738923873733,
+      "sizeInBytes": 3030,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 1.2633333333333334,
+        "wordCount": 379,
+        "characterCount": 2966,
+        "nonWhitespaceCharacterCount": 2326
+      },
+      "frontmatter": {
+        "tags": [
+          "🪴",
+          "musictheory",
+          "rhythm",
+          "basics"
+        ]
+      }
+    },
+    "Garden/the three main playing positions.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 184,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.6133333333333333,
+      "characterCount": 1069,
+      "nonWhitespaceCharacterCount": 877,
+      "readingTimeInMinutes": 0.6943396226415094,
+      "linkCount": 7,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1737446196922,
+      "modifiedDate": 1739180346126,
+      "sizeInBytes": 1117,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.6133333333333333,
+        "wordCount": 184,
+        "characterCount": 1069,
+        "nonWhitespaceCharacterCount": 877
+      },
+      "frontmatter": {
+        "tags": [
+          "🌱",
+          "technique",
+          "posture"
+        ]
+      }
+    },
+    "Garden/the staff.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 406,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 1.3533333333333333,
+      "characterCount": 2178,
+      "nonWhitespaceCharacterCount": 1716,
+      "readingTimeInMinutes": 1.5320754716981133,
+      "linkCount": 8,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1737841440985,
+      "modifiedDate": 1740741154660,
+      "sizeInBytes": 2239,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 1.3533333333333333,
+        "wordCount": 406,
+        "characterCount": 2178,
+        "nonWhitespaceCharacterCount": 1716
+      },
+      "frontmatter": {
+        "tags": [
+          "🌱",
+          "basics",
+          "musictheory"
+        ]
+      }
+    },
+    "Garden/the myth of the perfect posture.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 129,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.43,
+      "characterCount": 731,
+      "nonWhitespaceCharacterCount": 591,
+      "readingTimeInMinutes": 0.4867924528301887,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1737240320896,
+      "modifiedDate": 1738708644083,
+      "sizeInBytes": 765,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.43,
+        "wordCount": 129,
+        "characterCount": 731,
+        "nonWhitespaceCharacterCount": 591
+      },
+      "frontmatter": {
+        "tags": [
+          "🌱",
+          "posture"
+        ]
+      }
+    },
+    "Garden/the first chords you learn are triads.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 36,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.12,
+      "characterCount": 205,
+      "nonWhitespaceCharacterCount": 166,
+      "readingTimeInMinutes": 0.13584905660377358,
+      "linkCount": 1,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1738017898621,
+      "modifiedDate": 1738232496879,
+      "sizeInBytes": 243,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.12,
+        "wordCount": 36,
+        "characterCount": 205,
+        "nonWhitespaceCharacterCount": 166
+      },
+      "frontmatter": {
+        "tags": [
+          "🌱",
+          "musictheory"
+        ]
+      }
+    },
+    "Garden/the beat.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 68,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.22666666666666666,
+      "characterCount": 390,
+      "nonWhitespaceCharacterCount": 319,
+      "readingTimeInMinutes": 0.25660377358490566,
+      "linkCount": 3,
+      "embedCount": 0,
+      "aliases": [
+        "tempo"
+      ],
+      "createdDate": 1737841449868,
+      "modifiedDate": 1738920931603,
+      "sizeInBytes": 593,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.22666666666666666,
+        "wordCount": 68,
+        "characterCount": 390,
+        "nonWhitespaceCharacterCount": 319
+      },
+      "frontmatter": {
+        "tags": [
+          "🪴",
+          "musictheory",
+          "basics"
+        ],
+        "aliases": [
+          "tempo"
+        ],
+        "upstream": [
+          "[[music theory]]"
+        ],
+        "downstream": [
+          "[[rhythm]]",
+          "[[tempo markings]]",
+          "[[time signature]]"
+        ],
+        "aligned": null,
+        "contrasting": null
+      }
+    },
+    "Garden/the 12 semitones.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 148,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.49333333333333335,
+      "characterCount": 920,
+      "nonWhitespaceCharacterCount": 749,
+      "readingTimeInMinutes": 0.5584905660377358,
+      "linkCount": 4,
+      "embedCount": 3,
+      "aliases": [
+        "half steps",
+        "semitones",
+        "chromatic scale"
+      ],
+      "createdDate": 1737210431901,
+      "modifiedDate": 1738747302521,
+      "sizeInBytes": 1035,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.49333333333333335,
+        "wordCount": 148,
+        "characterCount": 920,
+        "nonWhitespaceCharacterCount": 749
+      },
+      "frontmatter": {
+        "tags": [
+          "🌲",
+          "basics",
+          "musictheory"
+        ],
+        "aliases": [
+          "half steps",
+          "semitones",
+          "chromatic scale"
+        ]
+      }
+    },
+    "Garden/tetrads.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 285,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.95,
+      "characterCount": 2166,
+      "nonWhitespaceCharacterCount": 1620,
+      "readingTimeInMinutes": 1.0754716981132075,
+      "linkCount": 12,
+      "embedCount": 0,
+      "aliases": [
+        "seventh chords"
+      ],
+      "createdDate": 1738710483255,
+      "modifiedDate": 1741167891955,
+      "sizeInBytes": 2295,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.95,
+        "wordCount": 285,
+        "characterCount": 2166,
+        "nonWhitespaceCharacterCount": 1620
+      },
+      "frontmatter": {
+        "tags": [
+          "🪴",
+          "musictheory"
+        ],
+        "aliases": [
+          "seventh chords"
+        ],
+        "upstream": [
+          "[[triads]]"
+        ],
+        "downstream": null,
+        "aligned": null,
+        "contrasting": null
+      }
+    },
+    "Garden/tension and release.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 93,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.31,
+      "characterCount": 606,
+      "nonWhitespaceCharacterCount": 506,
+      "readingTimeInMinutes": 0.35094339622641507,
+      "linkCount": 7,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1737633694947,
+      "modifiedDate": 1741078521414,
+      "sizeInBytes": 644,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.31,
+        "wordCount": 93,
+        "characterCount": 606,
+        "nonWhitespaceCharacterCount": 506
+      },
+      "frontmatter": {
+        "tags": [
+          "🪴",
+          "musictheory"
+        ]
+      }
+    },
+    "Garden/tempo markings.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 213,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.71,
+      "characterCount": 2568,
+      "nonWhitespaceCharacterCount": 1346,
+      "readingTimeInMinutes": 0.8037735849056604,
+      "linkCount": 3,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1738919444027,
+      "modifiedDate": 1738920844946,
+      "sizeInBytes": 2608,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.71,
+        "wordCount": 213,
+        "characterCount": 2568,
+        "nonWhitespaceCharacterCount": 1346
+      },
+      "frontmatter": {
+        "tags": [
+          "🪴",
+          "musictheory"
+        ]
+      }
+    },
+    "Garden/technique.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 327,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 1.09,
+      "characterCount": 1973,
+      "nonWhitespaceCharacterCount": 1621,
+      "readingTimeInMinutes": 1.2339622641509433,
+      "linkCount": 9,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1737150087194,
+      "modifiedDate": 1737744967135,
+      "sizeInBytes": 2009,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 1.09,
+        "wordCount": 327,
+        "characterCount": 1973,
+        "nonWhitespaceCharacterCount": 1621
+      },
+      "frontmatter": {
+        "tags": [
+          "🌲",
+          "technique"
+        ]
+      }
+    },
+    "Garden/switch from hell.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 129,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.43,
+      "characterCount": 742,
+      "nonWhitespaceCharacterCount": 604,
+      "readingTimeInMinutes": 0.4867924528301887,
+      "linkCount": 3,
+      "embedCount": 1,
+      "aliases": null,
+      "createdDate": 1739347293716,
+      "modifiedDate": 1739437204200,
+      "sizeInBytes": 932,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.43,
+        "wordCount": 129,
+        "characterCount": 742,
+        "nonWhitespaceCharacterCount": 604
+      },
+      "frontmatter": {
+        "tags": [
+          "🌱",
+          "technique",
+          "LH"
+        ],
+        "aliases": null,
+        "upstream": [
+          "[[left hand exercises]]",
+          "[[fingerings]]"
+        ],
+        "downstream": null,
+        "aligned": [
+          "[[spider exercise and variations]]"
+        ],
+        "contrasting": null
+      }
+    },
+    "Garden/sustain.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 95,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.31666666666666665,
+      "characterCount": 568,
+      "nonWhitespaceCharacterCount": 468,
+      "readingTimeInMinutes": 0.3584905660377358,
+      "linkCount": 4,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1738054403917,
+      "modifiedDate": 1738054649233,
+      "sizeInBytes": 604,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.31666666666666665,
+        "wordCount": 95,
+        "characterCount": 568,
+        "nonWhitespaceCharacterCount": 468
+      },
+      "frontmatter": {
+        "tags": [
+          "🌱",
+          "technique"
+        ]
+      }
+    },
+    "Garden/suspended modal tunings.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 75,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.25,
+      "characterCount": 389,
+      "nonWhitespaceCharacterCount": 299,
+      "readingTimeInMinutes": 0.2830188679245283,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1737153315348,
+      "modifiedDate": 1737208565772,
+      "sizeInBytes": 433,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.25,
+        "wordCount": 75,
+        "characterCount": 389,
+        "nonWhitespaceCharacterCount": 299
+      },
+      "frontmatter": {
+        "tags": [
+          "🌲",
+          "tunings"
+        ]
+      }
+    },
+    "Garden/sub dominant.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 79,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.2633333333333333,
+      "characterCount": 467,
+      "nonWhitespaceCharacterCount": 378,
+      "readingTimeInMinutes": 0.2981132075471698,
+      "linkCount": 4,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1737636999207,
+      "modifiedDate": 1738746776946,
+      "sizeInBytes": 522,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.2633333333333333,
+        "wordCount": 79,
+        "characterCount": 467,
+        "nonWhitespaceCharacterCount": 378
+      },
+      "frontmatter": {
+        "tags": [
+          "🪴",
+          "musictheory"
+        ],
+        "function": [
+          "SD"
+        ]
+      }
+    },
+    "Garden/strings.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 153,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.51,
+      "characterCount": 952,
+      "nonWhitespaceCharacterCount": 793,
+      "readingTimeInMinutes": 0.5773584905660377,
+      "linkCount": 10,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1738838624972,
+      "modifiedDate": 1738924485493,
+      "sizeInBytes": 1059,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.51,
+        "wordCount": 153,
+        "characterCount": 952,
+        "nonWhitespaceCharacterCount": 793
+      },
+      "frontmatter": {
+        "tags": [
+          "🌱",
+          "gear"
+        ],
+        "upstream": [
+          "[[parts of the guitar]]"
+        ],
+        "downstream": null,
+        "aligned": null,
+        "contrasting": null
+      }
+    },
+    "Garden/strings in motion.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 306,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 1.02,
+      "characterCount": 1844,
+      "nonWhitespaceCharacterCount": 1510,
+      "readingTimeInMinutes": 1.1547169811320754,
+      "linkCount": 13,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1738312881133,
+      "modifiedDate": 1738504844213,
+      "sizeInBytes": 1882,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 1.02,
+        "wordCount": 306,
+        "characterCount": 1844,
+        "nonWhitespaceCharacterCount": 1510
+      },
+      "frontmatter": {
+        "tags": [
+          "🌲",
+          "musictheory"
+        ]
+      }
+    },
+    "Garden/string sets.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 96,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.32,
+      "characterCount": 582,
+      "nonWhitespaceCharacterCount": 484,
+      "readingTimeInMinutes": 0.3622641509433962,
+      "linkCount": 8,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1739175305896,
+      "modifiedDate": 1740647266183,
+      "sizeInBytes": 624,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.32,
+        "wordCount": 96,
+        "characterCount": 582,
+        "nonWhitespaceCharacterCount": 484
+      },
+      "frontmatter": {
+        "tags": [
+          "🌱",
+          "fretboardtheory"
+        ]
+      }
+    },
+    "Garden/strap.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 259,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.8633333333333333,
+      "characterCount": 1490,
+      "nonWhitespaceCharacterCount": 1222,
+      "readingTimeInMinutes": 0.9773584905660377,
+      "linkCount": 5,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1739698291446,
+      "modifiedDate": 1739698958405,
+      "sizeInBytes": 1687,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.8633333333333333,
+        "wordCount": 259,
+        "characterCount": 1490,
+        "nonWhitespaceCharacterCount": 1222
+      },
+      "frontmatter": {
+        "tags": [
+          "🌱",
+          "posture"
+        ],
+        "aliases": null,
+        "upstream": [
+          "[[posture]]",
+          "[[the three main playing positions]]"
+        ],
+        "downstream": null,
+        "aligned": null,
+        "contrasting": [
+          "[[footstool]]",
+          "[[guitar supports]]"
+        ]
+      }
+    },
+    "Garden/standing.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 191,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.6366666666666667,
+      "characterCount": 1066,
+      "nonWhitespaceCharacterCount": 863,
+      "readingTimeInMinutes": 0.720754716981132,
+      "linkCount": 1,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1738743690193,
+      "modifiedDate": 1738743734861,
+      "sizeInBytes": 1100,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.6366666666666667,
+        "wordCount": 191,
+        "characterCount": 1066,
+        "nonWhitespaceCharacterCount": 863
+      },
+      "frontmatter": {
+        "tags": [
+          "🌱",
+          "posture"
+        ]
+      }
+    },
+    "Garden/standard tuning.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 149,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.49666666666666665,
+      "characterCount": 923,
+      "nonWhitespaceCharacterCount": 763,
+      "readingTimeInMinutes": 0.5622641509433962,
+      "linkCount": 7,
+      "embedCount": 1,
+      "aliases": [
+        "EADGBE"
+      ],
+      "createdDate": 1737447420459,
+      "modifiedDate": 1739177576447,
+      "sizeInBytes": 1138,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.49666666666666665,
+        "wordCount": 149,
+        "characterCount": 923,
+        "nonWhitespaceCharacterCount": 763
+      },
+      "frontmatter": {
+        "tags": [
+          "🌱",
+          "tunings",
+          "basics"
+        ],
+        "aliases": [
+          "EADGBE"
+        ],
+        "upstream": [
+          "[[tunings]]"
+        ],
+        "downstream": [
+          "[[intervals in standard tuning]]"
+        ],
+        "aligned": null,
+        "contrasting": [
+          "[[alternate tunings]]",
+          "[[P4 tuning]]"
+        ]
+      }
+    },
+    "Garden/standard tuning variations.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 317,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 1.0566666666666666,
+      "characterCount": 1558,
+      "nonWhitespaceCharacterCount": 1135,
+      "readingTimeInMinutes": 1.1962264150943396,
+      "linkCount": 8,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1737153411470,
+      "modifiedDate": 1737208576843,
+      "sizeInBytes": 1628,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 1.0566666666666666,
+        "wordCount": 317,
+        "characterCount": 1558,
+        "nonWhitespaceCharacterCount": 1135
+      },
+      "frontmatter": {
+        "tags": [
+          "🌲",
+          "tunings"
+        ]
+      }
+    },
+    "Garden/spread voicing.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 362,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 1.2066666666666668,
+      "characterCount": 2650,
+      "nonWhitespaceCharacterCount": 2069,
+      "readingTimeInMinutes": 1.3660377358490565,
+      "linkCount": 10,
+      "embedCount": 0,
+      "aliases": [
+        "drop voicing",
+        "spread voicings",
+        "drop voicings"
+      ],
+      "createdDate": 1739185975381,
+      "modifiedDate": 1740918653281,
+      "sizeInBytes": 2944,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 1.2066666666666668,
+        "wordCount": 362,
+        "characterCount": 2650,
+        "nonWhitespaceCharacterCount": 2069
+      },
+      "frontmatter": {
+        "tags": [
+          "fretboardtheory",
+          "🪴"
+        ],
+        "aliases": [
+          "drop voicing",
+          "spread voicings",
+          "drop voicings"
+        ],
+        "upstream": [
+          "[[chord voicings]]"
+        ],
+        "downstream": [
+          "[[drop 2]]",
+          "[[drop 3]]",
+          "[[drop 24]]"
+        ],
+        "aligned": null,
+        "contrasting": [
+          "[[closed position]]"
+        ]
+      }
+    },
+    "Garden/spider exercise and variations.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 259,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.8633333333333333,
+      "characterCount": 1226,
+      "nonWhitespaceCharacterCount": 881,
+      "readingTimeInMinutes": 0.9773584905660377,
+      "linkCount": 1,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1739267281007,
+      "modifiedDate": 1739346980890,
+      "sizeInBytes": 1375,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.8633333333333333,
+        "wordCount": 259,
+        "characterCount": 1226,
+        "nonWhitespaceCharacterCount": 881
+      },
+      "frontmatter": {
+        "tags": [
+          "🌱",
+          "LH",
+          "technique"
+        ],
+        "aliases": null,
+        "upstream": [
+          "[[left hand exercises]]",
+          "[[technique]]"
+        ],
+        "downstream": null,
+        "aligned": null,
+        "contrasting": null
+      }
+    },
+    "Garden/specific modal tunings.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 94,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.31333333333333335,
+      "characterCount": 486,
+      "nonWhitespaceCharacterCount": 375,
+      "readingTimeInMinutes": 0.35471698113207545,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1737153322495,
+      "modifiedDate": 1737208589015,
+      "sizeInBytes": 537,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.31333333333333335,
+        "wordCount": 94,
+        "characterCount": 486,
+        "nonWhitespaceCharacterCount": 375
+      },
+      "frontmatter": {
+        "tags": [
+          "🌲",
+          "tunings",
+          "LH"
+        ]
+      }
+    },
+    "Garden/sound board.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 99,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.33,
+      "characterCount": 531,
+      "nonWhitespaceCharacterCount": 428,
+      "readingTimeInMinutes": 0.37358490566037733,
+      "linkCount": 4,
+      "embedCount": 0,
+      "aliases": [
+        "top"
+      ],
+      "createdDate": 1738838903974,
+      "modifiedDate": 1738839390522,
+      "sizeInBytes": 579,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.33,
+        "wordCount": 99,
+        "characterCount": 531,
+        "nonWhitespaceCharacterCount": 428
+      },
+      "frontmatter": {
+        "tags": [
+          "🌱",
+          "gear"
+        ],
+        "aliases": [
+          "top"
+        ]
+      }
+    },
+    "Garden/simple principles for a great left hand.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 125,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.4166666666666667,
+      "characterCount": 763,
+      "nonWhitespaceCharacterCount": 618,
+      "readingTimeInMinutes": 0.4716981132075472,
+      "linkCount": 4,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1737716976295,
+      "modifiedDate": 1740647640303,
+      "sizeInBytes": 955,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.4166666666666667,
+        "wordCount": 125,
+        "characterCount": 763,
+        "nonWhitespaceCharacterCount": 618
+      },
+      "frontmatter": {
+        "tags": [
+          "🪴",
+          "technique",
+          "LH"
+        ],
+        "aliases": null,
+        "upstream": [
+          "[[left hand]]",
+          "[[fretting]]"
+        ],
+        "downstream": null,
+        "aligned": [
+          "[[lh thumb]]"
+        ],
+        "contrasting": [
+          "[[common left hand mistakes]]"
+        ]
+      }
+    },
+    "Garden/similarities between learning music and learning a language.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 571,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 1.9033333333333333,
+      "characterCount": 3674,
+      "nonWhitespaceCharacterCount": 3064,
+      "readingTimeInMinutes": 2.1547169811320757,
+      "linkCount": 12,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1738527313292,
+      "modifiedDate": 1739695539141,
+      "sizeInBytes": 3774,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 1.9033333333333333,
+        "wordCount": 571,
+        "characterCount": 3674,
+        "nonWhitespaceCharacterCount": 3064
+      },
+      "frontmatter": {
+        "tags": [
+          "🌱",
+          "practice"
+        ],
+        "upstream": [
+          "[[practice]]"
+        ],
+        "downstream": null,
+        "aligned": null,
+        "contrasting": null
+      }
+    },
+    "Garden/scales.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 293,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.9766666666666667,
+      "characterCount": 1936,
+      "nonWhitespaceCharacterCount": 1595,
+      "readingTimeInMinutes": 1.1056603773584905,
+      "linkCount": 29,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1740916418715,
+      "modifiedDate": 1741078521402,
+      "sizeInBytes": 2163,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.9766666666666667,
+        "wordCount": 293,
+        "characterCount": 1936,
+        "nonWhitespaceCharacterCount": 1595
+      },
+      "frontmatter": {
+        "tags": [
+          "🌱",
+          "musictheory"
+        ],
+        "aliases": null,
+        "upstream": [
+          "[[music theory]]",
+          "[[intervals]]",
+          "[[the 12 semitones]]"
+        ],
+        "downstream": [
+          "[[modes]]",
+          "[[tonal music]]",
+          "[[modal music]]"
+        ],
+        "aligned": null,
+        "contrasting": null
+      }
+    },
+    "Garden/scale degrees.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 39,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.13,
+      "characterCount": 219,
+      "nonWhitespaceCharacterCount": 180,
+      "readingTimeInMinutes": 0.1471698113207547,
+      "linkCount": 2,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1738745625344,
+      "modifiedDate": 1738747443313,
+      "sizeInBytes": 257,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.13,
+        "wordCount": 39,
+        "characterCount": 219,
+        "nonWhitespaceCharacterCount": 180
+      },
+      "frontmatter": {
+        "tags": [
+          "🌱",
+          "musictheory"
+        ]
+      }
+    },
+    "Garden/root.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 56,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.18666666666666668,
+      "characterCount": 274,
+      "nonWhitespaceCharacterCount": 217,
+      "readingTimeInMinutes": 0.21132075471698114,
+      "linkCount": 3,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1738526590608,
+      "modifiedDate": 1738526701369,
+      "sizeInBytes": 312,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.18666666666666668,
+        "wordCount": 56,
+        "characterCount": 274,
+        "nonWhitespaceCharacterCount": 217
+      },
+      "frontmatter": {
+        "tags": [
+          "🌱",
+          "musictheory"
+        ]
+      }
+    },
+    "Garden/root position.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 41,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.13666666666666666,
+      "characterCount": 245,
+      "nonWhitespaceCharacterCount": 203,
+      "readingTimeInMinutes": 0.15471698113207547,
+      "linkCount": 1,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1737445445582,
+      "modifiedDate": 1738917930918,
+      "sizeInBytes": 283,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.13666666666666666,
+        "wordCount": 41,
+        "characterCount": 245,
+        "nonWhitespaceCharacterCount": 203
+      },
+      "frontmatter": {
+        "tags": [
+          "🌱",
+          "musictheory"
+        ]
+      }
+    },
+    "Garden/right hand.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 82,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.2733333333333333,
+      "characterCount": 520,
+      "nonWhitespaceCharacterCount": 425,
+      "readingTimeInMinutes": 0.30943396226415093,
+      "linkCount": 11,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1737150189141,
+      "modifiedDate": 1738708042940,
+      "sizeInBytes": 566,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.2733333333333333,
+        "wordCount": 82,
+        "characterCount": 520,
+        "nonWhitespaceCharacterCount": 425
+      },
+      "frontmatter": {
+        "tags": [
+          "🌲",
+          "#RH",
+          "technique"
+        ]
+      }
+    },
+    "Garden/right hand fingers exercises.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 243,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.81,
+      "characterCount": 1503,
+      "nonWhitespaceCharacterCount": 1233,
+      "readingTimeInMinutes": 0.9169811320754717,
+      "linkCount": 4,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1739180383382,
+      "modifiedDate": 1741082082819,
+      "sizeInBytes": 1775,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.81,
+        "wordCount": 243,
+        "characterCount": 1503,
+        "nonWhitespaceCharacterCount": 1233
+      },
+      "frontmatter": {
+        "tags": [
+          "🌱",
+          "RH",
+          "technique"
+        ],
+        "aliases": null,
+        "upstream": [
+          "[[right hand]]",
+          "[[classical right hand]]",
+          "[[fingerpicking right hand]]",
+          "[[fingers]]"
+        ],
+        "downstream": null,
+        "aligned": [
+          "[[right hand picking exercises]]"
+        ],
+        "contrasting": [
+          "[[left hand exercises]]"
+        ]
+      }
+    },
+    "Garden/right hand fingerings.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 187,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.6233333333333333,
+      "characterCount": 1062,
+      "nonWhitespaceCharacterCount": 858,
+      "readingTimeInMinutes": 0.7056603773584905,
+      "linkCount": 6,
+      "embedCount": 1,
+      "aliases": null,
+      "createdDate": 1738658960793,
+      "modifiedDate": 1738709665325,
+      "sizeInBytes": 1105,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.6233333333333333,
+        "wordCount": 187,
+        "characterCount": 1062,
+        "nonWhitespaceCharacterCount": 858
+      },
+      "frontmatter": {
+        "tags": [
+          "🪴",
+          "technique",
+          "RH"
+        ]
+      }
+    },
+    "Garden/rhythm.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 55,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.18333333333333332,
+      "characterCount": 321,
+      "nonWhitespaceCharacterCount": 261,
+      "readingTimeInMinutes": 0.20754716981132076,
+      "linkCount": 3,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1737151203608,
+      "modifiedDate": 1738922635214,
+      "sizeInBytes": 452,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.18333333333333332,
+        "wordCount": 55,
+        "characterCount": 321,
+        "nonWhitespaceCharacterCount": 261
+      },
+      "frontmatter": {
+        "tags": [
+          "🌲",
+          "🗺",
+          "rhythm",
+          "musictheory"
+        ],
+        "upstream": [
+          "[[music theory]]"
+        ],
+        "downstream": null,
+        "aligned": null,
+        "contrasting": null
+      }
+    },
+    "Garden/rest strokes.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 77,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.25666666666666665,
+      "characterCount": 457,
+      "nonWhitespaceCharacterCount": 377,
+      "readingTimeInMinutes": 0.29056603773584905,
+      "linkCount": 6,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1738147922440,
+      "modifiedDate": 1738224229438,
+      "sizeInBytes": 500,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.25666666666666665,
+        "wordCount": 77,
+        "characterCount": 457,
+        "nonWhitespaceCharacterCount": 377
+      },
+      "frontmatter": {
+        "tags": [
+          "🪴",
+          "RH",
+          "technique"
+        ]
+      }
+    },
+    "Garden/relative minor.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 156,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.52,
+      "characterCount": 881,
+      "nonWhitespaceCharacterCount": 711,
+      "readingTimeInMinutes": 0.5886792452830188,
+      "linkCount": 7,
+      "embedCount": 1,
+      "aliases": null,
+      "createdDate": 1737535416882,
+      "modifiedDate": 1741078688775,
+      "sizeInBytes": 930,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.52,
+        "wordCount": 156,
+        "characterCount": 881,
+        "nonWhitespaceCharacterCount": 711
+      },
+      "frontmatter": {
+        "tags": [
+          "🌱",
+          "musictheory",
+          "basics"
+        ]
+      }
+    },
+    "Garden/reading tablatures.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 166,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.5533333333333333,
+      "characterCount": 997,
+      "nonWhitespaceCharacterCount": 820,
+      "readingTimeInMinutes": 0.6264150943396226,
+      "linkCount": 8,
+      "embedCount": 1,
+      "aliases": null,
+      "createdDate": 1739012448642,
+      "modifiedDate": 1739526849750,
+      "sizeInBytes": 1190,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.5533333333333333,
+        "wordCount": 166,
+        "characterCount": 997,
+        "nonWhitespaceCharacterCount": 820
+      },
+      "frontmatter": {
+        "tags": [
+          "🪴",
+          "fretboardtheory",
+          "basics"
+        ],
+        "upstream": [
+          "[[fretboard]]"
+        ],
+        "downstream": null,
+        "aligned": null,
+        "contrasting": [
+          "[[the staff]]",
+          "[[understanding chord diagrams|chord diagrams]]"
+        ]
+      }
+    },
+    "Garden/range.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 11,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.03666666666666667,
+      "characterCount": 77,
+      "nonWhitespaceCharacterCount": 66,
+      "readingTimeInMinutes": 0.04150943396226415,
+      "linkCount": 1,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1739176137639,
+      "modifiedDate": 1739176163732,
+      "sizeInBytes": 115,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.03666666666666667,
+        "wordCount": 11,
+        "characterCount": 77,
+        "nonWhitespaceCharacterCount": 66
+      },
+      "frontmatter": {
+        "tags": [
+          "🌱",
+          "musictheory"
+        ]
+      }
+    },
+    "Garden/pulling the strings out of the guitar.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 154,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.5133333333333333,
+      "characterCount": 974,
+      "nonWhitespaceCharacterCount": 803,
+      "readingTimeInMinutes": 0.5811320754716981,
+      "linkCount": 4,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1737713543208,
+      "modifiedDate": 1737714172240,
+      "sizeInBytes": 1017,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.5133333333333333,
+        "wordCount": 154,
+        "characterCount": 974,
+        "nonWhitespaceCharacterCount": 803
+      },
+      "frontmatter": {
+        "tags": [
+          "RH",
+          "technique",
+          "🌲"
+        ]
+      }
+    },
+    "Garden/practice.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 232,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.7733333333333333,
+      "characterCount": 1304,
+      "nonWhitespaceCharacterCount": 1058,
+      "readingTimeInMinutes": 0.8754716981132076,
+      "linkCount": 5,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1737153851115,
+      "modifiedDate": 1740649624813,
+      "sizeInBytes": 1348,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.7733333333333333,
+        "wordCount": 232,
+        "characterCount": 1304,
+        "nonWhitespaceCharacterCount": 1058
+      },
+      "frontmatter": {
+        "tags": [
+          "🌲",
+          "🗺",
+          "practice"
+        ]
+      }
+    },
+    "Garden/practice mode vs performance mode.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 919,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 3.0633333333333335,
+      "characterCount": 5506,
+      "nonWhitespaceCharacterCount": 4543,
+      "readingTimeInMinutes": 3.4679245283018867,
+      "linkCount": 3,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1740649625748,
+      "modifiedDate": 1740653927319,
+      "sizeInBytes": 5616,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 3.0633333333333335,
+        "wordCount": 919,
+        "characterCount": 5506,
+        "nonWhitespaceCharacterCount": 4543
+      },
+      "frontmatter": {
+        "tags": [
+          "🌱",
+          "practice"
+        ],
+        "aliases": null,
+        "upstream": [
+          "[[practice]]"
+        ],
+        "downstream": null,
+        "aligned": null,
+        "contrasting": null
+      }
+    },
+    "Garden/posture.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 58,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.19333333333333333,
+      "characterCount": 355,
+      "nonWhitespaceCharacterCount": 285,
+      "readingTimeInMinutes": 0.2188679245283019,
+      "linkCount": 5,
+      "embedCount": 1,
+      "aliases": null,
+      "createdDate": 1737240182982,
+      "modifiedDate": 1738598685228,
+      "sizeInBytes": 403,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.19333333333333333,
+        "wordCount": 58,
+        "characterCount": 355,
+        "nonWhitespaceCharacterCount": 285
+      },
+      "frontmatter": {
+        "tags": [
+          "🌱",
+          "technique",
+          "posture"
+        ]
+      }
+    },
+    "Garden/plucking from the hand.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 110,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.36666666666666664,
+      "characterCount": 619,
+      "nonWhitespaceCharacterCount": 498,
+      "readingTimeInMinutes": 0.41509433962264153,
+      "linkCount": 2,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1737714246189,
+      "modifiedDate": 1737714531026,
+      "sizeInBytes": 673,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.36666666666666664,
+        "wordCount": 110,
+        "characterCount": 619,
+        "nonWhitespaceCharacterCount": 498
+      },
+      "frontmatter": {
+        "tags": [
+          "🌲",
+          "technique",
+          "RH",
+          "basics"
+        ]
+      }
+    },
+    "Garden/pitch.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 11,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.03666666666666667,
+      "characterCount": 74,
+      "nonWhitespaceCharacterCount": 61,
+      "readingTimeInMinutes": 0.04150943396226415,
+      "linkCount": 3,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1737150617059,
+      "modifiedDate": 1737208775960,
+      "sizeInBytes": 121,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.03666666666666667,
+        "wordCount": 11,
+        "characterCount": 74,
+        "nonWhitespaceCharacterCount": 61
+      },
+      "frontmatter": {
+        "tags": [
+          "🌲",
+          "🗺",
+          "musictheory"
+        ]
+      }
+    },
+    "Garden/pick.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 135,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.45,
+      "characterCount": 800,
+      "nonWhitespaceCharacterCount": 656,
+      "readingTimeInMinutes": 0.5094339622641509,
+      "linkCount": 3,
+      "embedCount": 1,
+      "aliases": null,
+      "createdDate": 1737151451493,
+      "modifiedDate": 1739265149531,
+      "sizeInBytes": 986,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.45,
+        "wordCount": 135,
+        "characterCount": 800,
+        "nonWhitespaceCharacterCount": 656
+      },
+      "frontmatter": {
+        "tags": [
+          "🌲",
+          "technique",
+          "gear",
+          "RH"
+        ],
+        "upstream": [
+          "[[right hand]]"
+        ],
+        "downstream": [
+          "[[strumming]]",
+          "[[single note picking]]"
+        ],
+        "aligned": null,
+        "contrasting": [
+          "[[fingers]]"
+        ]
+      }
+    },
+    "Garden/parts of the guitar.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 42,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.14,
+      "characterCount": 344,
+      "nonWhitespaceCharacterCount": 281,
+      "readingTimeInMinutes": 0.15849056603773584,
+      "linkCount": 14,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1737819935515,
+      "modifiedDate": 1738840748308,
+      "sizeInBytes": 449,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.14,
+        "wordCount": 42,
+        "characterCount": 344,
+        "nonWhitespaceCharacterCount": 281
+      },
+      "frontmatter": {
+        "tags": [
+          "🌲",
+          "basics",
+          "gear"
+        ],
+        "upstream": [
+          "[[guitar]]"
+        ],
+        "downstream": null,
+        "aligned": null,
+        "contrasting": null
+      }
+    },
+    "Garden/nut.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 83,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.27666666666666667,
+      "characterCount": 460,
+      "nonWhitespaceCharacterCount": 375,
+      "readingTimeInMinutes": 0.3132075471698113,
+      "linkCount": 4,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1738836193384,
+      "modifiedDate": 1738840495416,
+      "sizeInBytes": 521,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.27666666666666667,
+        "wordCount": 83,
+        "characterCount": 460,
+        "nonWhitespaceCharacterCount": 375
+      },
+      "frontmatter": {
+        "tags": [
+          "🌱",
+          "gear"
+        ],
+        "upstream": [
+          "[[headstock]]"
+        ]
+      }
+    },
+    "Garden/note repetition on the fretboard.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 230,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.7666666666666667,
+      "characterCount": 1371,
+      "nonWhitespaceCharacterCount": 1128,
+      "readingTimeInMinutes": 0.8679245283018868,
+      "linkCount": 4,
+      "embedCount": 1,
+      "aliases": null,
+      "createdDate": 1738229192633,
+      "modifiedDate": 1738230919363,
+      "sizeInBytes": 1423,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.7666666666666667,
+        "wordCount": 230,
+        "characterCount": 1371,
+        "nonWhitespaceCharacterCount": 1128
+      },
+      "frontmatter": {
+        "tags": [
+          "🌲",
+          "LH",
+          "#fretboardtheory"
+        ]
+      }
+    },
+    "Garden/neck.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 105,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.35,
+      "characterCount": 606,
+      "nonWhitespaceCharacterCount": 494,
+      "readingTimeInMinutes": 0.39622641509433965,
+      "linkCount": 2,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1738836524432,
+      "modifiedDate": 1739437216788,
+      "sizeInBytes": 760,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.35,
+        "wordCount": 105,
+        "characterCount": 606,
+        "nonWhitespaceCharacterCount": 494
+      },
+      "frontmatter": {
+        "tags": [
+          "🌱",
+          "gear"
+        ],
+        "upstream": [
+          "[[parts of the guitar]]"
+        ],
+        "downstream": [
+          "[[neck profile]]",
+          "[[string spacing]]"
+        ],
+        "aligned": null,
+        "contrasting": null
+      }
+    },
+    "Garden/natural harmonics.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 179,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.5966666666666667,
+      "characterCount": 1101,
+      "nonWhitespaceCharacterCount": 912,
+      "readingTimeInMinutes": 0.6754716981132075,
+      "linkCount": 7,
+      "embedCount": 1,
+      "aliases": null,
+      "createdDate": 1738317479764,
+      "modifiedDate": 1738319601009,
+      "sizeInBytes": 1143,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.5966666666666667,
+        "wordCount": 179,
+        "characterCount": 1101,
+        "nonWhitespaceCharacterCount": 912
+      },
+      "frontmatter": {
+        "tags": [
+          "🪴",
+          "fretboardtheory"
+        ]
+      }
+    },
+    "Garden/nails.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 71,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.23666666666666666,
+      "characterCount": 454,
+      "nonWhitespaceCharacterCount": 379,
+      "readingTimeInMinutes": 0.2679245283018868,
+      "linkCount": 9,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1737204543812,
+      "modifiedDate": 1737573746102,
+      "sizeInBytes": 508,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.23666666666666666,
+        "wordCount": 71,
+        "characterCount": 454,
+        "nonWhitespaceCharacterCount": 379
+      },
+      "frontmatter": {
+        "tags": [
+          "🌲",
+          "🗺",
+          "technique",
+          "gear"
+        ]
+      }
+    },
+    "Garden/nail shape.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 37,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.12333333333333334,
+      "characterCount": 220,
+      "nonWhitespaceCharacterCount": 173,
+      "readingTimeInMinutes": 0.13962264150943396,
+      "linkCount": 1,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1737209448476,
+      "modifiedDate": 1737209583711,
+      "sizeInBytes": 251,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.12333333333333334,
+        "wordCount": 37,
+        "characterCount": 220,
+        "nonWhitespaceCharacterCount": 173
+      },
+      "frontmatter": {
+        "tags": [
+          "🌱",
+          "gear"
+        ]
+      }
+    },
+    "Garden/my gear.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 154,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.5133333333333333,
+      "characterCount": 975,
+      "nonWhitespaceCharacterCount": 802,
+      "readingTimeInMinutes": 0.5811320754716981,
+      "linkCount": 2,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1737530433716,
+      "modifiedDate": 1741003512305,
+      "sizeInBytes": 1019,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.5133333333333333,
+        "wordCount": 154,
+        "characterCount": 975,
+        "nonWhitespaceCharacterCount": 802
+      },
+      "frontmatter": {
+        "tags": [
+          "🌲",
+          "gear",
+          "personal"
+        ]
+      }
+    },
+    "Garden/my current nail situation.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 196,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.6533333333333333,
+      "characterCount": 1098,
+      "nonWhitespaceCharacterCount": 890,
+      "readingTimeInMinutes": 0.7396226415094339,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1737573753004,
+      "modifiedDate": 1737632840345,
+      "sizeInBytes": 1146,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.6533333333333333,
+        "wordCount": 196,
+        "characterCount": 1098,
+        "nonWhitespaceCharacterCount": 890
+      },
+      "frontmatter": {
+        "tags": [
+          "🪴",
+          "gear",
+          "personal"
+        ]
+      }
+    },
+    "Garden/muted notes.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 94,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.31333333333333335,
+      "characterCount": 522,
+      "nonWhitespaceCharacterCount": 422,
+      "readingTimeInMinutes": 0.35471698113207545,
+      "linkCount": 2,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1737742294546,
+      "modifiedDate": 1739526999591,
+      "sizeInBytes": 576,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.31333333333333335,
+        "wordCount": 94,
+        "characterCount": 522,
+        "nonWhitespaceCharacterCount": 422
+      },
+      "frontmatter": {
+        "tags": [
+          "🌱",
+          "LH",
+          "technique",
+          "basics"
+        ]
+      }
+    },
+    "Garden/musical literacy.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 96,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.32,
+      "characterCount": 622,
+      "nonWhitespaceCharacterCount": 519,
+      "readingTimeInMinutes": 0.3622641509433962,
+      "linkCount": 10,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1737150725278,
+      "modifiedDate": 1739525400526,
+      "sizeInBytes": 671,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.32,
+        "wordCount": 96,
+        "characterCount": 622,
+        "nonWhitespaceCharacterCount": 519
+      },
+      "frontmatter": {
+        "tags": [
+          "🌲",
+          "musictheory",
+          "basics"
+        ]
+      }
+    },
+    "Garden/music theory.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 92,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.30666666666666664,
+      "characterCount": 591,
+      "nonWhitespaceCharacterCount": 485,
+      "readingTimeInMinutes": 0.3471698113207547,
+      "linkCount": 12,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1737150572544,
+      "modifiedDate": 1738668676813,
+      "sizeInBytes": 638,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.30666666666666664,
+        "wordCount": 92,
+        "characterCount": 591,
+        "nonWhitespaceCharacterCount": 485
+      },
+      "frontmatter": {
+        "tags": [
+          "🌲",
+          "🗺",
+          "musictheory"
+        ]
+      }
+    },
+    "Garden/music genres.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 4,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.013333333333333334,
+      "characterCount": 49,
+      "nonWhitespaceCharacterCount": 45,
+      "readingTimeInMinutes": 0.01509433962264151,
+      "linkCount": 4,
+      "embedCount": 0,
+      "aliases": [
+        "musical genre",
+        "genre"
+      ],
+      "createdDate": 1737153018586,
+      "modifiedDate": 1737218456994,
+      "sizeInBytes": 128,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.013333333333333334,
+        "wordCount": 4,
+        "characterCount": 49,
+        "nonWhitespaceCharacterCount": 45
+      },
+      "frontmatter": {
+        "tags": [
+          "🌲",
+          "🗺",
+          "genres"
+        ],
+        "aliases": [
+          "musical genre",
+          "genre"
+        ]
+      }
+    },
+    "Garden/more colourful open tunings.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 145,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.48333333333333334,
+      "characterCount": 769,
+      "nonWhitespaceCharacterCount": 600,
+      "readingTimeInMinutes": 0.5471698113207547,
+      "linkCount": 2,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1737153297682,
+      "modifiedDate": 1739109055336,
+      "sizeInBytes": 889,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.48333333333333334,
+        "wordCount": 145,
+        "characterCount": 769,
+        "nonWhitespaceCharacterCount": 600
+      },
+      "frontmatter": {
+        "tags": [
+          "🌲",
+          "tunings"
+        ],
+        "upstream": [
+          "[[alternate tunings]]"
+        ],
+        "downstream": null,
+        "aligned": null,
+        "contrasting": null
+      }
+    },
+    "Garden/modern fingerstyle.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 245,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.8166666666666667,
+      "characterCount": 1611,
+      "nonWhitespaceCharacterCount": 1345,
+      "readingTimeInMinutes": 0.9245283018867925,
+      "linkCount": 17,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1738240973477,
+      "modifiedDate": 1741082287328,
+      "sizeInBytes": 1807,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.8166666666666667,
+        "wordCount": 245,
+        "characterCount": 1611,
+        "nonWhitespaceCharacterCount": 1345
+      },
+      "frontmatter": {
+        "tags": [
+          "🪴",
+          "genres",
+          "technique",
+          "personal"
+        ],
+        "aliases": null,
+        "upstream": [
+          "[[fingerstyle]]",
+          "[[music genres|genre]]"
+        ],
+        "downstream": null,
+        "aligned": [
+          "[[extended techniques]]"
+        ],
+        "contrasting": null
+      }
+    },
+    "Garden/minor scales.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 68,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.22666666666666666,
+      "characterCount": 425,
+      "nonWhitespaceCharacterCount": 350,
+      "readingTimeInMinutes": 0.25660377358490566,
+      "linkCount": 7,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1738233246105,
+      "modifiedDate": 1739437029844,
+      "sizeInBytes": 463,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.22666666666666666,
+        "wordCount": 68,
+        "characterCount": 425,
+        "nonWhitespaceCharacterCount": 350
+      },
+      "frontmatter": {
+        "tags": [
+          "🪴",
+          "musictheory"
+        ]
+      }
+    },
+    "Garden/major triads in standard tuning.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 134,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.44666666666666666,
+      "characterCount": 932,
+      "nonWhitespaceCharacterCount": 776,
+      "readingTimeInMinutes": 0.5056603773584906,
+      "linkCount": 12,
+      "embedCount": 5,
+      "aliases": null,
+      "createdDate": 1739111189847,
+      "modifiedDate": 1740647314202,
+      "sizeInBytes": 1112,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.44666666666666666,
+        "wordCount": 134,
+        "characterCount": 932,
+        "nonWhitespaceCharacterCount": 776
+      },
+      "frontmatter": {
+        "tags": [
+          "🪴",
+          "fretboardtheory"
+        ],
+        "upstream": [
+          "[[fretboard]]",
+          "[[standard tuning]]",
+          "[[triads]]"
+        ],
+        "downstream": null,
+        "aligned": null,
+        "contrasting": [
+          "[[major triads in P4]]"
+        ]
+      }
+    },
+    "Garden/major scale.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 208,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.6933333333333334,
+      "characterCount": 1306,
+      "nonWhitespaceCharacterCount": 1068,
+      "readingTimeInMinutes": 0.7849056603773585,
+      "linkCount": 17,
+      "embedCount": 2,
+      "aliases": null,
+      "createdDate": 1737369414409,
+      "modifiedDate": 1741081213816,
+      "sizeInBytes": 1402,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.6933333333333334,
+        "wordCount": 208,
+        "characterCount": 1306,
+        "nonWhitespaceCharacterCount": 1068
+      },
+      "frontmatter": {
+        "tags": [
+          "🌱",
+          "basics",
+          "musictheory"
+        ],
+        "aliases": [],
+        "formula": "221 2 221",
+        "function": [
+          "T"
+        ]
+      }
+    },
+    "Garden/major scale harmonisation in triads.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 223,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.7433333333333333,
+      "characterCount": 1367,
+      "nonWhitespaceCharacterCount": 1124,
+      "readingTimeInMinutes": 0.8415094339622642,
+      "linkCount": 18,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1737415036078,
+      "modifiedDate": 1741078688773,
+      "sizeInBytes": 1417,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.7433333333333333,
+        "wordCount": 223,
+        "characterCount": 1367,
+        "nonWhitespaceCharacterCount": 1124
+      },
+      "frontmatter": {
+        "tags": [
+          "🌱",
+          "musictheory",
+          "basics"
+        ]
+      }
+    },
+    "Garden/major scale harmonisation in tetrads.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 107,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.3566666666666667,
+      "characterCount": 739,
+      "nonWhitespaceCharacterCount": 609,
+      "readingTimeInMinutes": 0.4037735849056604,
+      "linkCount": 6,
+      "embedCount": 1,
+      "aliases": null,
+      "createdDate": 1738744520669,
+      "modifiedDate": 1739265956526,
+      "sizeInBytes": 986,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.3566666666666667,
+        "wordCount": 107,
+        "characterCount": 739,
+        "nonWhitespaceCharacterCount": 609
+      },
+      "frontmatter": {
+        "tags": [
+          "🪴",
+          "musictheory"
+        ],
+        "upstream": [
+          "[[major scale]]",
+          "[[tetrads]]",
+          "[[major scale harmonisation in triads]]",
+          "[[functions]]"
+        ],
+        "downstream": null,
+        "aligned": null,
+        "contrasting": [
+          "[[harmonic minor scale harmonisation in tetrads]]"
+        ]
+      }
+    },
+    "Garden/lh thumb.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 89,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.2966666666666667,
+      "characterCount": 522,
+      "nonWhitespaceCharacterCount": 429,
+      "readingTimeInMinutes": 0.33584905660377357,
+      "linkCount": 4,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1737217970952,
+      "modifiedDate": 1737218217240,
+      "sizeInBytes": 565,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.2966666666666667,
+        "wordCount": 89,
+        "characterCount": 522,
+        "nonWhitespaceCharacterCount": 429
+      },
+      "frontmatter": {
+        "tags": [
+          "🌱",
+          "LH",
+          "technique"
+        ]
+      }
+    },
+    "Garden/lh thumb over or behind the neck.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 406,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 1.3533333333333333,
+      "characterCount": 2352,
+      "nonWhitespaceCharacterCount": 1927,
+      "readingTimeInMinutes": 1.5320754716981133,
+      "linkCount": 7,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1737743182564,
+      "modifiedDate": 1737745865832,
+      "sizeInBytes": 2408,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 1.3533333333333333,
+        "wordCount": 406,
+        "characterCount": 2352,
+        "nonWhitespaceCharacterCount": 1927
+      },
+      "frontmatter": {
+        "tags": [
+          "🌲",
+          "technique",
+          "LH",
+          "personal"
+        ]
+      }
+    },
+    "Garden/let gravity help you.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 310,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 1.0333333333333334,
+      "characterCount": 1759,
+      "nonWhitespaceCharacterCount": 1436,
+      "readingTimeInMinutes": 1.169811320754717,
+      "linkCount": 7,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1738225481243,
+      "modifiedDate": 1738226203243,
+      "sizeInBytes": 1802,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 1.0333333333333334,
+        "wordCount": 310,
+        "characterCount": 1759,
+        "nonWhitespaceCharacterCount": 1436
+      },
+      "frontmatter": {
+        "tags": [
+          "🌲",
+          "LH",
+          "technique"
+        ]
+      }
+    },
+    "Garden/left hand.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 46,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.15333333333333332,
+      "characterCount": 306,
+      "nonWhitespaceCharacterCount": 254,
+      "readingTimeInMinutes": 0.17358490566037735,
+      "linkCount": 10,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1737150452216,
+      "modifiedDate": 1739436905197,
+      "sizeInBytes": 439,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.15333333333333332,
+        "wordCount": 46,
+        "characterCount": 306,
+        "nonWhitespaceCharacterCount": 254
+      },
+      "frontmatter": {
+        "tags": [
+          "🌲",
+          "#LH",
+          "technique"
+        ],
+        "upstream": [
+          "[[technique]]"
+        ],
+        "downstream": null,
+        "aligned": null,
+        "contrasting": [
+          "[[right hand]]"
+        ]
+      }
+    },
+    "Garden/left hand fingerings.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 151,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.5033333333333333,
+      "characterCount": 923,
+      "nonWhitespaceCharacterCount": 749,
+      "readingTimeInMinutes": 0.569811320754717,
+      "linkCount": 2,
+      "embedCount": 1,
+      "aliases": null,
+      "createdDate": 1737450509590,
+      "modifiedDate": 1739266635888,
+      "sizeInBytes": 1129,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.5033333333333333,
+        "wordCount": 151,
+        "characterCount": 923,
+        "nonWhitespaceCharacterCount": 749
+      },
+      "frontmatter": {
+        "tags": [
+          "🪴",
+          "technique",
+          "LH"
+        ],
+        "upstream": [
+          "[[fingerings]]",
+          "[[left hand]]"
+        ],
+        "downstream": [
+          "[[how to choose left hand fingerings]]"
+        ],
+        "aligned": null,
+        "contrasting": [
+          "[[right hand fingerings]]"
+        ]
+      }
+    },
+    "Garden/left hand exercises.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 152,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.5066666666666667,
+      "characterCount": 1006,
+      "nonWhitespaceCharacterCount": 838,
+      "readingTimeInMinutes": 0.5735849056603773,
+      "linkCount": 8,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1739180408300,
+      "modifiedDate": 1740647476876,
+      "sizeInBytes": 1190,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.5066666666666667,
+        "wordCount": 152,
+        "characterCount": 1006,
+        "nonWhitespaceCharacterCount": 838
+      },
+      "frontmatter": {
+        "tags": [
+          "technique",
+          "🗺",
+          "🌱"
+        ],
+        "aliases": null,
+        "upstream": [
+          "[[left hand]]",
+          "[[technique]]"
+        ],
+        "downstream": null,
+        "aligned": null,
+        "contrasting": [
+          "[[right hand picking exercises]]"
+        ]
+      }
+    },
+    "Garden/key signature.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 161,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.5366666666666666,
+      "characterCount": 1288,
+      "nonWhitespaceCharacterCount": 699,
+      "readingTimeInMinutes": 0.6075471698113207,
+      "linkCount": 1,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1739697200691,
+      "modifiedDate": 1739697558501,
+      "sizeInBytes": 1436,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.5366666666666666,
+        "wordCount": 161,
+        "characterCount": 1288,
+        "nonWhitespaceCharacterCount": 699
+      },
+      "frontmatter": {
+        "tags": [
+          "🌱",
+          "musictheory"
+        ],
+        "aliases": null,
+        "upstream": [
+          "[[musical literacy]]",
+          "[[the 12 semitones]]"
+        ],
+        "downstream": null,
+        "aligned": null,
+        "contrasting": null
+      }
+    },
+    "Garden/inversions.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 288,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.96,
+      "characterCount": 2020,
+      "nonWhitespaceCharacterCount": 1557,
+      "readingTimeInMinutes": 1.0867924528301887,
+      "linkCount": 8,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1739184385652,
+      "modifiedDate": 1739185702389,
+      "sizeInBytes": 2187,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.96,
+        "wordCount": 288,
+        "characterCount": 2020,
+        "nonWhitespaceCharacterCount": 1557
+      },
+      "frontmatter": {
+        "tags": [
+          "musictheory",
+          "🪴"
+        ],
+        "aliases": null,
+        "upstream": [
+          "[[chord voicings]]"
+        ],
+        "downstream": null,
+        "aligned": null,
+        "contrasting": [
+          "[[root position]]"
+        ]
+      }
+    },
+    "Garden/intervals.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 329,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 1.0966666666666667,
+      "characterCount": 3062,
+      "nonWhitespaceCharacterCount": 1583,
+      "readingTimeInMinutes": 1.241509433962264,
+      "linkCount": 30,
+      "embedCount": 0,
+      "aliases": [
+        "interval"
+      ],
+      "createdDate": 1738227292199,
+      "modifiedDate": 1741080853623,
+      "sizeInBytes": 3139,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 1.0966666666666667,
+        "wordCount": 329,
+        "characterCount": 3062,
+        "nonWhitespaceCharacterCount": 1583
+      },
+      "frontmatter": {
+        "tags": [
+          "🪴",
+          "musictheory",
+          "basics"
+        ],
+        "aliases": [
+          "interval"
+        ]
+      }
+    },
+    "Garden/intent.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 126,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.42,
+      "characterCount": 727,
+      "nonWhitespaceCharacterCount": 596,
+      "readingTimeInMinutes": 0.47547169811320755,
+      "linkCount": 1,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1738002305243,
+      "modifiedDate": 1738709283200,
+      "sizeInBytes": 770,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.42,
+        "wordCount": 126,
+        "characterCount": 727,
+        "nonWhitespaceCharacterCount": 596
+      },
+      "frontmatter": {
+        "tags": [
+          "🌱",
+          "RH",
+          "technique"
+        ]
+      }
+    },
+    "Garden/intellectual vs experiential knowing.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 232,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.7733333333333333,
+      "characterCount": 1369,
+      "nonWhitespaceCharacterCount": 1124,
+      "readingTimeInMinutes": 0.8754716981132076,
+      "linkCount": 2,
+      "embedCount": 0,
+      "aliases": [
+        "know vs know-how",
+        "theory vs practice"
+      ],
+      "createdDate": 1738231174261,
+      "modifiedDate": 1739179125020,
+      "sizeInBytes": 1550,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.7733333333333333,
+        "wordCount": 232,
+        "characterCount": 1369,
+        "nonWhitespaceCharacterCount": 1124
+      },
+      "frontmatter": {
+        "tags": [
+          "🌲",
+          "practice",
+          "meta"
+        ],
+        "aliases": [
+          "know vs know-how",
+          "theory vs practice"
+        ],
+        "upstream": [
+          "[[practice]]"
+        ],
+        "downstream": null,
+        "aligned": [
+          "[[audiation]]"
+        ],
+        "contrasting": null
+      }
+    },
+    "Garden/how to practice reading rhythm.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 243,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.81,
+      "characterCount": 1962,
+      "nonWhitespaceCharacterCount": 1665,
+      "readingTimeInMinutes": 0.9169811320754717,
+      "linkCount": 5,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1740470572378,
+      "modifiedDate": 1740475564609,
+      "sizeInBytes": 2112,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.81,
+        "wordCount": 243,
+        "characterCount": 1962,
+        "nonWhitespaceCharacterCount": 1665
+      },
+      "frontmatter": {
+        "tags": [
+          "🌱",
+          "musictheory"
+        ],
+        "aliases": null,
+        "upstream": [
+          "[[basic rhythm notation]]",
+          "[[music theory]]"
+        ],
+        "downstream": null,
+        "aligned": null,
+        "contrasting": null
+      }
+    },
+    "Garden/how to map out a new tuning ?.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 430,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 1.4333333333333333,
+      "characterCount": 2320,
+      "nonWhitespaceCharacterCount": 1873,
+      "readingTimeInMinutes": 1.6226415094339623,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1737153562861,
+      "modifiedDate": 1737208901497,
+      "sizeInBytes": 2354,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 1.4333333333333333,
+        "wordCount": 430,
+        "characterCount": 2320,
+        "nonWhitespaceCharacterCount": 1873
+      },
+      "frontmatter": {
+        "tags": [
+          "🌲",
+          "tunings"
+        ]
+      }
+    },
+    "Garden/how can you find tunings to explore ?.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 179,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.5966666666666667,
+      "characterCount": 974,
+      "nonWhitespaceCharacterCount": 787,
+      "readingTimeInMinutes": 0.6754716981132075,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1737153557292,
+      "modifiedDate": 1737208914782,
+      "sizeInBytes": 1008,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.5966666666666667,
+        "wordCount": 179,
+        "characterCount": 974,
+        "nonWhitespaceCharacterCount": 787
+      },
+      "frontmatter": {
+        "tags": [
+          "🌲",
+          "tunings"
+        ]
+      }
+    },
+    "Garden/headstock.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 166,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.5533333333333333,
+      "characterCount": 1063,
+      "nonWhitespaceCharacterCount": 883,
+      "readingTimeInMinutes": 0.6264150943396226,
+      "linkCount": 8,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1738834675503,
+      "modifiedDate": 1738840459211,
+      "sizeInBytes": 1186,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.5533333333333333,
+        "wordCount": 166,
+        "characterCount": 1063,
+        "nonWhitespaceCharacterCount": 883
+      },
+      "frontmatter": {
+        "tags": [
+          "🪴",
+          "gear"
+        ],
+        "upstream": [
+          "[[parts of the guitar]]"
+        ],
+        "downstream": [
+          "[[tuners]]"
+        ],
+        "aligned": null,
+        "contrasting": null
+      }
+    },
+    "Garden/harmony.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 42,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.14,
+      "characterCount": 260,
+      "nonWhitespaceCharacterCount": 216,
+      "readingTimeInMinutes": 0.15849056603773584,
+      "linkCount": 4,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1737151225681,
+      "modifiedDate": 1737626886234,
+      "sizeInBytes": 307,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.14,
+        "wordCount": 42,
+        "characterCount": 260,
+        "nonWhitespaceCharacterCount": 216
+      },
+      "frontmatter": {
+        "tags": [
+          "🌲",
+          "🗺",
+          "musictheory"
+        ]
+      }
+    },
+    "Garden/harmonic series.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 415,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 1.3833333333333333,
+      "characterCount": 3445,
+      "nonWhitespaceCharacterCount": 2392,
+      "readingTimeInMinutes": 1.5660377358490567,
+      "linkCount": 18,
+      "embedCount": 1,
+      "aliases": null,
+      "createdDate": 1738315586850,
+      "modifiedDate": 1738401211652,
+      "sizeInBytes": 3502,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 1.3833333333333333,
+        "wordCount": 415,
+        "characterCount": 3445,
+        "nonWhitespaceCharacterCount": 2392
+      },
+      "frontmatter": {
+        "tags": [
+          "🪴",
+          "musictheory",
+          "basics"
+        ]
+      }
+    },
+    "Garden/harmonic minor scale harmonisation in triads.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 113,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.37666666666666665,
+      "characterCount": 709,
+      "nonWhitespaceCharacterCount": 580,
+      "readingTimeInMinutes": 0.42641509433962266,
+      "linkCount": 9,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1737841271885,
+      "modifiedDate": 1741078688769,
+      "sizeInBytes": 760,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.37666666666666665,
+        "wordCount": 113,
+        "characterCount": 709,
+        "nonWhitespaceCharacterCount": 580
+      },
+      "frontmatter": {
+        "tags": [
+          "🪴",
+          "musictheory",
+          "basics"
+        ]
+      }
+    },
+    "Garden/guitar.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 30,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.1,
+      "characterCount": 258,
+      "nonWhitespaceCharacterCount": 216,
+      "readingTimeInMinutes": 0.11320754716981132,
+      "linkCount": 9,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1737136470223,
+      "modifiedDate": 1738708608981,
+      "sizeInBytes": 298,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.1,
+        "wordCount": 30,
+        "characterCount": 258,
+        "nonWhitespaceCharacterCount": 216
+      },
+      "frontmatter": {
+        "tags": [
+          "🌲",
+          "🗺",
+          "meta"
+        ]
+      }
+    },
+    "Garden/good habits for barre chords.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 66,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.22,
+      "characterCount": 404,
+      "nonWhitespaceCharacterCount": 332,
+      "readingTimeInMinutes": 0.2490566037735849,
+      "linkCount": 6,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1738225195977,
+      "modifiedDate": 1738225471492,
+      "sizeInBytes": 447,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.22,
+        "wordCount": 66,
+        "characterCount": 404,
+        "nonWhitespaceCharacterCount": 332
+      },
+      "frontmatter": {
+        "tags": [
+          "🌱",
+          "LH",
+          "technique"
+        ]
+      }
+    },
+    "Garden/gear considerations for alternate tunings.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 291,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.97,
+      "characterCount": 1651,
+      "nonWhitespaceCharacterCount": 1348,
+      "readingTimeInMinutes": 1.0981132075471698,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1737153577155,
+      "modifiedDate": 1737208952888,
+      "sizeInBytes": 1694,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.97,
+        "wordCount": 291,
+        "characterCount": 1651,
+        "nonWhitespaceCharacterCount": 1348
+      },
+      "frontmatter": {
+        "tags": [
+          "🌲",
+          "gear",
+          "tunings"
+        ]
+      }
+    },
+    "Garden/functions.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 89,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.2966666666666667,
+      "characterCount": 548,
+      "nonWhitespaceCharacterCount": 450,
+      "readingTimeInMinutes": 0.33584905660377357,
+      "linkCount": 6,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1737543364898,
+      "modifiedDate": 1741078521353,
+      "sizeInBytes": 586,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.2966666666666667,
+        "wordCount": 89,
+        "characterCount": 548,
+        "nonWhitespaceCharacterCount": 450
+      },
+      "frontmatter": {
+        "tags": [
+          "🪴",
+          "musictheory"
+        ]
+      }
+    },
+    "Garden/fuck talent.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 725,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 2.4166666666666665,
+      "characterCount": 4062,
+      "nonWhitespaceCharacterCount": 3306,
+      "readingTimeInMinutes": 2.7358490566037736,
+      "linkCount": 2,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1739438720922,
+      "modifiedDate": 1739439036849,
+      "sizeInBytes": 4186,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 2.4166666666666665,
+        "wordCount": 725,
+        "characterCount": 4062,
+        "nonWhitespaceCharacterCount": 3306
+      },
+      "frontmatter": {
+        "tags": [
+          "🪴",
+          "practice",
+          "personal"
+        ],
+        "aliases": null,
+        "upstream": [
+          "[[practice]]"
+        ],
+        "downstream": null,
+        "aligned": null,
+        "contrasting": null
+      }
+    },
+    "Garden/fretting.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 214,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.7133333333333334,
+      "characterCount": 1222,
+      "nonWhitespaceCharacterCount": 990,
+      "readingTimeInMinutes": 0.8075471698113208,
+      "linkCount": 5,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1737155588439,
+      "modifiedDate": 1738711355012,
+      "sizeInBytes": 1276,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.7133333333333334,
+        "wordCount": 214,
+        "characterCount": 1222,
+        "nonWhitespaceCharacterCount": 990
+      },
+      "frontmatter": {
+        "tags": [
+          "LH",
+          "technique",
+          "basics",
+          "🪴"
+        ]
+      }
+    },
+    "Garden/frets.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 144,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.48,
+      "characterCount": 825,
+      "nonWhitespaceCharacterCount": 675,
+      "readingTimeInMinutes": 0.5433962264150943,
+      "linkCount": 3,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1738838104765,
+      "modifiedDate": 1738838607443,
+      "sizeInBytes": 856,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.48,
+        "wordCount": 144,
+        "characterCount": 825,
+        "nonWhitespaceCharacterCount": 675
+      },
+      "frontmatter": {
+        "tags": [
+          "🌱",
+          "gear"
+        ]
+      }
+    },
+    "Garden/fretboard.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 298,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.9933333333333333,
+      "characterCount": 1832,
+      "nonWhitespaceCharacterCount": 1510,
+      "readingTimeInMinutes": 1.1245283018867924,
+      "linkCount": 11,
+      "embedCount": 1,
+      "aliases": null,
+      "createdDate": 1738401242759,
+      "modifiedDate": 1738840729032,
+      "sizeInBytes": 2069,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.9933333333333333,
+        "wordCount": 298,
+        "characterCount": 1832,
+        "nonWhitespaceCharacterCount": 1510
+      },
+      "frontmatter": {
+        "tags": [
+          "🪴",
+          "fretboardtheory"
+        ],
+        "upstream": [
+          "[[parts of the guitar]]",
+          "[[the 12 semitones]]"
+        ],
+        "downstream": [
+          "[[intervals in standard tuning]]",
+          "[[intervals in P4 tuning]]",
+          "[[fingerings]]"
+        ],
+        "aligned": null,
+        "contrasting": null
+      }
+    },
+    "Garden/free strokes.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 59,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.19666666666666666,
+      "characterCount": 347,
+      "nonWhitespaceCharacterCount": 286,
+      "readingTimeInMinutes": 0.22264150943396227,
+      "linkCount": 4,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1738147610179,
+      "modifiedDate": 1738224165864,
+      "sizeInBytes": 394,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.19666666666666666,
+        "wordCount": 59,
+        "characterCount": 347,
+        "nonWhitespaceCharacterCount": 286
+      },
+      "frontmatter": {
+        "tags": [
+          "🪴",
+          "RH",
+          "technique"
+        ]
+      }
+    },
+    "Garden/form.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 351,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 1.17,
+      "characterCount": 2088,
+      "nonWhitespaceCharacterCount": 1707,
+      "readingTimeInMinutes": 1.3245283018867924,
+      "linkCount": 13,
+      "embedCount": 0,
+      "aliases": [
+        "structure"
+      ],
+      "createdDate": 1741003594098,
+      "modifiedDate": 1741078521319,
+      "sizeInBytes": 2245,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 1.17,
+        "wordCount": 351,
+        "characterCount": 2088,
+        "nonWhitespaceCharacterCount": 1707
+      },
+      "frontmatter": {
+        "tags": [
+          "🌱"
+        ],
+        "aliases": [
+          "structure"
+        ],
+        "upstream": [
+          "[[music theory]]"
+        ],
+        "downstream": [
+          "[[12 bars blues]]",
+          "[[song form]]"
+        ],
+        "aligned": null,
+        "contrasting": null
+      }
+    },
+    "Garden/footstool.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 191,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.6366666666666667,
+      "characterCount": 1169,
+      "nonWhitespaceCharacterCount": 969,
+      "readingTimeInMinutes": 0.720754716981132,
+      "linkCount": 1,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1739697861727,
+      "modifiedDate": 1739698285033,
+      "sizeInBytes": 1362,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.6366666666666667,
+        "wordCount": 191,
+        "characterCount": 1169,
+        "nonWhitespaceCharacterCount": 969
+      },
+      "frontmatter": {
+        "tags": [
+          "posture",
+          "🪴"
+        ],
+        "aliases": null,
+        "upstream": [
+          "[[posture]]",
+          "[[the three main playing positions]]"
+        ],
+        "downstream": null,
+        "aligned": null,
+        "contrasting": [
+          "[[guitar supports]]",
+          "[[strap]]"
+        ]
+      }
+    },
+    "Garden/flag poling.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 82,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.2733333333333333,
+      "characterCount": 449,
+      "nonWhitespaceCharacterCount": 362,
+      "readingTimeInMinutes": 0.30943396226415093,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1737818837294,
+      "modifiedDate": 1737819214068,
+      "sizeInBytes": 495,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.2733333333333333,
+        "wordCount": 82,
+        "characterCount": 449,
+        "nonWhitespaceCharacterCount": 362
+      },
+      "frontmatter": {
+        "tags": [
+          "#🌱",
+          "LH",
+          "technique"
+        ]
+      }
+    },
+    "Garden/fingerstyle.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 64,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.21333333333333335,
+      "characterCount": 460,
+      "nonWhitespaceCharacterCount": 391,
+      "readingTimeInMinutes": 0.24150943396226415,
+      "linkCount": 9,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1738233930506,
+      "modifiedDate": 1738241548608,
+      "sizeInBytes": 507,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.21333333333333335,
+        "wordCount": 64,
+        "characterCount": 460,
+        "nonWhitespaceCharacterCount": 391
+      },
+      "frontmatter": {
+        "tags": [
+          "🪴",
+          "genres",
+          "technique"
+        ]
+      }
+    },
+    "Garden/fingers.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 57,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.19,
+      "characterCount": 414,
+      "nonWhitespaceCharacterCount": 351,
+      "readingTimeInMinutes": 0.21509433962264152,
+      "linkCount": 8,
+      "embedCount": 1,
+      "aliases": null,
+      "createdDate": 1737151402490,
+      "modifiedDate": 1739265099366,
+      "sizeInBytes": 636,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.19,
+        "wordCount": 57,
+        "characterCount": 414,
+        "nonWhitespaceCharacterCount": 351
+      },
+      "frontmatter": {
+        "tags": [
+          "🌲",
+          "RH",
+          "technique"
+        ],
+        "upstream": [
+          "[[right hand]]"
+        ],
+        "downstream": [
+          "[[classical right hand]]",
+          "[[fingerpicking right hand]]",
+          "[[nails]]",
+          "[[flesh]]"
+        ],
+        "aligned": null,
+        "contrasting": [
+          "[[pick]]"
+        ]
+      }
+    },
+    "Garden/fingers vs pick.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 721,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 2.4033333333333333,
+      "characterCount": 4291,
+      "nonWhitespaceCharacterCount": 3513,
+      "readingTimeInMinutes": 2.720754716981132,
+      "linkCount": 20,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1738055112174,
+      "modifiedDate": 1739437177897,
+      "sizeInBytes": 4334,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 2.4033333333333333,
+        "wordCount": 721,
+        "characterCount": 4291,
+        "nonWhitespaceCharacterCount": 3513
+      },
+      "frontmatter": {
+        "tags": [
+          "🪴",
+          "technique",
+          "RH"
+        ]
+      }
+    },
+    "Garden/fingers being too curved.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 133,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.44333333333333336,
+      "characterCount": 747,
+      "nonWhitespaceCharacterCount": 605,
+      "readingTimeInMinutes": 0.5018867924528302,
+      "linkCount": 2,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1737714962636,
+      "modifiedDate": 1737715266150,
+      "sizeInBytes": 801,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.44333333333333336,
+        "wordCount": 133,
+        "characterCount": 747,
+        "nonWhitespaceCharacterCount": 605
+      },
+      "frontmatter": {
+        "tags": [
+          "🌲",
+          "technique",
+          "RH",
+          "basics"
+        ]
+      }
+    },
+    "Garden/fingerpicking right hand.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 142,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.47333333333333333,
+      "characterCount": 886,
+      "nonWhitespaceCharacterCount": 732,
+      "readingTimeInMinutes": 0.5358490566037736,
+      "linkCount": 12,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1738327029711,
+      "modifiedDate": 1740647912916,
+      "sizeInBytes": 1041,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.47333333333333333,
+        "wordCount": 142,
+        "characterCount": 886,
+        "nonWhitespaceCharacterCount": 732
+      },
+      "frontmatter": {
+        "tags": [
+          "🪴",
+          "RH",
+          "technique",
+          "posture"
+        ],
+        "upstream": [
+          "[[right hand]]"
+        ],
+        "downstream": null,
+        "aligned": null,
+        "contrasting": [
+          "[[classical right hand]]"
+        ]
+      }
+    },
+    "Garden/fingerings.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 36,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.12,
+      "characterCount": 258,
+      "nonWhitespaceCharacterCount": 216,
+      "readingTimeInMinutes": 0.13584905660377358,
+      "linkCount": 3,
+      "embedCount": 2,
+      "aliases": null,
+      "createdDate": 1738527208541,
+      "modifiedDate": 1738660041824,
+      "sizeInBytes": 308,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.12,
+        "wordCount": 36,
+        "characterCount": 258,
+        "nonWhitespaceCharacterCount": 216
+      },
+      "frontmatter": {
+        "tags": [
+          "🌲",
+          "technique",
+          "RH",
+          "LH"
+        ]
+      }
+    },
+    "Garden/enharmonics.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 70,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.23333333333333334,
+      "characterCount": 400,
+      "nonWhitespaceCharacterCount": 327,
+      "readingTimeInMinutes": 0.2641509433962264,
+      "linkCount": 5,
+      "embedCount": 0,
+      "aliases": [
+        "enharmonic"
+      ],
+      "createdDate": 1739699300156,
+      "modifiedDate": 1741081083150,
+      "sizeInBytes": 557,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.23333333333333334,
+        "wordCount": 70,
+        "characterCount": 400,
+        "nonWhitespaceCharacterCount": 327
+      },
+      "frontmatter": {
+        "tags": [
+          "🌱",
+          "musictheory"
+        ],
+        "aliases": [
+          "enharmonic"
+        ],
+        "upstream": [
+          "[[accidentals]]",
+          "[[the 12 semitones]]"
+        ],
+        "downstream": null,
+        "aligned": null,
+        "contrasting": null
+      }
+    },
+    "Garden/ear training.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 532,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 1.7733333333333334,
+      "characterCount": 3101,
+      "nonWhitespaceCharacterCount": 2544,
+      "readingTimeInMinutes": 2.0075471698113208,
+      "linkCount": 16,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1738320317987,
+      "modifiedDate": 1739179990279,
+      "sizeInBytes": 3260,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 1.7733333333333334,
+        "wordCount": 532,
+        "characterCount": 3101,
+        "nonWhitespaceCharacterCount": 2544
+      },
+      "frontmatter": {
+        "tags": [
+          "🌲",
+          "musictheory",
+          "practice"
+        ],
+        "upstream": [
+          "[[practice]]"
+        ],
+        "downstream": [
+          "[[relative pitch]]"
+        ],
+        "aligned": [
+          "[[audiation]]"
+        ],
+        "contrasting": null
+      }
+    },
+    "Garden/dissonant.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 137,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.45666666666666667,
+      "characterCount": 875,
+      "nonWhitespaceCharacterCount": 734,
+      "readingTimeInMinutes": 0.5169811320754717,
+      "linkCount": 5,
+      "embedCount": 0,
+      "aliases": [
+        "dissonance"
+      ],
+      "createdDate": 1738400773632,
+      "modifiedDate": 1738747302517,
+      "sizeInBytes": 937,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.45666666666666667,
+        "wordCount": 137,
+        "characterCount": 875,
+        "nonWhitespaceCharacterCount": 734
+      },
+      "frontmatter": {
+        "tags": [
+          "🌱",
+          "musictheory"
+        ],
+        "aliases": [
+          "dissonance"
+        ]
+      }
+    },
+    "Garden/decay.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 137,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.45666666666666667,
+      "characterCount": 769,
+      "nonWhitespaceCharacterCount": 625,
+      "readingTimeInMinutes": 0.5169811320754717,
+      "linkCount": 7,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1738054661096,
+      "modifiedDate": 1738514418631,
+      "sizeInBytes": 805,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.45666666666666667,
+        "wordCount": 137,
+        "characterCount": 769,
+        "nonWhitespaceCharacterCount": 625
+      },
+      "frontmatter": {
+        "tags": [
+          "🌱",
+          "technique"
+        ]
+      }
+    },
+    "Garden/common open tunings.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 140,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.4666666666666667,
+      "characterCount": 559,
+      "nonWhitespaceCharacterCount": 396,
+      "readingTimeInMinutes": 0.5283018867924528,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1737153278393,
+      "modifiedDate": 1737209052691,
+      "sizeInBytes": 611,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.4666666666666667,
+        "wordCount": 140,
+        "characterCount": 559,
+        "nonWhitespaceCharacterCount": 396
+      },
+      "frontmatter": {
+        "tags": [
+          "🌲",
+          "tunings"
+        ]
+      }
+    },
+    "Garden/common left hand mistakes.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 74,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.24666666666666667,
+      "characterCount": 436,
+      "nonWhitespaceCharacterCount": 357,
+      "readingTimeInMinutes": 0.2792452830188679,
+      "linkCount": 5,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1737715831781,
+      "modifiedDate": 1737793810547,
+      "sizeInBytes": 490,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.24666666666666667,
+        "wordCount": 74,
+        "characterCount": 436,
+        "nonWhitespaceCharacterCount": 357
+      },
+      "frontmatter": {
+        "tags": [
+          "🪴",
+          "basics",
+          "technique",
+          "LH"
+        ]
+      }
+    },
+    "Garden/common fingerstyle right hand mistakes.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 50,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.16666666666666666,
+      "characterCount": 342,
+      "nonWhitespaceCharacterCount": 291,
+      "readingTimeInMinutes": 0.18867924528301888,
+      "linkCount": 4,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1737713186336,
+      "modifiedDate": 1737714917501,
+      "sizeInBytes": 396,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.16666666666666666,
+        "wordCount": 50,
+        "characterCount": 342,
+        "nonWhitespaceCharacterCount": 291
+      },
+      "frontmatter": {
+        "tags": [
+          "🌱",
+          "technique",
+          "basics",
+          "RH"
+        ]
+      }
+    },
+    "Garden/closed position.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 38,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.12666666666666668,
+      "characterCount": 220,
+      "nonWhitespaceCharacterCount": 181,
+      "readingTimeInMinutes": 0.14339622641509434,
+      "linkCount": 3,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1739175897201,
+      "modifiedDate": 1739187270319,
+      "sizeInBytes": 414,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.12666666666666668,
+        "wordCount": 38,
+        "characterCount": 220,
+        "nonWhitespaceCharacterCount": 181
+      },
+      "frontmatter": {
+        "tags": [
+          "🌱",
+          "musictheory"
+        ],
+        "upstream": [
+          "[[chord voicings]]"
+        ],
+        "downstream": null,
+        "aligned": [
+          "[[major triads in standard tuning#in closed position]]"
+        ],
+        "contrasting": [
+          "[[spread voicing]]"
+        ]
+      }
+    },
+    "Garden/classical.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 60,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.2,
+      "characterCount": 463,
+      "nonWhitespaceCharacterCount": 387,
+      "readingTimeInMinutes": 0.22641509433962265,
+      "linkCount": 6,
+      "embedCount": 0,
+      "aliases": [
+        "classical guitar"
+      ],
+      "createdDate": 1737218261795,
+      "modifiedDate": 1737240174446,
+      "sizeInBytes": 549,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.2,
+        "wordCount": 60,
+        "characterCount": 463,
+        "nonWhitespaceCharacterCount": 387
+      },
+      "frontmatter": {
+        "tags": [
+          "🌲",
+          "genres",
+          "gear",
+          "technique"
+        ],
+        "aliases": [
+          "classical guitar"
+        ]
+      }
+    },
+    "Garden/classical right hand.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 92,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.30666666666666664,
+      "characterCount": 647,
+      "nonWhitespaceCharacterCount": 536,
+      "readingTimeInMinutes": 0.3471698113207547,
+      "linkCount": 10,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1737445722878,
+      "modifiedDate": 1740647947168,
+      "sizeInBytes": 803,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.30666666666666664,
+        "wordCount": 92,
+        "characterCount": 647,
+        "nonWhitespaceCharacterCount": 536
+      },
+      "frontmatter": {
+        "tags": [
+          "🌱",
+          "technique"
+        ],
+        "upstream": [
+          "[[right hand]]",
+          "[[fingers]]"
+        ],
+        "downstream": null,
+        "aligned": null,
+        "contrasting": [
+          "[[fingerpicking right hand]]"
+        ]
+      }
+    },
+    "Garden/chords.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 72,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.24,
+      "characterCount": 454,
+      "nonWhitespaceCharacterCount": 375,
+      "readingTimeInMinutes": 0.27169811320754716,
+      "linkCount": 3,
+      "embedCount": 0,
+      "aliases": [
+        "chord"
+      ],
+      "createdDate": 1739437369789,
+      "modifiedDate": 1739437870068,
+      "sizeInBytes": 663,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.24,
+        "wordCount": 72,
+        "characterCount": 454,
+        "nonWhitespaceCharacterCount": 375
+      },
+      "frontmatter": {
+        "tags": [
+          "🌱",
+          "musictheory"
+        ],
+        "aliases": [
+          "chord"
+        ],
+        "upstream": [
+          "[[intervals]]",
+          "[[the 12 semitones]]"
+        ],
+        "downstream": [
+          "[[triads]]",
+          "[[tetrads]]",
+          "[[chord voicings]]"
+        ],
+        "aligned": null,
+        "contrasting": null
+      }
+    },
+    "Garden/chord voicings.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 59,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.19666666666666666,
+      "characterCount": 346,
+      "nonWhitespaceCharacterCount": 283,
+      "readingTimeInMinutes": 0.22264150943396227,
+      "linkCount": 3,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1739185952454,
+      "modifiedDate": 1739186440869,
+      "sizeInBytes": 497,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.19666666666666666,
+        "wordCount": 59,
+        "characterCount": 346,
+        "nonWhitespaceCharacterCount": 283
+      },
+      "frontmatter": {
+        "tags": [
+          "🌱",
+          "musictheory"
+        ],
+        "upstream": [
+          "[[chords]]"
+        ],
+        "downstream": [
+          "[[closed position]]",
+          "[[spread voicing]]"
+        ],
+        "aligned": null,
+        "contrasting": null
+      }
+    },
+    "Garden/chord tone.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 78,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.26,
+      "characterCount": 443,
+      "nonWhitespaceCharacterCount": 360,
+      "readingTimeInMinutes": 0.2943396226415094,
+      "linkCount": 3,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1739699087986,
+      "modifiedDate": 1739699254140,
+      "sizeInBytes": 632,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.26,
+        "wordCount": 78,
+        "characterCount": 443,
+        "nonWhitespaceCharacterCount": 360
+      },
+      "frontmatter": {
+        "tags": [
+          "🌱",
+          "musictheory"
+        ],
+        "aliases": null,
+        "upstream": [
+          "[[chords]]"
+        ],
+        "downstream": [
+          "[[chord extensions]]"
+        ],
+        "aligned": [
+          "[[improvisation]]",
+          "[[jazz improvisation]]"
+        ],
+        "contrasting": null
+      }
+    },
+    "Garden/chord progressions.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 125,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.4166666666666667,
+      "characterCount": 802,
+      "nonWhitespaceCharacterCount": 670,
+      "readingTimeInMinutes": 0.4716981132075472,
+      "linkCount": 4,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1737928424530,
+      "modifiedDate": 1738147487601,
+      "sizeInBytes": 840,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.4166666666666667,
+        "wordCount": 125,
+        "characterCount": 802,
+        "nonWhitespaceCharacterCount": 670
+      },
+      "frontmatter": {
+        "tags": [
+          "🪴",
+          "musictheory"
+        ]
+      }
+    },
+    "Garden/chord extensions.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 121,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.4033333333333333,
+      "characterCount": 758,
+      "nonWhitespaceCharacterCount": 626,
+      "readingTimeInMinutes": 0.45660377358490567,
+      "linkCount": 16,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1739265303938,
+      "modifiedDate": 1739265743910,
+      "sizeInBytes": 894,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.4033333333333333,
+        "wordCount": 121,
+        "characterCount": 758,
+        "nonWhitespaceCharacterCount": 626
+      },
+      "frontmatter": {
+        "tags": [
+          "🌱",
+          "musictheory"
+        ],
+        "upstream": [
+          "[[chords]]",
+          "[[tetrads]]",
+          "[[scales]]"
+        ],
+        "downstream": null,
+        "aligned": null,
+        "contrasting": null
+      }
+    },
+    "Garden/cadence.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 87,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.29,
+      "characterCount": 538,
+      "nonWhitespaceCharacterCount": 442,
+      "readingTimeInMinutes": 0.3283018867924528,
+      "linkCount": 6,
+      "embedCount": 0,
+      "aliases": [
+        "cadences"
+      ],
+      "createdDate": 1737928417768,
+      "modifiedDate": 1741078521306,
+      "sizeInBytes": 598,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.29,
+        "wordCount": 87,
+        "characterCount": 538,
+        "nonWhitespaceCharacterCount": 442
+      },
+      "frontmatter": {
+        "tags": [
+          "🌱",
+          "musictheory"
+        ],
+        "aliases": [
+          "cadences"
+        ]
+      }
+    },
+    "Garden/buzzing.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 90,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.3,
+      "characterCount": 472,
+      "nonWhitespaceCharacterCount": 380,
+      "readingTimeInMinutes": 0.33962264150943394,
+      "linkCount": 2,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1737742516590,
+      "modifiedDate": 1737742803461,
+      "sizeInBytes": 526,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.3,
+        "wordCount": 90,
+        "characterCount": 472,
+        "nonWhitespaceCharacterCount": 380
+      },
+      "frontmatter": {
+        "tags": [
+          "🌱",
+          "LH",
+          "basics",
+          "technique"
+        ]
+      }
+    },
+    "Garden/bridge.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 221,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.7366666666666667,
+      "characterCount": 1347,
+      "nonWhitespaceCharacterCount": 1115,
+      "readingTimeInMinutes": 0.8339622641509434,
+      "linkCount": 7,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1738839643873,
+      "modifiedDate": 1738917580591,
+      "sizeInBytes": 1454,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.7366666666666667,
+        "wordCount": 221,
+        "characterCount": 1347,
+        "nonWhitespaceCharacterCount": 1115
+      },
+      "frontmatter": {
+        "tags": [
+          "🪴",
+          "gear"
+        ],
+        "upstream": [
+          "[[parts of the guitar]]"
+        ],
+        "downstream": null,
+        "aligned": null,
+        "contrasting": null
+      }
+    },
+    "Garden/basic rhythm notation.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 451,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 1.5033333333333334,
+      "characterCount": 4101,
+      "nonWhitespaceCharacterCount": 2978,
+      "readingTimeInMinutes": 1.7018867924528303,
+      "linkCount": 2,
+      "embedCount": 0,
+      "aliases": [
+        "simple time"
+      ],
+      "createdDate": 1738921015038,
+      "modifiedDate": 1740473177167,
+      "sizeInBytes": 4365,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 1.5033333333333334,
+        "wordCount": 451,
+        "characterCount": 4101,
+        "nonWhitespaceCharacterCount": 2978
+      },
+      "frontmatter": {
+        "tags": [
+          "🌲",
+          "musictheory",
+          "rhythm",
+          "basics"
+        ],
+        "upstream": [
+          "[[music theory]]",
+          "[[the beat]]",
+          "[[tempo markings]]"
+        ],
+        "downstream": [
+          "[[how to practice reading rhythm]]"
+        ],
+        "aligned": null,
+        "contrasting": [
+          "[[compound time]]"
+        ],
+        "aliases": [
+          "simple time"
+        ]
+      }
+    },
+    "Garden/basic guitar maintenance.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 416,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 1.3866666666666667,
+      "characterCount": 2332,
+      "nonWhitespaceCharacterCount": 1899,
+      "readingTimeInMinutes": 1.569811320754717,
+      "linkCount": 7,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1738655874095,
+      "modifiedDate": 1738657003662,
+      "sizeInBytes": 2363,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 1.3866666666666667,
+        "wordCount": 416,
+        "characterCount": 2332,
+        "nonWhitespaceCharacterCount": 1899
+      },
+      "frontmatter": {
+        "tags": [
+          "🪴",
+          "gear"
+        ]
+      }
+    },
+    "Garden/bars.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 45,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.15,
+      "characterCount": 236,
+      "nonWhitespaceCharacterCount": 190,
+      "readingTimeInMinutes": 0.16981132075471697,
+      "linkCount": 1,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1738922321970,
+      "modifiedDate": 1738922426975,
+      "sizeInBytes": 285,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.15,
+        "wordCount": 45,
+        "characterCount": 236,
+        "nonWhitespaceCharacterCount": 190
+      },
+      "frontmatter": {
+        "tags": [
+          "🌱",
+          "musictheory",
+          "rhythm"
+        ]
+      }
+    },
+    "Garden/barre chords.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 140,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.4666666666666667,
+      "characterCount": 802,
+      "nonWhitespaceCharacterCount": 653,
+      "readingTimeInMinutes": 0.5283018867924528,
+      "linkCount": 3,
+      "embedCount": 1,
+      "aliases": null,
+      "createdDate": 1738224286965,
+      "modifiedDate": 1738225185514,
+      "sizeInBytes": 845,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.4666666666666667,
+        "wordCount": 140,
+        "characterCount": 802,
+        "nonWhitespaceCharacterCount": 653
+      },
+      "frontmatter": {
+        "tags": [
+          "🪴",
+          "LH",
+          "technique"
+        ]
+      }
+    },
+    "Garden/back and sides.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 73,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.24333333333333335,
+      "characterCount": 402,
+      "nonWhitespaceCharacterCount": 325,
+      "readingTimeInMinutes": 0.27547169811320754,
+      "linkCount": 2,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1738839339854,
+      "modifiedDate": 1738839628929,
+      "sizeInBytes": 433,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.24333333333333335,
+        "wordCount": 73,
+        "characterCount": 402,
+        "nonWhitespaceCharacterCount": 325
+      },
+      "frontmatter": {
+        "tags": [
+          "🌱",
+          "gear"
+        ]
+      }
+    },
+    "Garden/attack.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 235,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.7833333333333333,
+      "characterCount": 1391,
+      "nonWhitespaceCharacterCount": 1139,
+      "readingTimeInMinutes": 0.8867924528301887,
+      "linkCount": 9,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1737156779239,
+      "modifiedDate": 1738570504575,
+      "sizeInBytes": 1446,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.7833333333333333,
+        "wordCount": 235,
+        "characterCount": 1391,
+        "nonWhitespaceCharacterCount": 1139
+      },
+      "frontmatter": {
+        "tags": [
+          "🌲",
+          "RH",
+          "technique"
+        ],
+        "aliases": []
+      }
+    },
+    "Garden/audiation.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 246,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.82,
+      "characterCount": 1425,
+      "nonWhitespaceCharacterCount": 1164,
+      "readingTimeInMinutes": 0.9283018867924528,
+      "linkCount": 6,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1739108930262,
+      "modifiedDate": 1739179912922,
+      "sizeInBytes": 1594,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.82,
+        "wordCount": 246,
+        "characterCount": 1425,
+        "nonWhitespaceCharacterCount": 1164
+      },
+      "frontmatter": {
+        "tags": [
+          "🪴",
+          "practice"
+        ],
+        "upstream": [
+          "[[practice]]"
+        ],
+        "downstream": null,
+        "aligned": [
+          "[[ear training]]",
+          "[[intellectual vs experiential knowing]]"
+        ],
+        "contrasting": null
+      }
+    },
+    "Garden/anchoring a finger.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 103,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.3433333333333333,
+      "characterCount": 627,
+      "nonWhitespaceCharacterCount": 511,
+      "readingTimeInMinutes": 0.3886792452830189,
+      "linkCount": 4,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1737715281603,
+      "modifiedDate": 1737715809130,
+      "sizeInBytes": 681,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.3433333333333333,
+        "wordCount": 103,
+        "characterCount": 627,
+        "nonWhitespaceCharacterCount": 511
+      },
+      "frontmatter": {
+        "tags": [
+          "🌲",
+          "technique",
+          "basics",
+          "RH"
+        ]
+      }
+    },
+    "Garden/alternate tunings.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 240,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.8,
+      "characterCount": 1520,
+      "nonWhitespaceCharacterCount": 1246,
+      "readingTimeInMinutes": 0.9056603773584906,
+      "linkCount": 9,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1737153203727,
+      "modifiedDate": 1739109315394,
+      "sizeInBytes": 1636,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.8,
+        "wordCount": 240,
+        "characterCount": 1520,
+        "nonWhitespaceCharacterCount": 1246
+      },
+      "frontmatter": {
+        "tags": [
+          "🌲",
+          "🗺",
+          "tunings"
+        ],
+        "upstream": null,
+        "downstream": null,
+        "aligned": null,
+        "contrasting": [
+          "[[standard tuning]]"
+        ]
+      }
+    },
+    "Garden/acoustic.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 95,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.31666666666666665,
+      "characterCount": 618,
+      "nonWhitespaceCharacterCount": 511,
+      "readingTimeInMinutes": 0.3584905660377358,
+      "linkCount": 3,
+      "embedCount": 0,
+      "aliases": [
+        "acoustic guitar",
+        "steel strings guitar",
+        "steel string guitar"
+      ],
+      "createdDate": 1737632387813,
+      "modifiedDate": 1737632811647,
+      "sizeInBytes": 727,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.31666666666666665,
+        "wordCount": 95,
+        "characterCount": 618,
+        "nonWhitespaceCharacterCount": 511
+      },
+      "frontmatter": {
+        "tags": [
+          "🌲",
+          "gear"
+        ],
+        "aliases": [
+          "acoustic guitar",
+          "steel strings guitar",
+          "steel string guitar"
+        ]
+      }
+    },
+    "Garden/accidentals.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 161,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.5366666666666666,
+      "characterCount": 871,
+      "nonWhitespaceCharacterCount": 701,
+      "readingTimeInMinutes": 0.6075471698113207,
+      "linkCount": 3,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1738399177774,
+      "modifiedDate": 1739699533612,
+      "sizeInBytes": 1028,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.5366666666666666,
+        "wordCount": 161,
+        "characterCount": 871,
+        "nonWhitespaceCharacterCount": 701
+      },
+      "frontmatter": {
+        "tags": [
+          "🪴",
+          "musictheory",
+          "basics"
+        ],
+        "upstream": [
+          "[[the 12 semitones]]"
+        ],
+        "downstream": [
+          "[[enharmonics]]"
+        ],
+        "aligned": null,
+        "contrasting": null
+      }
+    },
+    "Garden/V7 chord.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 264,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.88,
+      "characterCount": 1941,
+      "nonWhitespaceCharacterCount": 1495,
+      "readingTimeInMinutes": 0.9962264150943396,
+      "linkCount": 13,
+      "embedCount": 0,
+      "aliases": [
+        "dominant 7"
+      ],
+      "createdDate": 1738745868467,
+      "modifiedDate": 1741078521286,
+      "sizeInBytes": 2007,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.88,
+        "wordCount": 264,
+        "characterCount": 1941,
+        "nonWhitespaceCharacterCount": 1495
+      },
+      "frontmatter": {
+        "tags": [
+          "🌲",
+          "musictheory"
+        ],
+        "aliases": [
+          "dominant 7"
+        ]
+      }
+    },
+    "Garden/V - I.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 6,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.02,
+      "characterCount": 38,
+      "nonWhitespaceCharacterCount": 32,
+      "readingTimeInMinutes": 0.022641509433962263,
+      "linkCount": 0,
+      "embedCount": 1,
+      "aliases": [
+        "perfect cadence"
+      ],
+      "createdDate": 1738746493866,
+      "modifiedDate": 1738746528133,
+      "sizeInBytes": 105,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.02,
+        "wordCount": 6,
+        "characterCount": 38,
+        "nonWhitespaceCharacterCount": 32
+      },
+      "frontmatter": {
+        "tags": [
+          "🌱",
+          "musictheory"
+        ],
+        "aliases": [
+          "perfect cadence"
+        ]
+      }
+    },
+    "Garden/P4 tuning.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 210,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.7,
+      "characterCount": 1241,
+      "nonWhitespaceCharacterCount": 1013,
+      "readingTimeInMinutes": 0.7924528301886793,
+      "linkCount": 10,
+      "embedCount": 1,
+      "aliases": [
+        "EADGCF"
+      ],
+      "createdDate": 1737447827444,
+      "modifiedDate": 1739012410458,
+      "sizeInBytes": 1308,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.7,
+        "wordCount": 210,
+        "characterCount": 1241,
+        "nonWhitespaceCharacterCount": 1013
+      },
+      "frontmatter": {
+        "tags": [
+          "🌲",
+          "tunings",
+          "personal"
+        ],
+        "aliases": [
+          "EADGCF"
+        ]
+      }
+    },
+    "Garden/Major triad.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 256,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.8533333333333334,
+      "characterCount": 2464,
+      "nonWhitespaceCharacterCount": 1956,
+      "readingTimeInMinutes": 0.9660377358490566,
+      "linkCount": 7,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1739111162800,
+      "modifiedDate": 1739182484249,
+      "sizeInBytes": 2551,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.8533333333333334,
+        "wordCount": 256,
+        "characterCount": 2464,
+        "nonWhitespaceCharacterCount": 1956
+      },
+      "frontmatter": {
+        "tags": [
+          "🌱",
+          "musictheory",
+          "chord",
+          "#structure"
+        ],
+        "function": [
+          "T",
+          "D"
+        ]
+      }
+    },
+    "Garden/12 string.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 44,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.14666666666666667,
+      "characterCount": 265,
+      "nonWhitespaceCharacterCount": 219,
+      "readingTimeInMinutes": 0.1660377358490566,
+      "linkCount": 3,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1737631995466,
+      "modifiedDate": 1737632571294,
+      "sizeInBytes": 296,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.14666666666666667,
+        "wordCount": 44,
+        "characterCount": 265,
+        "nonWhitespaceCharacterCount": 219
+      },
+      "frontmatter": {
+        "tags": [
+          "🌱",
+          "gear"
+        ]
+      }
+    },
+    "Attachments/harmonic-minor-intervals.svg": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1741080009145,
+      "modifiedDate": 1741080009145,
+      "sizeInBytes": 5231,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Attachments/triad composition.svg": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1737712720134,
+      "modifiedDate": 1737712720134,
+      "sizeInBytes": 4158,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Attachments/tetrad-intervals.mermaid": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1738710837716,
+      "modifiedDate": 1738710837716,
+      "sizeInBytes": 1411,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Attachments/tab-guide.svg": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1739526830050,
+      "modifiedDate": 1739526830051,
+      "sizeInBytes": 2996,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Attachments/switch from hell-1.svg": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1739348969430,
+      "modifiedDate": 1739348969430,
+      "sizeInBytes": 37405,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Attachments/relative minor diagram.svg": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1737536064343,
+      "modifiedDate": 1737536064344,
+      "sizeInBytes": 4146,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Attachments/relative minor diagram 1.svg": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1737536348477,
+      "modifiedDate": 1737536348478,
+      "sizeInBytes": 5277,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Attachments/left-hand-numbers.svg": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1738659803454,
+      "modifiedDate": 1738659803454,
+      "sizeInBytes": 1590,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Attachments/left-hand-numbers 1.svg": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1739266580488,
+      "modifiedDate": 1739266580488,
+      "sizeInBytes": 1639,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Attachments/left hand marathon-1.svg": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1739436015649,
+      "modifiedDate": 1739436015649,
+      "sizeInBytes": 229142,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Attachments/harmonics-diagram.svg": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1738319105787,
+      "modifiedDate": 1738319105787,
+      "sizeInBytes": 7485,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Attachments/fretboard.svg": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1737368423459,
+      "modifiedDate": 1737368423459,
+      "sizeInBytes": 12499,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Attachments/harmonic-series.svg": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1738315776167,
+      "modifiedDate": 1738315776168,
+      "sizeInBytes": 2111,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Attachments/harmonic-series-fixed-spacing.svg": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1738318394262,
+      "modifiedDate": 1738318394262,
+      "sizeInBytes": 3832,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Attachments/gptchorddiagram.svg": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1739524663275,
+      "modifiedDate": 1739524663275,
+      "sizeInBytes": 3424,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Attachments/fretboardp4.svg": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1738600888465,
+      "modifiedDate": 1738600888465,
+      "sizeInBytes": 12649,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Attachments/f-barre-chord-all-notes.svg": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1738224821960,
+      "modifiedDate": 1738224821960,
+      "sizeInBytes": 2933,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Attachments/e-unisons-pure-svg.svg": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1738230227376,
+      "modifiedDate": 1738230227376,
+      "sizeInBytes": 3365,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Attachments/chord-diagram-guide.svg": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1739524798287,
+      "modifiedDate": 1739524798287,
+      "sizeInBytes": 3725,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Attachments/am relative minor.svg": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1737535865593,
+      "modifiedDate": 1737535865593,
+      "sizeInBytes": 4146,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Attachments/Piano Keyboard Emoji Sequences (1).svg": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1737211784676,
+      "modifiedDate": 1737211784677,
+      "sizeInBytes": 2915,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Attachments/Pasted image 20250210094135.png": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1739176895603,
+      "modifiedDate": 1739176895604,
+      "sizeInBytes": 129704,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Attachments/Pasted image 20250210094109.png": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1739176869576,
+      "modifiedDate": 1739176869578,
+      "sizeInBytes": 207681,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Attachments/Pasted image 20250210094053.png": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1739176853647,
+      "modifiedDate": 1739176853647,
+      "sizeInBytes": 194035,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Attachments/Pasted image 20250210091014.png": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1739175014235,
+      "modifiedDate": 1739175014235,
+      "sizeInBytes": 280175,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Attachments/Pasted image 20250210090937.png": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1739174977241,
+      "modifiedDate": 1739174977241,
+      "sizeInBytes": 100543,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Attachments/Pasted image 20250210085609.png": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1739174169096,
+      "modifiedDate": 1739174169096,
+      "sizeInBytes": 271416,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Attachments/Hand Fingering Labels.svg": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1739266941137,
+      "modifiedDate": 1739266941137,
+      "sizeInBytes": 1565,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Attachments/Gsharp abomination.svg": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1737370702375,
+      "modifiedDate": 1737370702376,
+      "sizeInBytes": 2988,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Attachments/Circle of Fifths SVG.svg": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1737211047405,
+      "modifiedDate": 1737211047406,
+      "sizeInBytes": 4220,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Attachments/Circle of Fifths SVG (1).svg": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1737369077332,
+      "modifiedDate": 1737369077333,
+      "sizeInBytes": 5379,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Attachments/C Major Scale Diagram.svg": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1737369607242,
+      "modifiedDate": 1737369607243,
+      "sizeInBytes": 2769,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Attachments/AbMajor.svg": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1737370824233,
+      "modifiedDate": 1737370824233,
+      "sizeInBytes": 2967,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Attachments/A Major Scale Diagram (1).svg": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1737369979993,
+      "modifiedDate": 1737369979994,
+      "sizeInBytes": 3009,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    }
+  }
+}

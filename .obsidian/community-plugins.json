@@ -18,5 +18,7 @@
   "slash-commander",
   "settings-search",
   "obsidian-relative-line-numbers",
-  "obsidian-git"
+  "obsidian-git",
+  "novel-word-count",
+  "obsidian-hider"
 ]

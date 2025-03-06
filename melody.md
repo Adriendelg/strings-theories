@@ -46,7 +46,7 @@ Melodies don't exist in a vacuum, they always evolve in a [[harmonic context]]. 
 
 Happy birthday's structure can be analysed thus: 
 
-1. establishing an idea, a motif that ends on the third of the [[dominant]] chord creating tension
+1. establishing an idea, a motif that one ends on the third of the [[dominant]] chord creating tension
 ```music-abc
 X:1
 T:Motif
@@ -70,5 +70,5 @@ K:C
 ```
 
 
-3. second variation, much wider [[intervals|interval]] leap this time hitting the [[sub dominant]] IV chord and ending on the [[dominant]] for tensionπp
+3. second variation, much wider [[intervals|interval]] leap, this time hitting the [[sub dominant]] IV chord and ending on the [[dominant]] for tension
 
