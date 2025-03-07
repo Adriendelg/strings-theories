@@ -7277,19 +7277,19 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 0,
+      "wordCount": 29,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0,
-      "characterCount": 3,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
+      "pageCount": 0.09666666666666666,
+      "characterCount": 224,
+      "nonWhitespaceCharacterCount": 189,
+      "readingTimeInMinutes": 0.10943396226415095,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1741287339150,
-      "modifiedDate": 1741287417495,
-      "sizeInBytes": 91,
+      "modifiedDate": 1741336441051,
+      "sizeInBytes": 338,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -7303,7 +7303,9 @@
           "meta"
         ],
         "aliases": null,
-        "upstream": null,
+        "upstream": [
+          "[[Strings Theories]]"
+        ],
         "downstream": null,
         "aligned": null,
         "contrasting": null
