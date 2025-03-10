@@ -69,46 +69,6 @@
     "debugMode": false
   },
   "cachedCounts": {
-    "melody.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 389,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 1.2966666666666666,
-      "characterCount": 2395,
-      "nonWhitespaceCharacterCount": 1956,
-      "readingTimeInMinutes": 1.4679245283018867,
-      "linkCount": 16,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1741255300679,
-      "modifiedDate": 1741286406211,
-      "sizeInBytes": 2530,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 1.2966666666666666,
-        "wordCount": 389,
-        "characterCount": 2395,
-        "nonWhitespaceCharacterCount": 1956
-      },
-      "frontmatter": {
-        "tags": [
-          "🌱",
-          "musictheory"
-        ],
-        "aliases": null,
-        "upstream": [
-          "[[music theory]]"
-        ],
-        "downstream": null,
-        "aligned": null,
-        "contrasting": [
-          "[[harmony]]"
-        ]
-      }
-    },
     "Templates/tuning template.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -7334,6 +7294,48 @@
         "wordCount": 0,
         "characterCount": 0,
         "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Garden/melody.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 440,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 1.4666666666666666,
+      "characterCount": 2710,
+      "nonWhitespaceCharacterCount": 2211,
+      "readingTimeInMinutes": 1.6603773584905661,
+      "linkCount": 17,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1741255300679,
+      "modifiedDate": 1741594494170,
+      "sizeInBytes": 2874,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      },
+      "frontmatter": {
+        "tags": [
+          "🌱",
+          "musictheory"
+        ],
+        "aliases": null,
+        "upstream": [
+          "[[music theory]]"
+        ],
+        "downstream": [
+          "[[motivic development]]"
+        ],
+        "aligned": null,
+        "contrasting": [
+          "[[harmony]]"
+        ]
       }
     }
   }

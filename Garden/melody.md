@@ -5,7 +5,8 @@ tags:
 aliases: 
 upstream:
   - "[[music theory]]"
-downstream: 
+downstream:
+  - "[[motivic development]]"
 aligned: 
 contrasting:
   - "[[harmony]]"
@@ -42,7 +43,9 @@ Then we can notice that each of these shorter phrases share a similar structure,
 
 Finally melodies, just like speech have punctuation, [[tension and release]]. 
 
-Melodies don't exist in a vacuum, they always evolve in a [[harmonic context]]. A [[tonal music|tonal]] song like Happy Birthday has a chord progression on which the melody is sung. 
+
+> [!NOTE] Following the chords
+> Melodies don't exist in a vacuum, they always evolve in a [[harmonic context]]. A [[tonal music|tonal]] song like Happy Birthday has a chord progression on which the melody is sung. 
 
 Happy birthday's structure can be analysed thus: 
 
@@ -71,4 +74,21 @@ K:C
 
 
 3. second variation, much wider [[intervals|interval]] leap, this time hitting the [[sub dominant]] IV chord and ending on the [[dominant]] for tension
+```music-abc
+X:1
+T:Second variation
+M:3/4
+L:1/4
+K:C
+ "I C"G/2G/2 |"IV F" g e c |"I C" B A |
+```
 
+4. recapitulation, final phrase emphasising a [[V - I|perfect cadence]] for resolution
+```music-abc
+X:1
+T:Final cadence
+M:3/4
+L:1/4
+K:C
+"V G7"f/2f/2 |"I C" e c "V G7"d |"I C" c2 ||
+```

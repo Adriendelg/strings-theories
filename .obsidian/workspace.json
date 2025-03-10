@@ -52,17 +52,13 @@
             }
           },
           {
-            "id": "33246f8058445433",
+            "id": "242ca2870f5eeeb2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Garden/spread voicing.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "spread voicing"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ],
@@ -244,7 +240,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Garden/spread voicing.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -329,7 +324,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of spread voicing"
+              "title": "Graph view"
             }
           }
         ]
@@ -357,13 +352,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "33246f8058445433",
+  "active": "242ca2870f5eeeb2",
   "lastOpenFiles": [
+    "Garden/music genres.md",
+    "Garden/melody.md",
+    "Garden/spread voicing.md",
     "Inbox/drop 2.md",
     "Inbox/Sprouts.md",
-    "melody.md",
     "Inbox",
-    "Garden/spread voicing.md",
     "Garden/follow your curiosity.md",
     "Garden/extended techniques.md",
     "Garden/capo.md",
@@ -387,7 +383,6 @@
     "git",
     "tetracords.md",
     "Untitled.md",
-    "Garden/form.md",
     "Attachments/Pasted image 20250210091014.png",
     "Attachments/tab-guide.svg",
     "Attachments/chord-diagram-guide.svg",
