@@ -1,6 +1,7 @@
 ---
 tags:
   - 🌱
+  - musictheory
 aliases:
   - structure
 upstream:
