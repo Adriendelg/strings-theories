@@ -6,6 +6,7 @@ tags:
 ---
 *the art of getting good*
 
+teaching your body and mind to perform a task
 # introduction
 In our digital age it has become very easy to find knowledge. This very vault is full of it. The internet is a great place to find the WHAT to practice. It is much harder to find the HOW one should learn this material and nearly impossible to explain the WHY to practice. 
 
