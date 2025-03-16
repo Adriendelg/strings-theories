@@ -3,6 +3,14 @@ tags:
   - 🪴
   - musictheory
   - basics
+aliases: 
+upstream:
+  - "[[intervals]]"
+downstream:
+  - "[[melodic minor scale]]"
+aligned:
+  - "[[strings in motion]]"
+contrasting:
 ---
 This is one of the most important concept in all of music and is so often overlooked it's criminal. I believe this should be the first music theory class. 
 

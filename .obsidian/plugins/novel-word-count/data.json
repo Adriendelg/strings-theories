@@ -1455,15 +1455,15 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 1.02,
-      "characterCount": 1844,
-      "nonWhitespaceCharacterCount": 1510,
+      "characterCount": 1852,
+      "nonWhitespaceCharacterCount": 1518,
       "readingTimeInMinutes": 1.1547169811320754,
-      "linkCount": 13,
+      "linkCount": 15,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1738312881133,
-      "modifiedDate": 1738504844213,
-      "sizeInBytes": 1882,
+      "modifiedDate": 1742126414454,
+      "sizeInBytes": 2018,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 1.02,
@@ -1474,8 +1474,18 @@
       "frontmatter": {
         "tags": [
           "🌲",
-          "musictheory"
-        ]
+          "fretboardtheory"
+        ],
+        "aliases": null,
+        "upstream": [
+          "[[music theory]]"
+        ],
+        "downstream": [
+          "[[harmonic series]]",
+          "[[harmonics]]"
+        ],
+        "aligned": null,
+        "contrasting": null
       }
     },
     "Garden/spider exercise and variations.md": {
@@ -4100,8 +4110,8 @@
       "embedCount": 1,
       "aliases": null,
       "createdDate": 1738315586850,
-      "modifiedDate": 1738401211652,
-      "sizeInBytes": 3502,
+      "modifiedDate": 1742126357787,
+      "sizeInBytes": 3634,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 1.3833333333333333,
@@ -4114,7 +4124,18 @@
           "🪴",
           "musictheory",
           "basics"
-        ]
+        ],
+        "aliases": null,
+        "upstream": [
+          "[[intervals]]"
+        ],
+        "downstream": [
+          "[[melodic minor scale]]"
+        ],
+        "aligned": [
+          "[[strings in motion]]"
+        ],
+        "contrasting": null
       }
     },
     "Garden/harmonic minor scale.md": {
@@ -7481,25 +7502,42 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 140,
+      "wordCount": 125,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.4666666666666667,
-      "characterCount": 977,
-      "nonWhitespaceCharacterCount": 811,
-      "readingTimeInMinutes": 0.5283018867924528,
-      "linkCount": 0,
+      "pageCount": 0.4166666666666667,
+      "characterCount": 798,
+      "nonWhitespaceCharacterCount": 667,
+      "readingTimeInMinutes": 0.4716981132075472,
+      "linkCount": 11,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1742125705324,
-      "modifiedDate": 1742126052766,
-      "sizeInBytes": 979,
+      "modifiedDate": 1742126057892,
+      "sizeInBytes": 993,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
         "wordCount": 0,
         "characterCount": 0,
         "nonWhitespaceCharacterCount": 0
+      },
+      "frontmatter": {
+        "tags": [
+          "🌱",
+          "technique"
+        ],
+        "aliases": null,
+        "upstream": [
+          "[[fingerpicking right hand]]",
+          "[[right hand]]"
+        ],
+        "downstream": null,
+        "aligned": null,
+        "contrasting": [
+          "[[nails]]",
+          "[[classical right hand]]"
+        ]
       }
     }
   }

@@ -1273,7 +1273,7 @@
         }
       },
       "2025-03-16": {
-        "totalDelta": 1140,
+        "totalDelta": 1162,
         "files": {
           "Garden/harmonic minor scale.md": {
             "initial": 169,
@@ -1310,6 +1310,14 @@
           "Garden/flesh.md": {
             "initial": 0,
             "current": 145
+          },
+          "Garden/strings in motion.md": {
+            "initial": 312,
+            "current": 322
+          },
+          "Garden/harmonic series.md": {
+            "initial": 489,
+            "current": 501
           }
         }
       }

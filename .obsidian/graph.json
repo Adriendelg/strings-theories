@@ -62,6 +62,13 @@
         "a": 1,
         "rgb": 12751434
       }
+    },
+    {
+      "query": "tag:#genres  ",
+      "color": {
+        "a": 1,
+        "rgb": 5068701
+      }
     }
   ],
   "collapse-display": true,
@@ -74,6 +81,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 106,
-  "scale": 1.0190173968340273,
+  "scale": 0.6333374043796923,
   "close": true
 }

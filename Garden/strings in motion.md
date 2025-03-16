@@ -1,7 +1,15 @@
 ---
 tags:
   - 🌲
-  - musictheory
+  - fretboardtheory
+aliases: 
+upstream:
+  - "[[music theory]]"
+downstream:
+  - "[[harmonic series]]"
+  - "[[harmonics]]"
+aligned: 
+contrasting:
 ---
 There is physics involved in playing the guitar, understanding the basic principles behind how a string produces a tone can help you make sense of different [[technique|techniques]] or concepts. 
 
@@ -24,6 +32,6 @@ The movement of the string is picked up by the [[pickup]] which in turn translat
 - longer strings produce lower notes
 - we can only shorten a string, it can't produce a note lower than its open note
 - how wide a string moves is called the amplitude and influences how loud it is
-- thicker strings need more energy to move than thinner ones
-- which harmonics becomes easily audible is highly influenced by which area of the [[sound board]] is vibrating, this is why the [[bracing]] of a guitar is important
+- thicker [[strings]] need more energy to move than thinner ones
+- which [[harmonics]] becomes easily audible is highly influenced by which area of the [[sound board]] is vibrating, this is why the [[bracing]] of a guitar is important
 - low notes need longer strings to produce a full tone, this is why [[fanned frets]] exist

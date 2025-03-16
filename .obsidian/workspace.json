@@ -43,10 +43,14 @@
             "id": "1735e356dedf1f29",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Garden/strings in motion.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "strings in motion"
             }
           },
           {
@@ -64,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -242,7 +246,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Inbox/Sprouts.md",
+                "file": "Garden/strings in motion.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -310,6 +314,13 @@
                         "a": 1,
                         "rgb": 12751434
                       }
+                    },
+                    {
+                      "query": "tag:#genres  ",
+                      "color": {
+                        "a": 1,
+                        "rgb": 5068701
+                      }
                     }
                   ],
                   "collapse-display": true,
@@ -327,7 +338,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Sprouts"
+              "title": "Graph of strings in motion"
             }
           }
         ]
@@ -355,14 +366,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "db0639006222cc60",
+  "active": "1735e356dedf1f29",
   "lastOpenFiles": [
-    "Garden/flesh.md",
+    "Garden/harmonic series.md",
+    "Garden/strings in motion.md",
+    "Garden/jazz.md",
     "Inbox/Sprouts.md",
+    "Garden/flesh.md",
     "Garden/posture.md",
     "Garden/beginners mistakes and problems.md",
     "Garden/practice.md",
-    "Garden/jazz.md",
     "Garden/archtop.md",
     "Garden/polyphony.md",
     "Garden/harmonic minor scale.md",
@@ -382,8 +395,6 @@
     "Garden/modern fingerstyle.md",
     "Garden/right hand fingers exercises.md",
     "Garden/basic guitar maintenance.md",
-    "Garden/major scale.md",
-    "Garden/enharmonics.md",
     "Attachments/harmonic-minor-intervals.svg",
     "git",
     "Attachments/Pasted image 20250210091014.png",
