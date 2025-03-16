@@ -2147,8 +2147,8 @@
       "embedCount": 1,
       "aliases": null,
       "createdDate": 1737240182982,
-      "modifiedDate": 1738598685228,
-      "sizeInBytes": 403,
+      "modifiedDate": 1742122845807,
+      "sizeInBytes": 509,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.19333333333333333,
@@ -2161,7 +2161,15 @@
           "🌱",
           "technique",
           "posture"
-        ]
+        ],
+        "aliases": null,
+        "upstream": null,
+        "downstream": null,
+        "aligned": [
+          "[[technique]]",
+          "[[Alexander technique]]"
+        ],
+        "contrasting": null
       }
     },
     "Garden/root position.md": {
@@ -2500,19 +2508,19 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 241,
+      "wordCount": 245,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.8033333333333333,
-      "characterCount": 1349,
-      "nonWhitespaceCharacterCount": 1095,
-      "readingTimeInMinutes": 0.909433962264151,
-      "linkCount": 5,
+      "pageCount": 0.8166666666666667,
+      "characterCount": 1388,
+      "nonWhitespaceCharacterCount": 1128,
+      "readingTimeInMinutes": 0.9245283018867925,
+      "linkCount": 6,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1737153851115,
-      "modifiedDate": 1742077319851,
-      "sizeInBytes": 1393,
+      "modifiedDate": 1742122579480,
+      "sizeInBytes": 1432,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.7733333333333333,
@@ -4124,8 +4132,8 @@
       "embedCount": 1,
       "aliases": null,
       "createdDate": 1741078623516,
-      "modifiedDate": 1741081712343,
-      "sizeInBytes": 1135,
+      "modifiedDate": 1742120112895,
+      "sizeInBytes": 1151,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.44,
@@ -4135,7 +4143,8 @@
       },
       "frontmatter": {
         "tags": [
-          "🌱"
+          "🌱",
+          "musictheory"
         ],
         "aliases": null,
         "upstream": [
@@ -7333,6 +7342,160 @@
       "sizeInBytes": 0,
       "sessionStart": {
         "noteCount": 1,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Garden/polyphony.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 73,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.24333333333333335,
+      "characterCount": 535,
+      "nonWhitespaceCharacterCount": 447,
+      "readingTimeInMinutes": 0.27547169811320754,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1742120204190,
+      "modifiedDate": 1742120522871,
+      "sizeInBytes": 537,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Garden/archtop.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 140,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.4666666666666667,
+      "characterCount": 877,
+      "nonWhitespaceCharacterCount": 720,
+      "readingTimeInMinutes": 0.5283018867924528,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1742120574693,
+      "modifiedDate": 1742120937915,
+      "sizeInBytes": 879,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Garden/jazz.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 295,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.9833333333333333,
+      "characterCount": 1933,
+      "nonWhitespaceCharacterCount": 1603,
+      "readingTimeInMinutes": 1.1132075471698113,
+      "linkCount": 33,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1742121034451,
+      "modifiedDate": 1742122389323,
+      "sizeInBytes": 2066,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      },
+      "frontmatter": {
+        "tags": [
+          "🌱",
+          "genres"
+        ],
+        "aliases": null,
+        "upstream": [
+          "[[music genres|genre]]"
+        ],
+        "downstream": null,
+        "aligned": [
+          "[[blues]]"
+        ],
+        "contrasting": null
+      }
+    },
+    "Garden/beginners mistakes and problems.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 436,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 1.4533333333333334,
+      "characterCount": 2706,
+      "nonWhitespaceCharacterCount": 2247,
+      "readingTimeInMinutes": 1.6452830188679246,
+      "linkCount": 16,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1742122595925,
+      "modifiedDate": 1742125652524,
+      "sizeInBytes": 2831,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      },
+      "frontmatter": {
+        "tags": [
+          "🌱",
+          "practice",
+          "basics"
+        ],
+        "aliases": null,
+        "upstream": [
+          "[[practice]]"
+        ],
+        "downstream": null,
+        "aligned": null,
+        "contrasting": null
+      }
+    },
+    "Garden/flesh.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 140,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.4666666666666667,
+      "characterCount": 977,
+      "nonWhitespaceCharacterCount": 811,
+      "readingTimeInMinutes": 0.5283018867924528,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1742125705324,
+      "modifiedDate": 1742126052766,
+      "sizeInBytes": 979,
+      "sessionStart": {
+        "noteCount": 0,
         "pageCount": 0,
         "wordCount": 0,
         "characterCount": 0,

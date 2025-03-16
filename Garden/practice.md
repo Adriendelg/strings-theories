@@ -22,3 +22,5 @@ What does it actually mean to practice? How to make real progress toward your mu
 # [[fuck talent]]
 Why talent is not only overrated and irrelevant but also a curse.
 # [[practice mode vs performance mode]]
+
+# [[beginners mistakes and problems]]

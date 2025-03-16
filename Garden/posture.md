@@ -3,6 +3,13 @@ tags:
   - 🌱
   - technique
   - posture
+aliases: 
+upstream: 
+downstream: 
+aligned:
+  - "[[technique]]"
+  - "[[Alexander technique]]"
+contrasting:
 ---
 *how you hold and use your body 
 
