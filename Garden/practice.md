@@ -21,5 +21,4 @@ I hope these reflections will give you food for thoughts, open doors for you and
 What does it actually mean to practice? How to make real progress toward your musical goals?
 # [[fuck talent]]
 Why talent is not only overrated and irrelevant but also a curse.
-
 # [[practice mode vs performance mode]]
