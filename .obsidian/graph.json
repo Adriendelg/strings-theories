@@ -67,11 +67,11 @@
       "query": "tag:#genres  ",
       "color": {
         "a": 1,
-        "rgb": 5068701
+        "rgb": 12209426
       }
     }
   ],
-  "collapse-display": true,
+  "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
@@ -81,6 +81,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 106,
-  "scale": 0.6333374043796923,
+  "scale": 0.10929940985348977,
   "close": true
 }

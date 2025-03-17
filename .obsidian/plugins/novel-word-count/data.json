@@ -7306,44 +7306,6 @@
         "contrasting": null
       }
     },
-    "Inbox/Sprouts.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 29,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.09666666666666666,
-      "characterCount": 224,
-      "nonWhitespaceCharacterCount": 189,
-      "readingTimeInMinutes": 0.10943396226415095,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1741287339150,
-      "modifiedDate": 1741336441051,
-      "sizeInBytes": 338,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.09666666666666666,
-        "wordCount": 29,
-        "characterCount": 224,
-        "nonWhitespaceCharacterCount": 189
-      },
-      "frontmatter": {
-        "tags": [
-          "🌱",
-          "meta"
-        ],
-        "aliases": null,
-        "upstream": [
-          "[[Strings Theories]]"
-        ],
-        "downstream": null,
-        "aligned": null,
-        "contrasting": null
-      }
-    },
     "Inbox/drop 2.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -7538,6 +7500,56 @@
           "[[nails]]",
           "[[classical right hand]]"
         ]
+      }
+    },
+    "Garden/blues.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 252,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.84,
+      "characterCount": 1545,
+      "nonWhitespaceCharacterCount": 1264,
+      "readingTimeInMinutes": 0.9509433962264151,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1742202330848,
+      "modifiedDate": 1742203250907,
+      "sizeInBytes": 1547,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Meta/Sprouts.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 38,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.12666666666666668,
+      "characterCount": 336,
+      "nonWhitespaceCharacterCount": 278,
+      "readingTimeInMinutes": 0.14339622641509434,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1741287339150,
+      "modifiedDate": 1741336441051,
+      "sizeInBytes": 338,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
       }
     }
   }
