@@ -1,7 +1,8 @@
 {
-  "cssTheme": "Cupertino",
-  "baseFontSize": 18,
+  "cssTheme": "Minimal",
+  "baseFontSize": 19,
   "translucency": true,
-  "accentColor": "#796bff",
-  "theme": "obsidian"
+  "accentColor": "#6886a1",
+  "theme": "obsidian",
+  "showRibbon": false
 }

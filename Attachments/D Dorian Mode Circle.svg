@@ -1,0 +1,66 @@
+<svg viewBox="-250 -250 500 500" xmlns="http://www.w3.org/2000/svg">
+  <!-- Circle background - using lighter color for outline -->
+  <circle cx="0" cy="0" r="200" fill="none" stroke="#ECEFF4" stroke-width="2"/>
+  
+  <!-- Notes precisely evenly spaced around the circle (360/7 = 51.43 degrees), shifted so D is at top -->
+  <g id="notes">
+    <!-- D (0 degrees, 12 o'clock) -->
+    <circle cx="0" cy="-200" r="30" fill="#5E81AC" stroke="#81A1C1" stroke-width="2"/>
+    <text x="0" y="-193" text-anchor="middle" font-size="24" fill="#ECEFF4">D</text>
+    
+    <!-- E (51.43 degrees) -->
+    <circle cx="160" cy="-122" r="30" fill="#5E81AC" stroke="#81A1C1" stroke-width="2"/>
+    <text x="160" y="-115" text-anchor="middle" font-size="24" fill="#ECEFF4">E</text>
+    
+    <!-- F (102.86 degrees) -->
+    <circle cx="191" cy="62" r="30" fill="#5E81AC" stroke="#81A1C1" stroke-width="2"/>
+    <text x="191" y="69" text-anchor="middle" font-size="24" fill="#ECEFF4">F</text>
+    
+    <!-- G (154.29 degrees) -->
+    <circle cx="86" cy="182" r="30" fill="#5E81AC" stroke="#81A1C1" stroke-width="2"/>
+    <text x="86" y="189" text-anchor="middle" font-size="24" fill="#ECEFF4">G</text>
+    
+    <!-- A (205.72 degrees) -->
+    <circle cx="-86" cy="182" r="30" fill="#5E81AC" stroke="#81A1C1" stroke-width="2"/>
+    <text x="-86" y="189" text-anchor="middle" font-size="24" fill="#ECEFF4">A</text>
+    
+    <!-- B (257.15 degrees) -->
+    <circle cx="-191" cy="62" r="30" fill="#5E81AC" stroke="#81A1C1" stroke-width="2"/>
+    <text x="-191" y="69" text-anchor="middle" font-size="24" fill="#ECEFF4">B</text>
+    
+    <!-- C (308.58 degrees) -->
+    <circle cx="-160" cy="-122" r="30" fill="#5E81AC" stroke="#81A1C1" stroke-width="2"/>
+    <text x="-160" y="-115" text-anchor="middle" font-size="24" fill="#ECEFF4">C</text>
+  </g>
+  
+  <!-- Step indicators -->
+  <g id="steps" font-family="Arial, sans-serif">
+    <!-- Between D and E -->
+    <text x="80" y="-170" text-anchor="middle" font-size="20" fill="#D8DEE9">W</text>
+    
+    <!-- Between E and F -->
+    <text x="185" y="-30" text-anchor="middle" font-size="20" fill="#D8DEE9">H</text>
+    
+    <!-- Between F and G -->
+    <text x="145" y="130" text-anchor="middle" font-size="20" fill="#D8DEE9">W</text>
+    
+    <!-- Between G and A -->
+    <text x="0" y="195" text-anchor="middle" font-size="20" fill="#D8DEE9">W</text>
+    
+    <!-- Between A and B -->
+    <text x="-145" y="130" text-anchor="middle" font-size="20" fill="#D8DEE9">W</text>
+    
+    <!-- Between B and C -->
+    <text x="-185" y="-30" text-anchor="middle" font-size="20" fill="#D8DEE9">H</text>
+    
+    <!-- Between C and D -->
+    <text x="-80" y="-170" text-anchor="middle" font-size="20" fill="#D8DEE9">W</text>
+  </g>
+  
+  <!-- Legend and Mode Title -->
+  <g font-family="Arial, sans-serif" font-size="20">
+    <text x="0" y="235" text-anchor="middle" font-size="22" fill="#ECEFF4">D Dorian Mode</text>
+    <text x="0" y="265" text-anchor="middle" font-size="18" fill="#D8DEE9">Pattern: W-H-W-W-W-H-W</text>
+    <text x="0" y="295" text-anchor="middle" font-size="16" fill="#ECEFF4">W = Whole Step    H = Half Step</text>
+  </g>
+</svg>

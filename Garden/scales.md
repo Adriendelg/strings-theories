@@ -18,8 +18,11 @@ contrasting:
 > [!NOTE] Definition
 > A scale is a collection of 5 or more notes contained within an octave from which we derive [[melody|melodies]] and [[harmony]]. 
 
-
 We differentiate scales by their series of [[intervals]] and the number of notes to the octave. 
+
+Each scale has a particular cycle of consecutive [[minor 2nd]], [[Major 2nd]] or [[minor 3rd]] that repeats after an octave.
+
+Scales can start on any [[pitch]], they are [[transposition|transposable]], they can be played in different [[tonality|keys]] by starting the formula on different notes.
 
 # 5 notes scales, pentatonics
 - [[minor pentatonic]]

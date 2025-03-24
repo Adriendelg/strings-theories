@@ -60,22 +60,6 @@
   ],
   "file-explorer:new-file-in-new-pane": [],
   "file-explorer:new-file": [],
-  "webviewer:search": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "G"
-    }
-  ],
-  "graph:open": [
-    {
-      "modifiers": [
-        "Alt"
-      ],
-      "key": "G"
-    }
-  ],
   "vimium:show-markers": [
     {
       "modifiers": [
