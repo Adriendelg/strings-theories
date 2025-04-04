@@ -65,5 +65,16 @@ When first learning modes, it is easy to understand the concept of starting a sc
 
 Let's take every mode's formula and apply it to a C root.
 
+| Mode                    | Pitches            | Characteristic intervals | Parent scale |
+| ----------------------- | ------------------ | ------------------------ | ------------ |
+| [[major scale\|ionian]] | C D E F G A B      | /                        | C            |
+| [[dorian]]              | C D Eb F G A Bb    | b3 b7                    | Bb           |
+| [[phrygian]]            | C Db Db F G Ab Bb  | b2 b3 b6 b7              | Ab           |
+| [[lydian]]              | C D E F# G A B     | #4                       | G            |
+| [[mixolydian]]          | C D E F G A Bb     | b7                       | F            |
+| [[aeolian]]             | C D Eb F G Ab Bb   | b3 b6 b7                 | Eb           |
+| [[locrian]]             | C Db Eb F Gb Ab Bb | b2 b3 b5 b6 b7           | Db           |
+Characteristic interval here refers to the notes that deviate from the [[major scale]] or [[ionian]] mode and parent scale means the original major scale from which these modes are derived. 
+
 
 

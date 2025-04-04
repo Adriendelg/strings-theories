@@ -21,6 +21,18 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "Claude",
+                  "icon": "globe-2",
+                  "state": "{\"state\":{\"url\":\"https://claude.ai/projects\"},\"type\":\"webviewer\"}",
+                  "eState": "null"
+                },
+                {
+                  "title": "Happy Birthday Melody in ABC Notation - Claude",
+                  "icon": "globe-2",
+                  "state": "{\"state\":{\"url\":\"https://claude.ai/chat/54c5a2ed-8987-4600-beaa-c7ae1e0ad3da\"},\"type\":\"webviewer\"}",
+                  "eState": "null"
                 }
               ]
             },
@@ -28,13 +40,13 @@
             "state": {
               "type": "webviewer",
               "state": {
-                "url": "https://claude.ai/chat/54c5a2ed-8987-4600-beaa-c7ae1e0ad3da",
-                "title": "Happy Birthday Melody in ABC Notation - Claude",
+                "url": "https://claude.ai/project/88b0b0b7-9c87-482e-a748-1a05424e285a",
+                "title": "Claude",
                 "mode": "webview"
               },
               "pinned": true,
               "icon": "globe-2",
-              "title": "Happy Birthday Melody in ABC Notation - Claude"
+              "title": "Claude"
             }
           },
           {
@@ -497,9 +509,9 @@
   },
   "active": "5ef4f000dbe46024",
   "lastOpenFiles": [
+    "Garden/modes.md",
     "Garden/scales.md",
     "Garden/major scale.md",
-    "Garden/modes.md",
     "Attachments/Major Scale Intervals Diagram.svg",
     "Attachments/majorscaleintervals.svg",
     "Attachments/D Dorian Mode Circle.svg",
