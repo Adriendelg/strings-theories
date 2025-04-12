@@ -108,9 +108,53 @@
               "icon": "lucide-file",
               "title": "modes"
             }
+          },
+          {
+            "id": "74a4b613bd77816e",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Garden/triads.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "triads"
+            }
+          },
+          {
+            "id": "4ec70b5e406eb4d9",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.10"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.10"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -387,7 +431,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Garden/modes.md",
+                "file": "Garden/triads.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -479,7 +523,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of modes"
+              "title": "Graph of triads"
             }
           }
         ]
@@ -507,7 +551,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5ef4f000dbe46024",
+  "active": "4ec70b5e406eb4d9",
   "lastOpenFiles": [
     "Garden/modes.md",
     "Garden/scales.md",
