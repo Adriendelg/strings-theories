@@ -69,6 +69,56 @@
     "debugMode": false
   },
   "cachedCounts": {
+    "Templates/scale template.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1737655359674,
+      "modifiedDate": 1738710203425,
+      "sizeInBytes": 257,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Templates/tuning template.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1737655338611,
+      "modifiedDate": 1738710470425,
+      "sizeInBytes": 141,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
     "Templates/new.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -119,56 +169,6 @@
         "nonWhitespaceCharacterCount": 0
       }
     },
-    "Templates/tuning template.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1737655338611,
-      "modifiedDate": 1738710470425,
-      "sizeInBytes": 141,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
-      }
-    },
-    "Templates/scale template.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1737655359674,
-      "modifiedDate": 1738710203425,
-      "sizeInBytes": 257,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
-      }
-    },
     "Templates/abcmusictemplate.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -194,7 +194,7 @@
         "nonWhitespaceCharacterCount": 0
       }
     },
-    "Garden/why you should always tune first.md": {
+    "Meta/Strings Theories.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -208,9 +208,9 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [],
-      "createdDate": 1739695883621,
-      "modifiedDate": 1739696154360,
-      "sizeInBytes": 675,
+      "createdDate": 1737136360163,
+      "modifiedDate": 1738708589638,
+      "sizeInBytes": 2414,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -219,7 +219,7 @@
         "nonWhitespaceCharacterCount": 0
       }
     },
-    "Garden/why the guitar.md": {
+    "Meta/why.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -233,9 +233,9 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [],
-      "createdDate": 1737149817194,
-      "modifiedDate": 1737451196308,
-      "sizeInBytes": 242,
+      "createdDate": 1737154204069,
+      "modifiedDate": 1737929478873,
+      "sizeInBytes": 1999,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -244,7 +244,7 @@
         "nonWhitespaceCharacterCount": 0
       }
     },
-    "Garden/tonal music.md": {
+    "Meta/goals.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -258,9 +258,9 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [],
-      "createdDate": 1737572882808,
-      "modifiedDate": 1738750054042,
-      "sizeInBytes": 838,
+      "createdDate": 1737151949771,
+      "modifiedDate": 1738669250902,
+      "sizeInBytes": 565,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -269,7 +269,7 @@
         "nonWhitespaceCharacterCount": 0
       }
     },
-    "Garden/what it means to read music.md": {
+    "Meta/Sprouts.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -283,9 +283,9 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [],
-      "createdDate": 1738527385620,
-      "modifiedDate": 1738919363534,
-      "sizeInBytes": 1336,
+      "createdDate": 1741287339150,
+      "modifiedDate": 1741336441051,
+      "sizeInBytes": 338,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -294,32 +294,38 @@
         "nonWhitespaceCharacterCount": 0
       }
     },
-    "Garden/why you need music theory.md": {
+    "Meta/Rules.md": {
       "isCountable": true,
       "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
+      "noteCount": 1,
+      "wordCount": 74,
       "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
+      "wordGoal": null,
+      "pageCount": 0.24666666666666667,
+      "characterCount": 391,
+      "nonWhitespaceCharacterCount": 315,
+      "readingTimeInMinutes": 0.2792452830188679,
       "linkCount": 0,
       "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1737532411394,
-      "modifiedDate": 1737535012901,
-      "sizeInBytes": 4259,
+      "aliases": null,
+      "createdDate": 1737151811223,
+      "modifiedDate": 1739176976372,
+      "sizeInBytes": 422,
       "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
+        "noteCount": 1,
+        "pageCount": 0.24666666666666667,
+        "wordCount": 74,
+        "characterCount": 391,
+        "nonWhitespaceCharacterCount": 315
+      },
+      "frontmatter": {
+        "tags": [
+          "🌲",
+          "meta"
+        ]
       }
     },
-    "Garden/why we need both flats and sharps.md": {
+    "Inbox/drop 2.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -333,9 +339,9 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [],
-      "createdDate": 1737370419041,
-      "modifiedDate": 1737626865277,
-      "sizeInBytes": 960,
+      "createdDate": 1741520415065,
+      "modifiedDate": 1741520415065,
+      "sizeInBytes": 0,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -369,7 +375,7 @@
         "nonWhitespaceCharacterCount": 0
       }
     },
-    "Garden/use leverage.md": {
+    "Garden/why you should always tune first.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -383,84 +389,9 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [],
-      "createdDate": 1738226221112,
-      "modifiedDate": 1738226861065,
-      "sizeInBytes": 1194,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
-      }
-    },
-    "Garden/why I use P4 and should you use it.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1738924045757,
-      "modifiedDate": 1739012351599,
-      "sizeInBytes": 5003,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
-      }
-    },
-    "Garden/what your body is made for.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1737240402626,
-      "modifiedDate": 1739437271750,
-      "sizeInBytes": 509,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
-      }
-    },
-    "Garden/use.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1738598038238,
-      "modifiedDate": 1738598611554,
-      "sizeInBytes": 508,
+      "createdDate": 1739695883621,
+      "modifiedDate": 1739696154360,
+      "sizeInBytes": 675,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -494,7 +425,7 @@
         "nonWhitespaceCharacterCount": 0
       }
     },
-    "Garden/the first chords you learn are triads.md": {
+    "Garden/why we need both flats and sharps.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -508,9 +439,9 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [],
-      "createdDate": 1738017898621,
-      "modifiedDate": 1738232496879,
-      "sizeInBytes": 243,
+      "createdDate": 1737370419041,
+      "modifiedDate": 1737626865277,
+      "sizeInBytes": 960,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -519,7 +450,7 @@
         "nonWhitespaceCharacterCount": 0
       }
     },
-    "Garden/two chords cadences.md": {
+    "Garden/why you need music theory.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -533,9 +464,159 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [],
-      "createdDate": 1737971471291,
-      "modifiedDate": 1741078521454,
-      "sizeInBytes": 3059,
+      "createdDate": 1737532411394,
+      "modifiedDate": 1737535012901,
+      "sizeInBytes": 4259,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Garden/why the guitar.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1737149817194,
+      "modifiedDate": 1737451196308,
+      "sizeInBytes": 242,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Garden/why I use P4 and should you use it.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1738924045757,
+      "modifiedDate": 1739012351599,
+      "sizeInBytes": 5003,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Garden/tonic.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1737636211213,
+      "modifiedDate": 1741078521436,
+      "sizeInBytes": 1010,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Garden/what your body is made for.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1737240402626,
+      "modifiedDate": 1739437271750,
+      "sizeInBytes": 509,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Garden/what it means to read music.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1738527385620,
+      "modifiedDate": 1738919363534,
+      "sizeInBytes": 1336,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Garden/use.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1738598038238,
+      "modifiedDate": 1738598611554,
+      "sizeInBytes": 508,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -561,6 +642,31 @@
       "createdDate": 1739524091042,
       "modifiedDate": 1739525451959,
       "sizeInBytes": 1360,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Garden/use leverage.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1738226221112,
+      "modifiedDate": 1738226861065,
+      "sizeInBytes": 1194,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -635,6 +741,31 @@
           "[[spider exercise and variations]]"
         ],
         "contrasting": null
+      }
+    },
+    "Garden/two chords cadences.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1737971471291,
+      "modifiedDate": 1741078521454,
+      "sizeInBytes": 3059,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
       }
     },
     "Garden/tunings.md": {
@@ -737,123 +868,6 @@
         "nonWhitespaceCharacterCount": 0
       }
     },
-    "Garden/tonality.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1737368458456,
-      "modifiedDate": 1738750231529,
-      "sizeInBytes": 1186,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
-      }
-    },
-    "Garden/tonic.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1737636211213,
-      "modifiedDate": 1741078521436,
-      "sizeInBytes": 1010,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
-      }
-    },
-    "Garden/tetrads.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 285,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.95,
-      "characterCount": 2166,
-      "nonWhitespaceCharacterCount": 1620,
-      "readingTimeInMinutes": 1.0754716981132075,
-      "linkCount": 12,
-      "embedCount": 0,
-      "aliases": [
-        "seventh chords"
-      ],
-      "createdDate": 1738710483255,
-      "modifiedDate": 1741167891955,
-      "sizeInBytes": 2295,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.95,
-        "wordCount": 285,
-        "characterCount": 2166,
-        "nonWhitespaceCharacterCount": 1620
-      },
-      "frontmatter": {
-        "tags": [
-          "🪴",
-          "musictheory"
-        ],
-        "aliases": [
-          "seventh chords"
-        ],
-        "upstream": [
-          "[[triads]]"
-        ],
-        "downstream": null,
-        "aligned": null,
-        "contrasting": null
-      }
-    },
-    "Garden/spider exercise and variations.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1739267281007,
-      "modifiedDate": 1739346980890,
-      "sizeInBytes": 1375,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
-      }
-    },
     "Garden/time signature.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -882,36 +896,29 @@
     "Garden/the three main playing positions.md": {
       "isCountable": true,
       "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 184,
+      "noteCount": 0,
+      "wordCount": 0,
       "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.6133333333333333,
-      "characterCount": 1069,
-      "nonWhitespaceCharacterCount": 877,
-      "readingTimeInMinutes": 0.6943396226415094,
-      "linkCount": 7,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
       "embedCount": 0,
-      "aliases": null,
+      "aliases": [],
       "createdDate": 1737446196922,
       "modifiedDate": 1739180346126,
       "sizeInBytes": 1117,
       "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.6133333333333333,
-        "wordCount": 184,
-        "characterCount": 1069,
-        "nonWhitespaceCharacterCount": 877
-      },
-      "frontmatter": {
-        "tags": [
-          "🌱",
-          "technique",
-          "posture"
-        ]
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
       }
     },
-    "Garden/the staff.md": {
+    "Garden/tonality.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -925,9 +932,34 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [],
-      "createdDate": 1737841440985,
-      "modifiedDate": 1740741154660,
-      "sizeInBytes": 2239,
+      "createdDate": 1737368458456,
+      "modifiedDate": 1738750231529,
+      "sizeInBytes": 1186,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Garden/tonal music.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1737572882808,
+      "modifiedDate": 1738750054042,
+      "sizeInBytes": 838,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -961,7 +993,7 @@
         "nonWhitespaceCharacterCount": 0
       }
     },
-    "Garden/tapping.md": {
+    "Garden/scale degrees.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -975,9 +1007,84 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [],
-      "createdDate": 1741082295156,
-      "modifiedDate": 1741084099434,
-      "sizeInBytes": 1638,
+      "createdDate": 1738745625344,
+      "modifiedDate": 1738747443313,
+      "sizeInBytes": 257,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Garden/the staff.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1737841440985,
+      "modifiedDate": 1740741154660,
+      "sizeInBytes": 2239,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Garden/strings.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1738838624972,
+      "modifiedDate": 1738924485493,
+      "sizeInBytes": 1059,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Garden/the first chords you learn are triads.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1738017898621,
+      "modifiedDate": 1738232496879,
+      "sizeInBytes": 243,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -1014,45 +1121,29 @@
     "Garden/the 12 semitones.md": {
       "isCountable": true,
       "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 148,
+      "noteCount": 0,
+      "wordCount": 0,
       "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.49333333333333335,
-      "characterCount": 920,
-      "nonWhitespaceCharacterCount": 749,
-      "readingTimeInMinutes": 0.5584905660377358,
-      "linkCount": 4,
-      "embedCount": 3,
-      "aliases": [
-        "half steps",
-        "semitones",
-        "chromatic scale"
-      ],
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
       "createdDate": 1737210431901,
       "modifiedDate": 1738747302521,
       "sizeInBytes": 1035,
       "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.49333333333333335,
-        "wordCount": 148,
-        "characterCount": 920,
-        "nonWhitespaceCharacterCount": 749
-      },
-      "frontmatter": {
-        "tags": [
-          "🌲",
-          "basics",
-          "musictheory"
-        ],
-        "aliases": [
-          "half steps",
-          "semitones",
-          "chromatic scale"
-        ]
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
       }
     },
-    "Garden/strings in motion.md": {
+    "Garden/tetrads.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -1066,9 +1157,9 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [],
-      "createdDate": 1738312881133,
-      "modifiedDate": 1742126414454,
-      "sizeInBytes": 2018,
+      "createdDate": 1738710483255,
+      "modifiedDate": 1741167891955,
+      "sizeInBytes": 2295,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -1152,7 +1243,7 @@
         "nonWhitespaceCharacterCount": 0
       }
     },
-    "Garden/strings.md": {
+    "Garden/tapping.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -1166,9 +1257,9 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [],
-      "createdDate": 1738838624972,
-      "modifiedDate": 1738924485493,
-      "sizeInBytes": 1059,
+      "createdDate": 1741082295156,
+      "modifiedDate": 1741084099434,
+      "sizeInBytes": 1638,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -1277,7 +1368,7 @@
         "nonWhitespaceCharacterCount": 0
       }
     },
-    "Garden/standing.md": {
+    "Garden/strings in motion.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -1291,34 +1382,9 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [],
-      "createdDate": 1738743690193,
-      "modifiedDate": 1738743734861,
-      "sizeInBytes": 1100,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
-      }
-    },
-    "Garden/spread voicing.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1739185975381,
-      "modifiedDate": 1740918653281,
-      "sizeInBytes": 2944,
+      "createdDate": 1738312881133,
+      "modifiedDate": 1742126414454,
+      "sizeInBytes": 2018,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -1352,6 +1418,31 @@
         "nonWhitespaceCharacterCount": 0
       }
     },
+    "Garden/standing.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1738743690193,
+      "modifiedDate": 1738743734861,
+      "sizeInBytes": 1100,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
     "Garden/strap.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -1369,56 +1460,6 @@
       "createdDate": 1739698291446,
       "modifiedDate": 1739698958405,
       "sizeInBytes": 1687,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
-      }
-    },
-    "Garden/scales.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1740916418715,
-      "modifiedDate": 1742810647696,
-      "sizeInBytes": 2459,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
-      }
-    },
-    "Garden/standard tuning.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1737447420459,
-      "modifiedDate": 1739177576447,
-      "sizeInBytes": 1138,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -1452,6 +1493,81 @@
         "nonWhitespaceCharacterCount": 0
       }
     },
+    "Garden/standard tuning.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1737447420459,
+      "modifiedDate": 1739177576447,
+      "sizeInBytes": 1138,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Garden/spider exercise and variations.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1739267281007,
+      "modifiedDate": 1739346980890,
+      "sizeInBytes": 1375,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Garden/spread voicing.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1739185975381,
+      "modifiedDate": 1740918653281,
+      "sizeInBytes": 2944,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
     "Garden/similarities between learning music and learning a language.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -1469,31 +1585,6 @@
       "createdDate": 1738527313292,
       "modifiedDate": 1739695539141,
       "sizeInBytes": 3774,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
-      }
-    },
-    "Garden/root.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1738526590608,
-      "modifiedDate": 1738526701369,
-      "sizeInBytes": 312,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -1602,7 +1693,7 @@
         "nonWhitespaceCharacterCount": 0
       }
     },
-    "Garden/posture.md": {
+    "Garden/scales.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -1616,9 +1707,9 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [],
-      "createdDate": 1737240182982,
-      "modifiedDate": 1742122845807,
-      "sizeInBytes": 509,
+      "createdDate": 1740916418715,
+      "modifiedDate": 1742810647696,
+      "sizeInBytes": 2459,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -1627,7 +1718,7 @@
         "nonWhitespaceCharacterCount": 0
       }
     },
-    "Garden/scale degrees.md": {
+    "Garden/right hand fingerings.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -1641,9 +1732,9 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [],
-      "createdDate": 1738745625344,
-      "modifiedDate": 1738747443313,
-      "sizeInBytes": 257,
+      "createdDate": 1738658960793,
+      "modifiedDate": 1738709665325,
+      "sizeInBytes": 1105,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -1652,7 +1743,7 @@
         "nonWhitespaceCharacterCount": 0
       }
     },
-    "Garden/my gear.md": {
+    "Garden/root.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -1666,9 +1757,9 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [],
-      "createdDate": 1737530433716,
-      "modifiedDate": 1741003512305,
-      "sizeInBytes": 1019,
+      "createdDate": 1738526590608,
+      "modifiedDate": 1738526701369,
+      "sizeInBytes": 312,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -1727,7 +1818,7 @@
         "nonWhitespaceCharacterCount": 0
       }
     },
-    "Garden/range.md": {
+    "Garden/guitar.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -1741,34 +1832,9 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [],
-      "createdDate": 1739176137639,
-      "modifiedDate": 1739176163732,
-      "sizeInBytes": 115,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
-      }
-    },
-    "Garden/right hand fingerings.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1738658960793,
-      "modifiedDate": 1738709665325,
-      "sizeInBytes": 1105,
+      "createdDate": 1737136470223,
+      "modifiedDate": 1738708608981,
+      "sizeInBytes": 298,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -1852,6 +1918,31 @@
         "nonWhitespaceCharacterCount": 0
       }
     },
+    "Garden/range.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1739176137639,
+      "modifiedDate": 1739176163732,
+      "sizeInBytes": 115,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
     "Garden/reading tablatures.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -1869,31 +1960,6 @@
       "createdDate": 1739012448642,
       "modifiedDate": 1739526849750,
       "sizeInBytes": 1190,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
-      }
-    },
-    "Garden/practice mode vs performance mode.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1740649625748,
-      "modifiedDate": 1740653927319,
-      "sizeInBytes": 5616,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -1952,7 +2018,7 @@
         "nonWhitespaceCharacterCount": 0
       }
     },
-    "Garden/parts of the guitar.md": {
+    "Garden/practice mode vs performance mode.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -1966,9 +2032,9 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [],
-      "createdDate": 1737819935515,
-      "modifiedDate": 1738840748308,
-      "sizeInBytes": 449,
+      "createdDate": 1740649625748,
+      "modifiedDate": 1740653927319,
+      "sizeInBytes": 5616,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -2002,7 +2068,7 @@
         "nonWhitespaceCharacterCount": 0
       }
     },
-    "Garden/pick.md": {
+    "Garden/posture.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -2016,9 +2082,9 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [],
-      "createdDate": 1737151451493,
-      "modifiedDate": 1739265149531,
-      "sizeInBytes": 986,
+      "createdDate": 1737240182982,
+      "modifiedDate": 1742122845807,
+      "sizeInBytes": 509,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -2052,6 +2118,31 @@
         "nonWhitespaceCharacterCount": 0
       }
     },
+    "Garden/pick.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1737151451493,
+      "modifiedDate": 1739265149531,
+      "sizeInBytes": 986,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
     "Garden/pitch.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -2077,7 +2168,7 @@
         "nonWhitespaceCharacterCount": 0
       }
     },
-    "Garden/note repetition on the fretboard.md": {
+    "Garden/parts of the guitar.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -2091,9 +2182,9 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [],
-      "createdDate": 1738229192633,
-      "modifiedDate": 1738230919363,
-      "sizeInBytes": 1423,
+      "createdDate": 1737819935515,
+      "modifiedDate": 1738840748308,
+      "sizeInBytes": 449,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -2102,47 +2193,29 @@
         "nonWhitespaceCharacterCount": 0
       }
     },
-    "Garden/modes.md": {
+    "Garden/harmonic minor scale harmonisation in triads.md": {
       "isCountable": true,
       "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 536,
+      "noteCount": 0,
+      "wordCount": 0,
       "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 1.7866666666666666,
-      "characterCount": 3871,
-      "nonWhitespaceCharacterCount": 2637,
-      "readingTimeInMinutes": 2.0226415094339623,
-      "linkCount": 25,
-      "embedCount": 3,
-      "aliases": null,
-      "createdDate": 1742809839712,
-      "modifiedDate": 1744142643923,
-      "sizeInBytes": 4045,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1737841271885,
+      "modifiedDate": 1741078688769,
+      "sizeInBytes": 760,
       "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 1.7866666666666666,
-        "wordCount": 536,
-        "characterCount": 3871,
-        "nonWhitespaceCharacterCount": 2637
-      },
-      "frontmatter": {
-        "tags": [
-          "🌱",
-          "musictheory"
-        ],
-        "aliases": null,
-        "upstream": [
-          "[[intervals]]",
-          "[[scales]]"
-        ],
-        "downstream": [
-          "[[modal music]]"
-        ],
-        "aligned": null,
-        "contrasting": [
-          "[[tonal music]]"
-        ]
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
       }
     },
     "Garden/nut.md": {
@@ -2170,7 +2243,7 @@
         "nonWhitespaceCharacterCount": 0
       }
     },
-    "Garden/natural harmonics.md": {
+    "Garden/note repetition on the fretboard.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -2184,9 +2257,9 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [],
-      "createdDate": 1738317479764,
-      "modifiedDate": 1738319601009,
-      "sizeInBytes": 1143,
+      "createdDate": 1738229192633,
+      "modifiedDate": 1738230919363,
+      "sizeInBytes": 1423,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -2245,7 +2318,7 @@
         "nonWhitespaceCharacterCount": 0
       }
     },
-    "Garden/my current nail situation.md": {
+    "Garden/natural harmonics.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -2259,9 +2332,9 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [],
-      "createdDate": 1737573753004,
-      "modifiedDate": 1737632840345,
-      "sizeInBytes": 1146,
+      "createdDate": 1738317479764,
+      "modifiedDate": 1738319601009,
+      "sizeInBytes": 1143,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -2320,7 +2393,7 @@
         "nonWhitespaceCharacterCount": 0
       }
     },
-    "Garden/major scale harmonisation in tetrads.md": {
+    "Garden/my gear.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -2334,9 +2407,9 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [],
-      "createdDate": 1738744520669,
-      "modifiedDate": 1739265956526,
-      "sizeInBytes": 986,
+      "createdDate": 1737530433716,
+      "modifiedDate": 1741003512305,
+      "sizeInBytes": 1019,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -2345,7 +2418,7 @@
         "nonWhitespaceCharacterCount": 0
       }
     },
-    "Garden/music theory.md": {
+    "Garden/my current nail situation.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -2359,9 +2432,9 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [],
-      "createdDate": 1737150572544,
-      "modifiedDate": 1738668676813,
-      "sizeInBytes": 638,
+      "createdDate": 1737573753004,
+      "modifiedDate": 1737632840345,
+      "sizeInBytes": 1146,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -2420,6 +2493,31 @@
         "nonWhitespaceCharacterCount": 0
       }
     },
+    "Garden/music theory.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1737150572544,
+      "modifiedDate": 1738668676813,
+      "sizeInBytes": 638,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
     "Garden/music genres.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -2437,31 +2535,6 @@
       "createdDate": 1737153018586,
       "modifiedDate": 1737218456994,
       "sizeInBytes": 128,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
-      }
-    },
-    "Garden/left hand fingerings.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1737450509590,
-      "modifiedDate": 1739266635888,
-      "sizeInBytes": 1129,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -2495,7 +2568,7 @@
         "nonWhitespaceCharacterCount": 0
       }
     },
-    "Garden/melody.md": {
+    "Garden/modes.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -2509,9 +2582,9 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [],
-      "createdDate": 1741255300679,
-      "modifiedDate": 1741594494170,
-      "sizeInBytes": 2874,
+      "createdDate": 1742809839712,
+      "modifiedDate": 1744142643923,
+      "sizeInBytes": 4045,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -2570,7 +2643,7 @@
         "nonWhitespaceCharacterCount": 0
       }
     },
-    "Garden/how to practice reading rhythm.md": {
+    "Garden/melody.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -2584,9 +2657,9 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [],
-      "createdDate": 1740470572378,
-      "modifiedDate": 1740475564609,
-      "sizeInBytes": 2112,
+      "createdDate": 1741255300679,
+      "modifiedDate": 1741594494170,
+      "sizeInBytes": 2874,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -2670,6 +2743,31 @@
         "nonWhitespaceCharacterCount": 0
       }
     },
+    "Garden/major scale harmonisation in tetrads.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1738744520669,
+      "modifiedDate": 1739265956526,
+      "sizeInBytes": 986,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
     "Garden/lh thumb.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -2687,31 +2785,6 @@
       "createdDate": 1737217970952,
       "modifiedDate": 1737218217240,
       "sizeInBytes": 565,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
-      }
-    },
-    "Garden/left hand.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1737150452216,
-      "modifiedDate": 1739436905197,
-      "sizeInBytes": 439,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -2770,6 +2843,56 @@
         "nonWhitespaceCharacterCount": 0
       }
     },
+    "Garden/left hand.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1737150452216,
+      "modifiedDate": 1739436905197,
+      "sizeInBytes": 439,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Garden/left hand fingerings.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1737450509590,
+      "modifiedDate": 1739266635888,
+      "sizeInBytes": 1129,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
     "Garden/left hand exercises.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -2795,7 +2918,7 @@
         "nonWhitespaceCharacterCount": 0
       }
     },
-    "Garden/intellectual vs experiential knowing.md": {
+    "Garden/key signature.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -2809,9 +2932,9 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [],
-      "createdDate": 1738231174261,
-      "modifiedDate": 1739179125020,
-      "sizeInBytes": 1550,
+      "createdDate": 1739697200691,
+      "modifiedDate": 1739697558501,
+      "sizeInBytes": 1436,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -2837,31 +2960,6 @@
       "createdDate": 1742121034451,
       "modifiedDate": 1742122389323,
       "sizeInBytes": 2066,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
-      }
-    },
-    "Garden/key signature.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1739697200691,
-      "modifiedDate": 1739697558501,
-      "sizeInBytes": 1436,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -2945,7 +3043,7 @@
         "nonWhitespaceCharacterCount": 0
       }
     },
-    "Garden/headstock.md": {
+    "Garden/intellectual vs experiential knowing.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -2959,9 +3057,9 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [],
-      "createdDate": 1738834675503,
-      "modifiedDate": 1738840459211,
-      "sizeInBytes": 1186,
+      "createdDate": 1738231174261,
+      "modifiedDate": 1739179125020,
+      "sizeInBytes": 1550,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -2970,7 +3068,7 @@
         "nonWhitespaceCharacterCount": 0
       }
     },
-    "Garden/harmonic minor scale harmonisation in triads.md": {
+    "Garden/how to practice reading rhythm.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -2984,9 +3082,9 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [],
-      "createdDate": 1737841271885,
-      "modifiedDate": 1741078688769,
-      "sizeInBytes": 760,
+      "createdDate": 1740470572378,
+      "modifiedDate": 1740475564609,
+      "sizeInBytes": 2112,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -3020,31 +3118,6 @@
         "nonWhitespaceCharacterCount": 0
       }
     },
-    "Garden/harmonic minor scale.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1741078623516,
-      "modifiedDate": 1742120112895,
-      "sizeInBytes": 1151,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
-      }
-    },
     "Garden/how can you find tunings to explore ?.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -3070,7 +3143,7 @@
         "nonWhitespaceCharacterCount": 0
       }
     },
-    "Garden/form.md": {
+    "Garden/headstock.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -3084,9 +3157,9 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [],
-      "createdDate": 1741003594098,
-      "modifiedDate": 1741697854406,
-      "sizeInBytes": 2261,
+      "createdDate": 1738834675503,
+      "modifiedDate": 1738840459211,
+      "sizeInBytes": 1186,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -3145,7 +3218,7 @@
         "nonWhitespaceCharacterCount": 0
       }
     },
-    "Garden/fuck talent.md": {
+    "Garden/harmonic minor scale.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -3159,9 +3232,59 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [],
-      "createdDate": 1739438720922,
-      "modifiedDate": 1739439036849,
-      "sizeInBytes": 4186,
+      "createdDate": 1741078623516,
+      "modifiedDate": 1742120112895,
+      "sizeInBytes": 1151,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Garden/buzzing.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1737742516590,
+      "modifiedDate": 1737742803461,
+      "sizeInBytes": 526,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Garden/ear training.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1738320317987,
+      "modifiedDate": 1739179990279,
+      "sizeInBytes": 3260,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -3195,7 +3318,7 @@
         "nonWhitespaceCharacterCount": 0
       }
     },
-    "Garden/guitar.md": {
+    "Garden/gear considerations for alternate tunings.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -3209,9 +3332,9 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [],
-      "createdDate": 1737136470223,
-      "modifiedDate": 1738708608981,
-      "sizeInBytes": 298,
+      "createdDate": 1737153577155,
+      "modifiedDate": 1737208952888,
+      "sizeInBytes": 1694,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -3245,7 +3368,7 @@
         "nonWhitespaceCharacterCount": 0
       }
     },
-    "Garden/gear considerations for alternate tunings.md": {
+    "Garden/fuck talent.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -3259,59 +3382,9 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [],
-      "createdDate": 1737153577155,
-      "modifiedDate": 1737208952888,
-      "sizeInBytes": 1694,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
-      }
-    },
-    "Garden/footstool.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1739697861727,
-      "modifiedDate": 1739698285033,
-      "sizeInBytes": 1362,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
-      }
-    },
-    "Garden/fingerstyle.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1738233930506,
-      "modifiedDate": 1738241548608,
-      "sizeInBytes": 507,
+      "createdDate": 1739438720922,
+      "modifiedDate": 1739439036849,
+      "sizeInBytes": 4186,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -3420,7 +3493,7 @@
         "nonWhitespaceCharacterCount": 0
       }
     },
-    "Garden/flag poling.md": {
+    "Garden/form.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -3434,9 +3507,9 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [],
-      "createdDate": 1737818837294,
-      "modifiedDate": 1737819214068,
-      "sizeInBytes": 495,
+      "createdDate": 1741003594098,
+      "modifiedDate": 1741697854406,
+      "sizeInBytes": 2261,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -3445,7 +3518,7 @@
         "nonWhitespaceCharacterCount": 0
       }
     },
-    "Garden/flesh.md": {
+    "Garden/footstool.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -3459,9 +3532,9 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [],
-      "createdDate": 1742125705324,
-      "modifiedDate": 1742126057892,
-      "sizeInBytes": 993,
+      "createdDate": 1739697861727,
+      "modifiedDate": 1739698285033,
+      "sizeInBytes": 1362,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -3495,7 +3568,7 @@
         "nonWhitespaceCharacterCount": 0
       }
     },
-    "Garden/fingerings.md": {
+    "Garden/flesh.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -3509,9 +3582,59 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [],
-      "createdDate": 1738527208541,
-      "modifiedDate": 1738660041824,
-      "sizeInBytes": 308,
+      "createdDate": 1742125705324,
+      "modifiedDate": 1742126057892,
+      "sizeInBytes": 993,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Garden/flag poling.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1737818837294,
+      "modifiedDate": 1737819214068,
+      "sizeInBytes": 495,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Garden/fingerstyle.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1738233930506,
+      "modifiedDate": 1738241548608,
+      "sizeInBytes": 507,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -3537,31 +3660,6 @@
       "createdDate": 1737151402490,
       "modifiedDate": 1739265099366,
       "sizeInBytes": 636,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
-      }
-    },
-    "Garden/fingerpicking right hand.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1738327029711,
-      "modifiedDate": 1740647912916,
-      "sizeInBytes": 1041,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -3620,7 +3718,7 @@
         "nonWhitespaceCharacterCount": 0
       }
     },
-    "Garden/ear training.md": {
+    "Garden/fingerpicking right hand.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -3634,9 +3732,34 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [],
-      "createdDate": 1738320317987,
-      "modifiedDate": 1739179990279,
-      "sizeInBytes": 3260,
+      "createdDate": 1738327029711,
+      "modifiedDate": 1740647912916,
+      "sizeInBytes": 1041,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Garden/fingerings.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1738527208541,
+      "modifiedDate": 1738660041824,
+      "sizeInBytes": 308,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -3662,6 +3785,31 @@
       "createdDate": 1741082169574,
       "modifiedDate": 1741168129580,
       "sizeInBytes": 896,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Garden/enharmonics.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1739699300156,
+      "modifiedDate": 1741081083150,
+      "sizeInBytes": 557,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -3720,31 +3868,6 @@
         "nonWhitespaceCharacterCount": 0
       }
     },
-    "Garden/enharmonics.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1739699300156,
-      "modifiedDate": 1741081083150,
-      "sizeInBytes": 557,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
-      }
-    },
     "Garden/decay.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -3787,56 +3910,6 @@
       "createdDate": 1737928424530,
       "modifiedDate": 1738147487601,
       "sizeInBytes": 840,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
-      }
-    },
-    "Garden/chord tone.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1739699087986,
-      "modifiedDate": 1739699254140,
-      "sizeInBytes": 632,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
-      }
-    },
-    "Garden/closed position.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1739175897201,
-      "modifiedDate": 1739187270319,
-      "sizeInBytes": 414,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -3920,7 +3993,7 @@
         "nonWhitespaceCharacterCount": 0
       }
     },
-    "Garden/classical right hand.md": {
+    "Garden/closed position.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -3934,9 +4007,9 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [],
-      "createdDate": 1737445722878,
-      "modifiedDate": 1740647947168,
-      "sizeInBytes": 803,
+      "createdDate": 1739175897201,
+      "modifiedDate": 1739187270319,
+      "sizeInBytes": 414,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -3970,7 +4043,7 @@
         "nonWhitespaceCharacterCount": 0
       }
     },
-    "Garden/chord voicings.md": {
+    "Garden/classical right hand.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -3984,9 +4057,9 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [],
-      "createdDate": 1739185952454,
-      "modifiedDate": 1739186440869,
-      "sizeInBytes": 497,
+      "createdDate": 1737445722878,
+      "modifiedDate": 1740647947168,
+      "sizeInBytes": 803,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -4020,7 +4093,7 @@
         "nonWhitespaceCharacterCount": 0
       }
     },
-    "Garden/blues.md": {
+    "Garden/chord voicings.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -4034,9 +4107,9 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [],
-      "createdDate": 1742202330848,
-      "modifiedDate": 1742203250907,
-      "sizeInBytes": 1547,
+      "createdDate": 1739185952454,
+      "modifiedDate": 1739186440869,
+      "sizeInBytes": 497,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -4045,7 +4118,7 @@
         "nonWhitespaceCharacterCount": 0
       }
     },
-    "Garden/beginners mistakes and problems.md": {
+    "Garden/chord tone.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -4059,34 +4132,9 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [],
-      "createdDate": 1742122595925,
-      "modifiedDate": 1742125652524,
-      "sizeInBytes": 2831,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
-      }
-    },
-    "Garden/capo.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1741168131637,
-      "modifiedDate": 1741172457496,
-      "sizeInBytes": 3149,
+      "createdDate": 1739699087986,
+      "modifiedDate": 1739699254140,
+      "sizeInBytes": 632,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -4120,7 +4168,7 @@
         "nonWhitespaceCharacterCount": 0
       }
     },
-    "Garden/buzzing.md": {
+    "Garden/capo.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -4134,9 +4182,9 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [],
-      "createdDate": 1737742516590,
-      "modifiedDate": 1737742803461,
-      "sizeInBytes": 526,
+      "createdDate": 1741168131637,
+      "modifiedDate": 1741172457496,
+      "sizeInBytes": 3149,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -4170,7 +4218,7 @@
         "nonWhitespaceCharacterCount": 0
       }
     },
-    "Garden/basic rhythm notation.md": {
+    "Garden/beginners mistakes and problems.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -4184,9 +4232,9 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [],
-      "createdDate": 1738921015038,
-      "modifiedDate": 1740473177167,
-      "sizeInBytes": 4365,
+      "createdDate": 1742122595925,
+      "modifiedDate": 1742125652524,
+      "sizeInBytes": 2831,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -4220,7 +4268,7 @@
         "nonWhitespaceCharacterCount": 0
       }
     },
-    "Garden/barre chords.md": {
+    "Garden/blues.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -4234,9 +4282,59 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [],
-      "createdDate": 1738224286965,
-      "modifiedDate": 1738225185514,
-      "sizeInBytes": 845,
+      "createdDate": 1742202330848,
+      "modifiedDate": 1742203250907,
+      "sizeInBytes": 1547,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Garden/basic rhythm notation.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1738921015038,
+      "modifiedDate": 1740473177167,
+      "sizeInBytes": 4365,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Garden/alternate tunings.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1737153203727,
+      "modifiedDate": 1739109315394,
+      "sizeInBytes": 1636,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -4270,56 +4368,6 @@
         "nonWhitespaceCharacterCount": 0
       }
     },
-    "Garden/accidentals.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1738399177774,
-      "modifiedDate": 1739699533612,
-      "sizeInBytes": 1028,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
-      }
-    },
-    "Garden/V7 chord.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1738745868467,
-      "modifiedDate": 1741078521286,
-      "sizeInBytes": 2007,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
-      }
-    },
     "Garden/bars.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -4345,7 +4393,7 @@
         "nonWhitespaceCharacterCount": 0
       }
     },
-    "Garden/audiation.md": {
+    "Garden/barre chords.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -4359,9 +4407,9 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [],
-      "createdDate": 1739108930262,
-      "modifiedDate": 1739179912922,
-      "sizeInBytes": 1594,
+      "createdDate": 1738224286965,
+      "modifiedDate": 1738225185514,
+      "sizeInBytes": 845,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -4395,7 +4443,7 @@
         "nonWhitespaceCharacterCount": 0
       }
     },
-    "Garden/archtop.md": {
+    "Garden/audiation.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -4409,9 +4457,9 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [],
-      "createdDate": 1742120574693,
-      "modifiedDate": 1742120937915,
-      "sizeInBytes": 879,
+      "createdDate": 1739108930262,
+      "modifiedDate": 1739179912922,
+      "sizeInBytes": 1594,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -4445,7 +4493,7 @@
         "nonWhitespaceCharacterCount": 0
       }
     },
-    "Garden/alternate tunings.md": {
+    "Garden/archtop.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -4459,9 +4507,9 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [],
-      "createdDate": 1737153203727,
-      "modifiedDate": 1739109315394,
-      "sizeInBytes": 1636,
+      "createdDate": 1742120574693,
+      "modifiedDate": 1742120937915,
+      "sizeInBytes": 879,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -4520,6 +4568,81 @@
         "nonWhitespaceCharacterCount": 0
       }
     },
+    "Garden/accidentals.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1738399177774,
+      "modifiedDate": 1739699533612,
+      "sizeInBytes": 1028,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Garden/V7 chord.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1738745868467,
+      "modifiedDate": 1741078521286,
+      "sizeInBytes": 2007,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Garden/V - I.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1738746493866,
+      "modifiedDate": 1738746528133,
+      "sizeInBytes": 105,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
     "Garden/P4 tuning.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -4570,31 +4693,6 @@
         "nonWhitespaceCharacterCount": 0
       }
     },
-    "Garden/V - I.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1738746493866,
-      "modifiedDate": 1738746528133,
-      "sizeInBytes": 105,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
-      }
-    },
     "Garden/12 string.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -4620,7 +4718,7 @@
         "nonWhitespaceCharacterCount": 0
       }
     },
-    "Attachments/harmonic-series.svg": {
+    "Attachments/C Major Scale Diagram.svg": {
       "isCountable": false,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -4634,34 +4732,9 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [],
-      "createdDate": 1738315776167,
-      "modifiedDate": 1738315776168,
-      "sizeInBytes": 2111,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
-      }
-    },
-    "Attachments/tetrad-intervals.mermaid": {
-      "isCountable": false,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1738710837716,
-      "modifiedDate": 1738710837716,
-      "sizeInBytes": 1411,
+      "createdDate": 1737369607242,
+      "modifiedDate": 1737369607243,
+      "sizeInBytes": 2769,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -4695,7 +4768,7 @@
         "nonWhitespaceCharacterCount": 0
       }
     },
-    "Attachments/switch from hell-1.svg": {
+    "Attachments/tetrad-intervals.mermaid": {
       "isCountable": false,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -4709,9 +4782,9 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [],
-      "createdDate": 1739348969430,
-      "modifiedDate": 1739348969430,
-      "sizeInBytes": 37405,
+      "createdDate": 1738710837716,
+      "modifiedDate": 1738710837716,
+      "sizeInBytes": 1411,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -4745,7 +4818,7 @@
         "nonWhitespaceCharacterCount": 0
       }
     },
-    "Attachments/harmonics-diagram.svg": {
+    "Attachments/switch from hell-1.svg": {
       "isCountable": false,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -4759,34 +4832,9 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [],
-      "createdDate": 1738319105787,
-      "modifiedDate": 1738319105787,
-      "sizeInBytes": 7485,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
-      }
-    },
-    "Attachments/left-hand-numbers.svg": {
-      "isCountable": false,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1738659803454,
-      "modifiedDate": 1738659803454,
-      "sizeInBytes": 1590,
+      "createdDate": 1739348969430,
+      "modifiedDate": 1739348969430,
+      "sizeInBytes": 37405,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -4845,6 +4893,31 @@
         "nonWhitespaceCharacterCount": 0
       }
     },
+    "Attachments/left-hand-numbers.svg": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1738659803454,
+      "modifiedDate": 1738659803454,
+      "sizeInBytes": 1590,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
     "Attachments/left-hand-numbers 1.svg": {
       "isCountable": false,
       "targetNodeType": "file",
@@ -4895,7 +4968,7 @@
         "nonWhitespaceCharacterCount": 0
       }
     },
-    "Attachments/harmonic-minor-intervals.svg": {
+    "Attachments/harmonics-diagram.svg": {
       "isCountable": false,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -4909,9 +4982,34 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [],
-      "createdDate": 1741080009145,
-      "modifiedDate": 1741080009145,
-      "sizeInBytes": 5231,
+      "createdDate": 1738319105787,
+      "modifiedDate": 1738319105787,
+      "sizeInBytes": 7485,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Attachments/harmonic-series.svg": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1738315776167,
+      "modifiedDate": 1738315776168,
+      "sizeInBytes": 2111,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -4937,6 +5035,31 @@
       "createdDate": 1738318394262,
       "modifiedDate": 1738318394262,
       "sizeInBytes": 3832,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Attachments/harmonic-minor-intervals.svg": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1741080009145,
+      "modifiedDate": 1741080009145,
+      "sizeInBytes": 5231,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -4995,81 +5118,6 @@
         "nonWhitespaceCharacterCount": 0
       }
     },
-    "Attachments/f-barre-chord-all-notes.svg": {
-      "isCountable": false,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1738224821960,
-      "modifiedDate": 1738224821960,
-      "sizeInBytes": 2933,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
-      }
-    },
-    "Attachments/Hand Fingering Labels.svg": {
-      "isCountable": false,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1739266941137,
-      "modifiedDate": 1739266941137,
-      "sizeInBytes": 1565,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
-      }
-    },
-    "Attachments/e-unisons-pure-svg.svg": {
-      "isCountable": false,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1738230227376,
-      "modifiedDate": 1738230227376,
-      "sizeInBytes": 3365,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
-      }
-    },
     "Attachments/fretboard.svg": {
       "isCountable": false,
       "targetNodeType": "file",
@@ -5095,7 +5143,7 @@
         "nonWhitespaceCharacterCount": 0
       }
     },
-    "Attachments/Pasted image 20250210094053.png": {
+    "Attachments/f-barre-chord-all-notes.svg": {
       "isCountable": false,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -5109,9 +5157,9 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [],
-      "createdDate": 1739176853647,
-      "modifiedDate": 1739176853647,
-      "sizeInBytes": 194035,
+      "createdDate": 1738224821960,
+      "modifiedDate": 1738224821960,
+      "sizeInBytes": 2933,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -5120,7 +5168,7 @@
         "nonWhitespaceCharacterCount": 0
       }
     },
-    "Attachments/Gsharp abomination.svg": {
+    "Attachments/e-unisons-pure-svg.svg": {
       "isCountable": false,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -5134,9 +5182,9 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [],
-      "createdDate": 1737370702375,
-      "modifiedDate": 1737370702376,
-      "sizeInBytes": 2988,
+      "createdDate": 1738230227376,
+      "modifiedDate": 1738230227376,
+      "sizeInBytes": 3365,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -5270,7 +5318,7 @@
         "nonWhitespaceCharacterCount": 0
       }
     },
-    "Attachments/Pasted image 20250210085609.png": {
+    "Attachments/Pasted image 20250210094053.png": {
       "isCountable": false,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -5284,9 +5332,9 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [],
-      "createdDate": 1739174169096,
-      "modifiedDate": 1739174169096,
-      "sizeInBytes": 271416,
+      "createdDate": 1739176853647,
+      "modifiedDate": 1739176853647,
+      "sizeInBytes": 194035,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -5345,6 +5393,31 @@
         "nonWhitespaceCharacterCount": 0
       }
     },
+    "Attachments/Pasted image 20250210085609.png": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1739174169096,
+      "modifiedDate": 1739174169096,
+      "sizeInBytes": 271416,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
     "Attachments/Major Scale Intervals Diagram.svg": {
       "isCountable": false,
       "targetNodeType": "file",
@@ -5370,7 +5443,7 @@
         "nonWhitespaceCharacterCount": 0
       }
     },
-    "Attachments/Circular Major Scale Diagram (1).svg": {
+    "Attachments/Hand Fingering Labels.svg": {
       "isCountable": false,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -5384,9 +5457,34 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [],
-      "createdDate": 1742812076511,
-      "modifiedDate": 1742812163167,
-      "sizeInBytes": 2732,
+      "createdDate": 1739266941137,
+      "modifiedDate": 1739266941137,
+      "sizeInBytes": 1565,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Attachments/Gsharp abomination.svg": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1737370702375,
+      "modifiedDate": 1737370702376,
+      "sizeInBytes": 2988,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -5420,6 +5518,31 @@
         "nonWhitespaceCharacterCount": 0
       }
     },
+    "Attachments/Circular Major Scale Diagram (1).svg": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1742812076511,
+      "modifiedDate": 1742812163167,
+      "sizeInBytes": 2732,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
     "Attachments/Circle of Fifths SVG.svg": {
       "isCountable": false,
       "targetNodeType": "file",
@@ -5437,56 +5560,6 @@
       "createdDate": 1737211047405,
       "modifiedDate": 1737211047406,
       "sizeInBytes": 4220,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
-      }
-    },
-    "Attachments/C Major Scale Diagram.svg": {
-      "isCountable": false,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1737369607242,
-      "modifiedDate": 1737369607243,
-      "sizeInBytes": 2769,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
-      }
-    },
-    "Attachments/AbMajor.svg": {
-      "isCountable": false,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1737370824233,
-      "modifiedDate": 1737370824233,
-      "sizeInBytes": 2967,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -5520,6 +5593,31 @@
         "nonWhitespaceCharacterCount": 0
       }
     },
+    "Attachments/AbMajor.svg": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1737370824233,
+      "modifiedDate": 1737370824233,
+      "sizeInBytes": 2967,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
     "Attachments/A Major Scale Diagram (1).svg": {
       "isCountable": false,
       "targetNodeType": "file",
@@ -5537,156 +5635,6 @@
       "createdDate": 1737369979993,
       "modifiedDate": 1737369979994,
       "sizeInBytes": 3009,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
-      }
-    },
-    "Meta/Sprouts.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1741287339150,
-      "modifiedDate": 1741336441051,
-      "sizeInBytes": 338,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
-      }
-    },
-    "Meta/Strings Theories.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1737136360163,
-      "modifiedDate": 1738708589638,
-      "sizeInBytes": 2414,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
-      }
-    },
-    "Meta/why.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1737154204069,
-      "modifiedDate": 1737929478873,
-      "sizeInBytes": 1999,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
-      }
-    },
-    "Meta/goals.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1737151949771,
-      "modifiedDate": 1738669250902,
-      "sizeInBytes": 565,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
-      }
-    },
-    "Meta/Rules.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1737151811223,
-      "modifiedDate": 1739176976372,
-      "sizeInBytes": 422,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
-      }
-    },
-    "Inbox/drop 2.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1741520415065,
-      "modifiedDate": 1741520415065,
-      "sizeInBytes": 0,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,

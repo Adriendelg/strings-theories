@@ -118,43 +118,24 @@
                 {
                   "state": "{}",
                   "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Garden/triads.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "triads"
-            }
-          },
-          {
-            "id": "4ec70b5e406eb4d9",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
+                },
                 {
-                  "state": "{}",
-                  "eState": "{}"
+                  "title": "triads",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Garden/triads.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"triads\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":0},\"to\":{\"line\":8,\"ch\":0}}}"
                 }
               ]
             },
             "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.8.10"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.10"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -431,7 +412,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Garden/triads.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -523,7 +503,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of triads"
+              "title": "Graph view"
             }
           }
         ]
@@ -551,8 +531,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4ec70b5e406eb4d9",
+  "active": "74a4b613bd77816e",
   "lastOpenFiles": [
+    "Garden/triads.md",
     "Garden/modes.md",
     "Garden/scales.md",
     "Garden/major scale.md",
