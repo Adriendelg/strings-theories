@@ -135,7 +135,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -412,6 +412,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Garden/modes.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -503,7 +504,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Graph of modes"
             }
           }
         ]
@@ -531,8 +532,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "74a4b613bd77816e",
+  "active": "5ef4f000dbe46024",
   "lastOpenFiles": [
+    "Attachments/Screenshot 2025-05-05 at 7.53.26 PM.png",
     "Garden/triads.md",
     "Garden/modes.md",
     "Garden/scales.md",
@@ -565,7 +567,6 @@
     "Inbox/drop 2.md",
     "Inbox",
     "Garden/follow your curiosity.md",
-    "Garden/extended techniques.md",
     "Attachments/harmonic-minor-intervals.svg",
     "git",
     "Attachments/Pasted image 20250210091014.png",

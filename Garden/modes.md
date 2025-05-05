@@ -78,3 +78,4 @@ Characteristic interval here refers to the notes that deviate from the [[major s
 
 
 
+![[Screenshot 2025-05-05 at 7.53.26 PM.png]]
