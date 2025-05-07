@@ -2783,19 +2783,19 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 245,
+      "wordCount": 252,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.8166666666666667,
-      "characterCount": 1389,
-      "nonWhitespaceCharacterCount": 1128,
-      "readingTimeInMinutes": 0.9245283018867925,
+      "pageCount": 0.84,
+      "characterCount": 1454,
+      "nonWhitespaceCharacterCount": 1182,
+      "readingTimeInMinutes": 0.9509433962264151,
       "linkCount": 6,
-      "embedCount": 0,
+      "embedCount": 1,
       "aliases": null,
       "createdDate": 1737153851115,
-      "modifiedDate": 1742122595908,
-      "sizeInBytes": 1433,
+      "modifiedDate": 1746632246823,
+      "sizeInBytes": 1498,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.8166666666666667,
@@ -3592,19 +3592,19 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 541,
+      "wordCount": 536,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 1.8033333333333332,
-      "characterCount": 3915,
-      "nonWhitespaceCharacterCount": 2677,
-      "readingTimeInMinutes": 2.0415094339622644,
+      "pageCount": 1.7866666666666666,
+      "characterCount": 3871,
+      "nonWhitespaceCharacterCount": 2637,
+      "readingTimeInMinutes": 2.0226415094339623,
       "linkCount": 25,
-      "embedCount": 4,
+      "embedCount": 3,
       "aliases": null,
       "createdDate": 1742809839712,
-      "modifiedDate": 1746467615655,
-      "sizeInBytes": 4089,
+      "modifiedDate": 1746632132433,
+      "sizeInBytes": 4045,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 1.7866666666666666,
@@ -7748,6 +7748,143 @@
         "wordCount": 0,
         "characterCount": 0,
         "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Garden/la rencontre avec Claude et son équipe.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 451,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 1.5033333333333334,
+      "characterCount": 2610,
+      "nonWhitespaceCharacterCount": 2149,
+      "readingTimeInMinutes": 1.7018867924528303,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1746633876565,
+      "modifiedDate": 1746637560998,
+      "sizeInBytes": 2795,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      },
+      "frontmatter": {
+        "tags": [
+          "🌱",
+          "project"
+        ],
+        "aliases": null,
+        "upstream": [
+          "[[Celestine guitar project]]"
+        ],
+        "downstream": null,
+        "aligned": null,
+        "contrasting": null
+      }
+    },
+    "Garden/Celestine guitar project.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 99,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.33,
+      "characterCount": 836,
+      "nonWhitespaceCharacterCount": 678,
+      "readingTimeInMinutes": 0.37358490566037733,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1746632320089,
+      "modifiedDate": 1746637569656,
+      "sizeInBytes": 841,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Garden/who I am.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0,
+      "characterCount": 2,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1746637669815,
+      "modifiedDate": 1746637713474,
+      "sizeInBytes": 81,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      },
+      "frontmatter": {
+        "tags": [
+          "🗺"
+        ],
+        "aliases": null,
+        "upstream": null,
+        "downstream": null,
+        "aligned": null,
+        "contrasting": null
+      }
+    },
+    "Inbox/what I do.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0,
+      "characterCount": 2,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1746637698239,
+      "modifiedDate": 1746637738136,
+      "sizeInBytes": 125,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      },
+      "frontmatter": {
+        "tags": [
+          "🗺"
+        ],
+        "aliases": null,
+        "upstream": null,
+        "downstream": [
+          "[[Strings Theories]]"
+        ],
+        "aligned": [
+          "[[who I am]]"
+        ],
+        "contrasting": null
       }
     }
   }

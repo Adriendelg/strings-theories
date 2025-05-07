@@ -110,6 +110,29 @@
             }
           },
           {
+            "id": "53da317ee8449f8e",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Garden/la rencontre avec Claude et son équipe.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "la rencontre avec Claude et son équipe"
+            }
+          },
+          {
             "id": "74a4b613bd77816e",
             "type": "leaf",
             "pane-relief:history-v1": {
@@ -135,7 +158,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -412,7 +435,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Garden/modes.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -487,6 +509,13 @@
                         "a": 1,
                         "rgb": 12209426
                       }
+                    },
+                    {
+                      "query": "tag:#project  ",
+                      "color": {
+                        "a": 1,
+                        "rgb": 9490164
+                      }
                     }
                   ],
                   "collapse-display": true,
@@ -504,7 +533,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of modes"
+              "title": "Graph view"
             }
           }
         ]
@@ -532,11 +561,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5ef4f000dbe46024",
+  "active": "94f401a03ffcc220",
   "lastOpenFiles": [
+    "Garden/la rencontre avec Claude et son équipe.md",
+    "Garden/modes.md",
+    "Inbox/what I do.md",
+    "Garden/who I am.md",
+    "Garden/Celestine guitar project.md",
+    "Garden/practice.md",
     "Attachments/Screenshot 2025-05-05 at 7.53.26 PM.png",
     "Garden/triads.md",
-    "Garden/modes.md",
     "Garden/scales.md",
     "Garden/major scale.md",
     "Attachments/Major Scale Intervals Diagram.svg",
@@ -556,23 +590,18 @@
     "Garden/flesh.md",
     "Garden/posture.md",
     "Garden/beginners mistakes and problems.md",
-    "Garden/practice.md",
     "Garden/archtop.md",
     "Garden/polyphony.md",
     "Garden/harmonic minor scale.md",
     "Garden/what it means to get good.md",
     "Garden/music genres.md",
     "Garden/melody.md",
-    "Garden/spread voicing.md",
-    "Inbox/drop 2.md",
     "Inbox",
-    "Garden/follow your curiosity.md",
     "Attachments/harmonic-minor-intervals.svg",
     "git",
     "Attachments/Pasted image 20250210091014.png",
     "Attachments/tab-guide.svg",
     "Attachments/chord-diagram-guide.svg",
-    "Attachments/gptchorddiagram.svg",
     "Attachments/tetrad-intervals.mermaid",
     "Attachments/txtsvg/fretboard.txt",
     "Attachments/txtsvg/fretboard.txtz",

@@ -4,7 +4,10 @@ tags:
   - 🗺
   - practice
 ---
-*the art of getting good*
+
+> [!tldr] tldr
+> ![[Screenshot 2025-05-05 at 7.53.26 PM.png]]
+> *the art of getting good*
 
 teaching your body and mind to perform a task
 # introduction
