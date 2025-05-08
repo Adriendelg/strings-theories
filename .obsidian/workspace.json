@@ -118,18 +118,24 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "la rencontre avec Claude et son équipe",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Garden/la rencontre avec Claude et son équipe.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"la rencontre avec Claude et son équipe\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":24,\"ch\":412},\"to\":{\"line\":24,\"ch\":412}},\"scroll\":0}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Garden/la rencontre avec Claude et son équipe.md",
+                "file": "Garden/Celestine guitar project.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "la rencontre avec Claude et son équipe"
+              "title": "Celestine guitar project"
             }
           },
           {
@@ -435,6 +441,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Garden/Celestine guitar project.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -528,12 +535,12 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 1,
+                  "scale": 1.4482841718455102,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Graph of Celestine guitar project"
             }
           }
         ]
@@ -561,7 +568,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "94f401a03ffcc220",
+  "active": "53da317ee8449f8e",
   "lastOpenFiles": [
     "Garden/la rencontre avec Claude et son équipe.md",
     "Garden/modes.md",
