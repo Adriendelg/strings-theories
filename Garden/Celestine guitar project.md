@@ -25,6 +25,9 @@ contrasting:
 ## Michael
 ## Bossman
 ## Adrien
+### [[my gear]]
+### [[who I am]]
+### [[what I do]]
 # les guitares
 ## les meilleures Martin
 ### l'histoire
@@ -41,12 +44,13 @@ contrasting:
 # la lutherie
 ## le monde de la guitare acoustique custom
 ### en europe
+## vendre des guitares d'exception
 # la musique
 ## les performances 
 ### les compositions
 ### les hommages
 ### les impromptus
-### le travail
+## le travail
 # la relation luthier/musicien
 ## alchimie
 # l'aventure

@@ -139,6 +139,29 @@
             }
           },
           {
+            "id": "d86438b1e30dbaf7",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Garden/my gear.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "my gear"
+            }
+          },
+          {
             "id": "74a4b613bd77816e",
             "type": "leaf",
             "pane-relief:history-v1": {
@@ -570,11 +593,12 @@
   },
   "active": "53da317ee8449f8e",
   "lastOpenFiles": [
+    "Garden/my gear.md",
+    "Garden/Celestine guitar project.md",
     "Garden/la rencontre avec Claude et son équipe.md",
     "Garden/modes.md",
     "Inbox/what I do.md",
     "Garden/who I am.md",
-    "Garden/Celestine guitar project.md",
     "Garden/practice.md",
     "Attachments/Screenshot 2025-05-05 at 7.53.26 PM.png",
     "Garden/triads.md",
@@ -602,7 +626,6 @@
     "Garden/harmonic minor scale.md",
     "Garden/what it means to get good.md",
     "Garden/music genres.md",
-    "Garden/melody.md",
     "Inbox",
     "Attachments/harmonic-minor-intervals.svg",
     "git",
