@@ -1516,15 +1516,31 @@
         }
       },
       "2025-05-09": {
-        "totalDelta": 177,
+        "totalDelta": 676,
         "files": {
           "Garden/Celestine guitar project.md": {
             "initial": 120,
-            "current": 121
+            "current": 177
           },
-          "Inbox/Martin guitars.md": {
+          "Garden/Martin guitars.md": {
             "initial": 0,
-            "current": 176
+            "current": 235
+          },
+          "Garden/modes.md": {
+            "initial": 563,
+            "current": 563
+          },
+          "Garden/who I am.md": {
+            "initial": 6,
+            "current": 297
+          },
+          "Garden/D 28.md": {
+            "initial": 0,
+            "current": 62
+          },
+          "Garden/00 28.md": {
+            "initial": 0,
+            "current": 31
           }
         }
       }
