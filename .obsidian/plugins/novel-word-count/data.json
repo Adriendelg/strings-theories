@@ -7792,19 +7792,19 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 102,
+      "wordCount": 104,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.34,
-      "characterCount": 808,
-      "nonWhitespaceCharacterCount": 657,
-      "readingTimeInMinutes": 0.3849056603773585,
-      "linkCount": 4,
+      "pageCount": 0.3466666666666667,
+      "characterCount": 827,
+      "nonWhitespaceCharacterCount": 674,
+      "readingTimeInMinutes": 0.39245283018867927,
+      "linkCount": 5,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1746632320089,
-      "modifiedDate": 1746697607537,
-      "sizeInBytes": 926,
+      "modifiedDate": 1746773039287,
+      "sizeInBytes": 945,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -7897,6 +7897,43 @@
         "aligned": [
           "[[who I am]]"
         ],
+        "contrasting": null
+      }
+    },
+    "Inbox/Martin guitars.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 154,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.5133333333333333,
+      "characterCount": 991,
+      "nonWhitespaceCharacterCount": 833,
+      "readingTimeInMinutes": 0.5811320754716981,
+      "linkCount": 7,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1746773041568,
+      "modifiedDate": 1746773908153,
+      "sizeInBytes": 1127,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      },
+      "frontmatter": {
+        "tags": [
+          "🌱"
+        ],
+        "aliases": null,
+        "upstream": [
+          "[[Celestine guitar project]]"
+        ],
+        "downstream": null,
+        "aligned": null,
         "contrasting": null
       }
     }
