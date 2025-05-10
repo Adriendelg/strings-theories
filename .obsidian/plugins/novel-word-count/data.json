@@ -7792,19 +7792,19 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 153,
+      "wordCount": 117,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.51,
-      "characterCount": 1105,
-      "nonWhitespaceCharacterCount": 902,
-      "readingTimeInMinutes": 0.5773584905660377,
-      "linkCount": 7,
-      "embedCount": 1,
+      "pageCount": 0.39,
+      "characterCount": 909,
+      "nonWhitespaceCharacterCount": 742,
+      "readingTimeInMinutes": 0.44150943396226416,
+      "linkCount": 9,
+      "embedCount": 0,
       "aliases": null,
       "createdDate": 1746632320089,
-      "modifiedDate": 1746778279700,
-      "sizeInBytes": 1223,
+      "modifiedDate": 1746869277585,
+      "sizeInBytes": 1027,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -7860,45 +7860,6 @@
         ],
         "downstream": null,
         "aligned": null,
-        "contrasting": null
-      }
-    },
-    "Inbox/what I do.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0,
-      "characterCount": 2,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1746637698239,
-      "modifiedDate": 1746637738136,
-      "sizeInBytes": 125,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
-      },
-      "frontmatter": {
-        "tags": [
-          "🗺"
-        ],
-        "aliases": null,
-        "upstream": null,
-        "downstream": [
-          "[[Strings Theories]]"
-        ],
-        "aligned": [
-          "[[who I am]]"
-        ],
         "contrasting": null
       }
     },
@@ -8052,6 +8013,93 @@
         "aligned": [
           "[[D 28]]"
         ],
+        "contrasting": null
+      }
+    },
+    "Garden/what I do.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 285,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.95,
+      "characterCount": 1738,
+      "nonWhitespaceCharacterCount": 1430,
+      "readingTimeInMinutes": 1.0754716981132075,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1746637698239,
+      "modifiedDate": 1746869127471,
+      "sizeInBytes": 1770,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Garden/12 fret to the body construction.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 54,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.18,
+      "characterCount": 371,
+      "nonWhitespaceCharacterCount": 303,
+      "readingTimeInMinutes": 0.2037735849056604,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1746869196712,
+      "modifiedDate": 1746869213704,
+      "sizeInBytes": 373,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Inbox/luthier made guitars.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 5,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.016666666666666666,
+      "characterCount": 32,
+      "nonWhitespaceCharacterCount": 24,
+      "readingTimeInMinutes": 0.018867924528301886,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1746869277459,
+      "modifiedDate": 1746869451254,
+      "sizeInBytes": 140,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      },
+      "frontmatter": {
+        "tags": [
+          "🌱"
+        ],
+        "aliases": null,
+        "upstream": [
+          "[[types|guitar models]]"
+        ],
+        "downstream": null,
+        "aligned": null,
         "contrasting": null
       }
     }

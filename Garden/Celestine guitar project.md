@@ -28,15 +28,14 @@ contrasting:
 ### [[my gear]]
 ### [[who I am]]
 ### [[what I do]]
+
 # les guitares
 ## les meilleures Martin
 ### l'histoire
 [[Martin guitars]]
 ### les artistes
 ### les modèles
-12 fret necks being the standard until mid 30's when the 14 fret neck was introduced at the demand of Perry Bechtel a banjo player used to the longer neck, it quickly became standard with the creation of the OM model
-
-![[Screenshot 2025-05-09 at 9.42.18 AM.png]]
+[[12 fret to the body construction]]
 #### 00
 [[00 28]]
 #### 000
@@ -49,6 +48,7 @@ contrasting:
 ### le vernis
 # la lutherie
 ## le monde de la guitare acoustique custom
+[[luthier made guitars]]
 ### en europe
 ## vendre des guitares d'exception
 # la musique

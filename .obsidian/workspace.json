@@ -81,77 +81,7 @@
             }
           },
           {
-            "id": "53da317ee8449f8e",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 1,
-              "stack": [
-                {
-                  "title": "who I am",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Garden/who I am.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"who I am\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":271},\"to\":{\"line\":10,\"ch\":271}},\"scroll\":0}"
-                },
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "la rencontre avec Claude et son équipe",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Garden/la rencontre avec Claude et son équipe.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"la rencontre avec Claude et son équipe\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":24,\"ch\":412},\"to\":{\"line\":24,\"ch\":412}},\"scroll\":0}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Garden/Celestine guitar project.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Celestine guitar project"
-            }
-          },
-          {
-            "id": "89c8f451ead2cc74",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 1,
-              "stack": [
-                {
-                  "title": "D 28",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Garden/D 28.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"D 28\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":18,\"ch\":29},\"to\":{\"line\":18,\"ch\":29}},\"scroll\":4.508004270953896}"
-                },
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "D 28",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Garden/D 28.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"D 28\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":44},\"to\":{\"line\":11,\"ch\":44}},\"scroll\":0}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Garden/Celestine guitar project.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Celestine guitar project"
-            }
-          },
-          {
-            "id": "f2434c1fcb36b002",
+            "id": "e633b11f177d6de9",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -161,10 +91,10 @@
                   "eState": "{}"
                 },
                 {
-                  "title": "00 28",
+                  "title": "what I do",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Garden/00 28.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"00 28\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":15,\"ch\":0},\"to\":{\"line\":15,\"ch\":0}}}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Garden/what I do.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"what I do\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":18,\"ch\":395},\"to\":{\"line\":18,\"ch\":395}},\"scroll\":0}"
                 }
               ]
             },
@@ -177,6 +107,29 @@
               },
               "icon": "lucide-file",
               "title": "Celestine guitar project"
+            }
+          },
+          {
+            "id": "d83affbcdf5035fe",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inbox/luthier made guitars.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "luthier made guitars"
             }
           },
           {
@@ -251,7 +204,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -528,7 +481,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Garden/Celestine guitar project.md",
+                "file": "Inbox/luthier made guitars.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -627,7 +580,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Celestine guitar project"
+              "title": "Graph of luthier made guitars"
             }
           }
         ]
@@ -655,10 +608,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f2434c1fcb36b002",
+  "active": "d83affbcdf5035fe",
   "lastOpenFiles": [
-    "Garden/00 28.md",
     "Garden/Celestine guitar project.md",
+    "Inbox/luthier made guitars.md",
+    "Garden/12 fret to the body construction.md",
+    "Garden/what I do.md",
+    "Garden/00 28.md",
     "Garden/D 28.md",
     "Attachments/Screenshot 2025-05-09 at 9.42.18 AM.png",
     "Attachments/Screenshot 2025-05-09 at 9.34.36 AM.png",
@@ -667,7 +623,6 @@
     "Garden/Martin guitars.md",
     "Garden/my gear.md",
     "Garden/la rencontre avec Claude et son équipe.md",
-    "Inbox/what I do.md",
     "Garden/practice.md",
     "Attachments/Screenshot 2025-05-05 at 7.53.26 PM.png",
     "Garden/triads.md",
@@ -690,8 +645,6 @@
     "Garden/flesh.md",
     "Garden/posture.md",
     "Garden/beginners mistakes and problems.md",
-    "Garden/archtop.md",
-    "Garden/polyphony.md",
     "Inbox",
     "Attachments/harmonic-minor-intervals.svg",
     "git",
