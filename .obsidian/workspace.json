@@ -124,7 +124,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/luthier made guitars.md",
+                "file": "Garden/luthier made guitars.md",
                 "mode": "source",
                 "source": false
               },
@@ -481,7 +481,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Inbox/luthier made guitars.md",
+                "file": "Garden/luthier made guitars.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -611,7 +611,7 @@
   "active": "d83affbcdf5035fe",
   "lastOpenFiles": [
     "Garden/Celestine guitar project.md",
-    "Inbox/luthier made guitars.md",
+    "Garden/luthier made guitars.md",
     "Garden/12 fret to the body construction.md",
     "Garden/what I do.md",
     "Garden/00 28.md",

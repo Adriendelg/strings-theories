@@ -8066,23 +8066,23 @@
         "nonWhitespaceCharacterCount": 0
       }
     },
-    "Inbox/luthier made guitars.md": {
+    "Garden/luthier made guitars.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 5,
+      "wordCount": 270,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.016666666666666666,
-      "characterCount": 32,
-      "nonWhitespaceCharacterCount": 24,
-      "readingTimeInMinutes": 0.018867924528301886,
+      "pageCount": 0.9,
+      "characterCount": 1505,
+      "nonWhitespaceCharacterCount": 1220,
+      "readingTimeInMinutes": 1.0188679245283019,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1746869277459,
-      "modifiedDate": 1746869451254,
-      "sizeInBytes": 140,
+      "modifiedDate": 1746883731411,
+      "sizeInBytes": 1663,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -8092,7 +8092,8 @@
       },
       "frontmatter": {
         "tags": [
-          "🌱"
+          "🌱",
+          "project"
         ],
         "aliases": null,
         "upstream": [
