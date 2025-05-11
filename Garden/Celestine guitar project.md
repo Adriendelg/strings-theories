@@ -36,6 +36,10 @@ contrasting:
 ### les artistes
 ### les modèles
 [[12 fret to the body construction]]
+
+the quick response of smaller guitars, less amount of energy is needed to get them to sing
+
+is the bracing scalloped?
 #### 00
 [[00 28]]
 #### 000
