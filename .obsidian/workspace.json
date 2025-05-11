@@ -116,6 +116,29 @@
             }
           },
           {
+            "id": "cfa595cda602705b",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Garden/why I favoured modern guitars.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "why I favoured modern guitars"
+            }
+          },
+          {
             "id": "d83affbcdf5035fe",
             "type": "leaf",
             "pane-relief:history-v1": {
@@ -136,52 +159,6 @@
               },
               "icon": "lucide-file",
               "title": "luthier made guitars"
-            }
-          },
-          {
-            "id": "9fdc1463056267f7",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Garden/Martin guitars.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Martin guitars"
-            }
-          },
-          {
-            "id": "d86438b1e30dbaf7",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Garden/my gear.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "my gear"
             }
           },
           {
@@ -210,7 +187,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -487,7 +464,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Garden/Celestine guitar project.md",
+                "file": "Garden/why I favoured modern guitars.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -586,7 +563,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Celestine guitar project"
+              "title": "Graph of why I favoured modern guitars"
             }
           }
         ]
@@ -614,10 +591,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e633b11f177d6de9",
+  "active": "cfa595cda602705b",
   "lastOpenFiles": [
-    "Garden/D 28.md",
     "Garden/Celestine guitar project.md",
+    "Garden/my gear.md",
+    "Garden/why I favoured modern guitars.md",
+    "Garden/vernis gomme laque.md",
+    "Garden/Claude's woods.md",
+    "Garden/D 28.md",
     "Garden/000 28.md",
     "Garden/00 28.md",
     "Garden/luthier made guitars.md",
@@ -628,7 +609,6 @@
     "Garden/who I am.md",
     "Garden/modes.md",
     "Garden/Martin guitars.md",
-    "Garden/my gear.md",
     "Garden/la rencontre avec Claude et son équipe.md",
     "Garden/practice.md",
     "Attachments/Screenshot 2025-05-05 at 7.53.26 PM.png",
@@ -648,9 +628,6 @@
     "Garden/blues.md",
     "Garden/strings in motion.md",
     "Garden/harmonic series.md",
-    "Garden/jazz.md",
-    "Garden/flesh.md",
-    "Garden/posture.md",
     "Inbox",
     "Attachments/harmonic-minor-intervals.svg",
     "git",

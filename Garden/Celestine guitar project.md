@@ -45,8 +45,10 @@ contrasting:
 ## la construction
 ### reproduire
 ### les bois
+[[Claude's woods]]
 ### l'artisanat
 ### le vernis
+[[vernis gomme laque]]
 # la lutherie
 ## le monde de la guitare acoustique custom
 [[luthier made guitars]]

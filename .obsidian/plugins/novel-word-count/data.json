@@ -3355,19 +3355,19 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 154,
+      "wordCount": 119,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.5133333333333333,
-      "characterCount": 975,
-      "nonWhitespaceCharacterCount": 802,
-      "readingTimeInMinutes": 0.5811320754716981,
+      "pageCount": 0.39666666666666667,
+      "characterCount": 788,
+      "nonWhitespaceCharacterCount": 648,
+      "readingTimeInMinutes": 0.4490566037735849,
       "linkCount": 2,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1737530433716,
-      "modifiedDate": 1741003512305,
-      "sizeInBytes": 1019,
+      "modifiedDate": 1746952453832,
+      "sizeInBytes": 947,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.5133333333333333,
@@ -3377,10 +3377,17 @@
       },
       "frontmatter": {
         "tags": [
-          "🌲",
-          "gear",
-          "personal"
-        ]
+          "🌱"
+        ],
+        "aliases": null,
+        "upstream": [
+          "[[what I do]]",
+          "[[luthier made guitars]]",
+          "[[types|guitar models]]"
+        ],
+        "downstream": null,
+        "aligned": null,
+        "contrasting": null
       }
     },
     "Garden/my current nail situation.md": {
@@ -7792,19 +7799,19 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 119,
+      "wordCount": 124,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.39666666666666667,
-      "characterCount": 920,
-      "nonWhitespaceCharacterCount": 751,
-      "readingTimeInMinutes": 0.4490566037735849,
-      "linkCount": 10,
+      "pageCount": 0.41333333333333333,
+      "characterCount": 962,
+      "nonWhitespaceCharacterCount": 788,
+      "readingTimeInMinutes": 0.4679245283018868,
+      "linkCount": 12,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1746632320089,
-      "modifiedDate": 1746950908920,
-      "sizeInBytes": 1038,
+      "modifiedDate": 1746951407028,
+      "sizeInBytes": 1080,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -7917,19 +7924,19 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 52,
+      "wordCount": 62,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.17333333333333334,
-      "characterCount": 368,
-      "nonWhitespaceCharacterCount": 298,
-      "readingTimeInMinutes": 0.19622641509433963,
+      "pageCount": 0.20666666666666667,
+      "characterCount": 431,
+      "nonWhitespaceCharacterCount": 349,
+      "readingTimeInMinutes": 0.2339622641509434,
       "linkCount": 2,
       "embedCount": 1,
       "aliases": null,
       "createdDate": 1746776065233,
-      "modifiedDate": 1746951206104,
-      "sizeInBytes": 481,
+      "modifiedDate": 1746951237536,
+      "sizeInBytes": 544,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -8136,6 +8143,107 @@
         "upstream": [
           "[[Martin guitars]]",
           "[[Celestine guitar project]]"
+        ],
+        "downstream": null,
+        "aligned": null,
+        "contrasting": null
+      }
+    },
+    "Garden/Claude's woods.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 27,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.09,
+      "characterCount": 226,
+      "nonWhitespaceCharacterCount": 185,
+      "readingTimeInMinutes": 0.1018867924528302,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1746951315271,
+      "modifiedDate": 1746951383039,
+      "sizeInBytes": 229,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Garden/vernis gomme laque.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 85,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.2833333333333333,
+      "characterCount": 549,
+      "nonWhitespaceCharacterCount": 463,
+      "readingTimeInMinutes": 0.32075471698113206,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1746951406972,
+      "modifiedDate": 1746952182479,
+      "sizeInBytes": 685,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      },
+      "frontmatter": {
+        "tags": [
+          "🌱",
+          "project"
+        ],
+        "aliases": null,
+        "upstream": [
+          "[[Celestine guitar project]]"
+        ],
+        "downstream": null,
+        "aligned": null,
+        "contrasting": null
+      }
+    },
+    "Garden/why I favoured modern guitars.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 255,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.85,
+      "characterCount": 1642,
+      "nonWhitespaceCharacterCount": 1383,
+      "readingTimeInMinutes": 0.9622641509433962,
+      "linkCount": 11,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1746952415313,
+      "modifiedDate": 1746954279983,
+      "sizeInBytes": 1797,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      },
+      "frontmatter": {
+        "tags": [
+          "🌱"
+        ],
+        "aliases": null,
+        "upstream": [
+          "[[my gear]]",
+          "[[luthier made guitars]]"
         ],
         "downstream": null,
         "aligned": null,

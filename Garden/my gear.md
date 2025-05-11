@@ -1,16 +1,23 @@
 ---
 tags:
-  - 🌲
-  - gear
-  - personal
+  - 🌱
+aliases: 
+upstream:
+  - "[[what I do]]"
+  - "[[luthier made guitars]]"
+  - "[[types|guitar models]]"
+downstream: 
+aligned: 
+contrasting:
 ---
-I am one of those players that uses a wide range of instruments, I love having different [[types|types of guitar]] available. They all serve a different purpose and help me not to get bored with my practice, when I feel uninspired I pick up another instrument. 
 # classical guitar
 - Giannis Paleodimopoulos July 2011, spruce top and macassar ebony back and sides
 # acoustic guitars
 - custom made Sheldon Schwartz fan fret, spruce top and indian rosewood back and sides
 - Mattias Wolfensberger fan fret baritone, spruce top and
 - 12 string Eastman, spruce top and mahogany back and sides
+## my love for modern acoustic guitars
+[[why I favoured modern guitars]]
 # electric guitars
 - Strandberg boden 8, made by washburn in the US
 - Ibanez archtop
@@ -22,3 +29,4 @@ I am one of those players that uses a wide range of instruments, I love having d
 - Dunlop nylon for strumming on acoustic
 # nails
 - DIY [[japanese gel nails]] 
+

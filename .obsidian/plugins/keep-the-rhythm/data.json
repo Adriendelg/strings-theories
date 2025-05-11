@@ -1566,11 +1566,11 @@
         }
       },
       "2025-05-11": {
-        "totalDelta": 60,
+        "totalDelta": 443,
         "files": {
           "Garden/Celestine guitar project.md": {
             "initial": 136,
-            "current": 139
+            "current": 145
           },
           "Garden/000 28.md": {
             "initial": 0,
@@ -1583,6 +1583,22 @@
           "Garden/D 28.md": {
             "initial": 62,
             "current": 75
+          },
+          "Garden/Claude's woods.md": {
+            "initial": 0,
+            "current": 28
+          },
+          "Garden/vernis gomme laque.md": {
+            "initial": 0,
+            "current": 97
+          },
+          "Garden/my gear.md": {
+            "initial": 160,
+            "current": 136
+          },
+          "Garden/why I favoured modern guitars.md": {
+            "initial": 0,
+            "current": 276
           }
         }
       }
