@@ -107,17 +107,23 @@
             "id": "e633b11f177d6de9",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 1,
+              "pos": 0,
               "stack": [
-                {
-                  "title": "00 28",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Garden/00 28.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"00 28\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":24,\"ch\":9},\"to\":{\"line\":24,\"ch\":9}},\"scroll\":5.860405552240065}"
-                },
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "Martin guitars",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Garden/Martin guitars.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Martin guitars\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":16,\"ch\":0},\"to\":{\"line\":16,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "Celestine guitar project",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Garden/Celestine guitar project.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Celestine guitar project\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":34,\"ch\":14},\"to\":{\"line\":34,\"ch\":14}},\"scroll\":22.863878508641555}"
                 },
                 {
                   "title": "what I do",
@@ -136,29 +142,6 @@
               },
               "icon": "lucide-file",
               "title": "Celestine guitar project"
-            }
-          },
-          {
-            "id": "d83affbcdf5035fe",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Garden/luthier made guitars.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "luthier made guitars"
             }
           },
           {
@@ -187,7 +170,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -464,7 +447,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Garden/Celestine guitar project.md",
+                "file": "Garden/why I favoured modern guitars.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -558,12 +541,12 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 1.4482841718455102,
+                  "scale": 1.0638897628733623,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Celestine guitar project"
+              "title": "Graph of why I favoured modern guitars"
             }
           }
         ]
@@ -591,24 +574,24 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e633b11f177d6de9",
+  "active": "cfa595cda602705b",
   "lastOpenFiles": [
-    "Garden/why I favoured modern guitars.md",
     "Garden/Celestine guitar project.md",
+    "Garden/Martin guitars.md",
+    "Garden/luthier made guitars.md",
+    "Garden/why I favoured modern guitars.md",
     "Garden/my gear.md",
     "Garden/vernis gomme laque.md",
     "Garden/Claude's woods.md",
     "Garden/D 28.md",
     "Garden/000 28.md",
     "Garden/00 28.md",
-    "Garden/luthier made guitars.md",
     "Garden/12 fret to the body construction.md",
     "Garden/what I do.md",
     "Attachments/Screenshot 2025-05-09 at 9.42.18 AM.png",
     "Attachments/Screenshot 2025-05-09 at 9.34.36 AM.png",
     "Garden/who I am.md",
     "Garden/modes.md",
-    "Garden/Martin guitars.md",
     "Garden/la rencontre avec Claude et son équipe.md",
     "Garden/practice.md",
     "Attachments/Screenshot 2025-05-05 at 7.53.26 PM.png",
