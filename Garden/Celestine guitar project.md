@@ -21,6 +21,7 @@ contrasting:
 ## le Claude
 ### l'homme
 ### le luthier
+[[questions pour Claude]]
 # l'équipe
 ## Michael
 ## Bossman

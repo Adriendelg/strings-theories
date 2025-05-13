@@ -1628,7 +1628,7 @@
         }
       },
       "2025-05-13": {
-        "totalDelta": 258,
+        "totalDelta": 278,
         "files": {
           "Garden/why I favoured modern guitars.md": {
             "initial": 366,
@@ -1640,11 +1640,15 @@
           },
           "Garden/Celestine guitar project.md": {
             "initial": 166,
-            "current": 200
+            "current": 203
           },
           "Garden/gear to bring for the project.md": {
             "initial": 0,
             "current": 41
+          },
+          "Garden/questions pour Claude.md": {
+            "initial": 94,
+            "current": 111
           }
         }
       }
