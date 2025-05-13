@@ -25,3 +25,4 @@ Tout est beau dans mon monde de guitares modernes, j'ai deux grosses guitares qu
 
 [[exploring traditional guitar building]]
 
+the difference between steel string concert guitar and traditional instruments

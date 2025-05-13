@@ -193,7 +193,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -470,7 +470,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Garden/exploring traditional guitar building.md",
+                "file": "Garden/why I favoured modern guitars.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -569,7 +569,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of exploring traditional guitar building"
+              "title": "Graph of why I favoured modern guitars"
             }
           }
         ]
@@ -597,13 +597,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "162646a7e0e28f48",
+  "active": "cfa595cda602705b",
   "lastOpenFiles": [
+    "Garden/exploring traditional guitar building.md",
     "Garden/questions pour Claude.md",
     "Garden/Celestine guitar project.md",
     "Garden/gear to bring for the project.md",
     "Garden/why I favoured modern guitars.md",
-    "Garden/exploring traditional guitar building.md",
     "Garden/Martin guitars.md",
     "Garden/luthier made guitars.md",
     "Garden/my gear.md",
