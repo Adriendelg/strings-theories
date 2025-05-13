@@ -25,9 +25,18 @@ contrasting:
 ## Michael
 ## Bossman
 ## Adrien
-### [[my gear]]
-### [[who I am]]
-### [[what I do]]
+### my gear
+[[my gear]]
+#### modern guitars
+[[why I favoured modern guitars]]
+#### traditional guitar building
+[[exploring traditional guitar building]]
+#### what to bring to the shoot
+[[gear to bring for the project]]
+### who I am
+[[who I am]]
+### what I do
+[[what I do]]
 
 # les guitares
 ## les meilleures Martin

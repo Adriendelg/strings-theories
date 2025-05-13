@@ -15,4 +15,13 @@ Quand je me suis tourné vers la guitare acoustique, j'ai vite été frustré de
 
 Je suis tombé amoureux du son des guitares de Sheldon avec le troisième album d'[[Erik Mongrain]], c'était ça le son que je voulais. Après l'avoir contacté, on a passé des mois à échanger, à tester des idées, à imaginer ma guitare parfaite. Toute personne qui a déjà commandé une guitare custom sait que le temps passe différemment pour les luthiers et leurs clients. Les meilleurs ont souvent une liste de commandes assez longue et les clients peuvent attendre des années avant de mettre les mains sur leur instrument. J'ai mis presque 5 ans avant d'avoir la mienne, ça en valait la peine. 
 
-Cette guitare, elle sonne comme un grand Steinway, comme tout un orchestre, comme si les arbres dont elle est faite avaient encore des siècles d'histoire à raconter. Elle est sauvage, les harmoniques fusent, le sustain est incroyable, le volume sans pareil. Ca m'a pris des années d'apprendre à la dompter. Faite pour mes tunings farfelus, le tapping, les percussions pour moi, c'est le sommet de la lutherie acoustique moderne. 
+Cette guitare, elle sonne comme un grand Steinway, comme tout un orchestre, comme si les arbres dont elle est faite avaient encore des siècles d'histoire à raconter. Elle est sauvage, les harmoniques fusent, le sustain est incroyable, le volume sans pareil. Ca m'a pris des années d'apprendre à la dompter. Faite pour mes tunings farfelus, le tapping, les percussions pour moi, c'est le sommet de la lutherie acoustique moderne.
+
+//add some technical details, what is a modern guitar?
+
+Cette guitare, elle m'accompagne maintenant depuis des années, elle a voyagé et a été entendue partout en Europe. Une compagne baryton l'a rejoint il y a peu, me permettant d'explorer des registres encore plus graves et de varier mes concerts, elle aussi d'un type de lutherie très contemporain.
+
+Tout est beau dans mon monde de guitares modernes, j'ai deux grosses guitares qui sonnent très fort et qui ont une allure incroyable, je suis fier de faire partie de l'avant garde, d'explorer ce qui se fait de mieux aujourd'hui. Dans un coin de ma tête traine quand même le son de Tony Rice, depuis que j'ai entendu cette [[D 28]], une graine est doucement en train de germer. Et si la lutherie traditionnelle, à l'ancienne avait quelque chose à m'apporter? Est-ce que par amour de l'innovation j'étais passé à côté de quelque chose? 
+
+[[exploring traditional guitar building]]
+

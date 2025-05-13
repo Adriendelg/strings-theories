@@ -104,6 +104,29 @@
             }
           },
           {
+            "id": "162646a7e0e28f48",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Garden/exploring traditional guitar building.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "exploring traditional guitar building"
+            }
+          },
+          {
             "id": "e633b11f177d6de9",
             "type": "leaf",
             "pane-relief:history-v1": {
@@ -170,7 +193,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -447,7 +470,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Garden/why I favoured modern guitars.md",
+                "file": "Garden/exploring traditional guitar building.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -546,7 +569,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of why I favoured modern guitars"
+              "title": "Graph of exploring traditional guitar building"
             }
           }
         ]
@@ -574,12 +597,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cfa595cda602705b",
+  "active": "162646a7e0e28f48",
   "lastOpenFiles": [
     "Garden/Celestine guitar project.md",
+    "Garden/gear to bring for the project.md",
+    "Garden/why I favoured modern guitars.md",
+    "Garden/exploring traditional guitar building.md",
     "Garden/Martin guitars.md",
     "Garden/luthier made guitars.md",
-    "Garden/why I favoured modern guitars.md",
     "Garden/my gear.md",
     "Garden/vernis gomme laque.md",
     "Garden/Claude's woods.md",
@@ -609,8 +634,6 @@
     "Garden/tunings.md",
     "Garden/alternate tunings.md",
     "Garden/blues.md",
-    "Garden/strings in motion.md",
-    "Garden/harmonic series.md",
     "Inbox",
     "Attachments/harmonic-minor-intervals.svg",
     "git",
