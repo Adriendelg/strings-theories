@@ -61,6 +61,7 @@ is the bracing scalloped?
 ### les bois
 [[Claude's woods]]
 ### l'artisanat
+[[craftsmanship in the age of technology]]
 ### le vernis
 [[vernis gomme laque]]
 # la lutherie
