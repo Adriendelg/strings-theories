@@ -112,22 +112,28 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "exploring traditional guitar building",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Garden/exploring traditional guitar building.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"exploring traditional guitar building\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":18,\"ch\":0},\"to\":{\"line\":18,\"ch\":0}},\"scroll\":0}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Garden/exploring traditional guitar building.md",
+                "file": "Inbox/great acoustic guitar traditions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "exploring traditional guitar building"
+              "title": "great acoustic guitar traditions"
             }
           },
           {
-            "id": "e633b11f177d6de9",
+            "id": "0b73c69d83bbbf76",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -135,42 +141,18 @@
                 {
                   "state": "{}",
                   "eState": "{}"
-                },
-                {
-                  "title": "Celestine guitar project",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Garden/Celestine guitar project.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Celestine guitar project\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":61,\"ch\":0},\"to\":{\"line\":61,\"ch\":0}},\"scroll\":47.1915638666139}"
-                },
-                {
-                  "title": "Martin guitars",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Garden/Martin guitars.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Martin guitars\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":16,\"ch\":0},\"to\":{\"line\":16,\"ch\":0}},\"scroll\":0}"
-                },
-                {
-                  "title": "Celestine guitar project",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Garden/Celestine guitar project.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Celestine guitar project\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":34,\"ch\":14},\"to\":{\"line\":34,\"ch\":14}},\"scroll\":22.863878508641555}"
-                },
-                {
-                  "title": "what I do",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Garden/what I do.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"what I do\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":18,\"ch\":395},\"to\":{\"line\":18,\"ch\":395}},\"scroll\":0}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/the problem with most capos design.md",
+                "file": "Garden/classical.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "the problem with most capos design"
+              "title": "classical"
             }
           },
           {
@@ -197,7 +179,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -474,7 +456,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Inbox/the problem with most capos design.md",
+                "file": "Inbox/great acoustic guitar traditions.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -573,7 +555,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of the problem with most capos design"
+              "title": "Graph of great acoustic guitar traditions"
             }
           }
         ]
@@ -601,14 +583,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e633b11f177d6de9",
+  "active": "162646a7e0e28f48",
   "lastOpenFiles": [
+    "Garden/classical.md",
+    "Inbox/great acoustic guitar traditions.md",
+    "Garden/exploring traditional guitar building.md",
+    "Garden/craftsmanship in the age of technology.md",
+    "Garden/P4 tuning.md",
+    "Garden/why I use P4 and should you use it.md",
+    "Garden/all 12 keys with 3 positions and a capo.md",
+    "Garden/the problem with most capos design.md",
     "Attachments/Screenshot 2025-05-18 at 10.59.27 PM.png",
     "Garden/Celestine guitar project.md",
-    "Inbox/the problem with most capos design.md",
-    "Garden/craftsmanship in the age of technology.md",
     "Garden/D 28.md",
-    "Garden/exploring traditional guitar building.md",
     "Garden/why I favoured modern guitars.md",
     "Garden/major triads in standard tuning.md",
     "Garden/gear to bring for the project.md",
@@ -627,10 +614,6 @@
     "Garden/what I do.md",
     "Attachments/Screenshot 2025-05-09 at 9.42.18 AM.png",
     "Attachments/Screenshot 2025-05-09 at 9.34.36 AM.png",
-    "Garden/who I am.md",
-    "Garden/modes.md",
-    "Garden/la rencontre avec Claude et son équipe.md",
-    "Garden/practice.md",
     "Attachments/Screenshot 2025-05-05 at 7.53.26 PM.png",
     "Attachments/Major Scale Intervals Diagram.svg",
     "Attachments/majorscaleintervals.svg",
@@ -641,7 +624,6 @@
     "Inbox",
     "Attachments/harmonic-minor-intervals.svg",
     "git",
-    "Attachments/Pasted image 20250210091014.png",
     "Attachments/tetrad-intervals.mermaid",
     "Attachments/txtsvg/fretboard.txt",
     "Attachments/txtsvg/fretboard.txtz",

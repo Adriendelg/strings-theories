@@ -1724,11 +1724,39 @@
         }
       },
       "2025-05-18": {
-        "totalDelta": 69,
+        "totalDelta": 2282,
         "files": {
-          "Inbox/the problem with most capos design.md": {
+          "Inbox/great acoustic guitar traditions.md": {
             "initial": 6,
-            "current": 75
+            "current": 2099
+          },
+          "Garden/all 12 keys with 3 positions and a capo.md": {
+            "initial": 0,
+            "current": 95
+          },
+          "Garden/the problem with most capos design.md": {
+            "initial": 6,
+            "current": 69
+          },
+          "Garden/exploring traditional guitar building.md": {
+            "initial": 424,
+            "current": 424
+          },
+          "Garden/P4 tuning.md": {
+            "initial": 221,
+            "current": 221
+          },
+          "Garden/why I use P4 and should you use it.md": {
+            "initial": 910,
+            "current": 910
+          },
+          "Garden/craftsmanship in the age of technology.md": {
+            "initial": 108,
+            "current": 108
+          },
+          "Garden/classical.md": {
+            "initial": 70,
+            "current": 101
           }
         }
       }

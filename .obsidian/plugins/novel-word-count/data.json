@@ -5754,21 +5754,21 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 60,
+      "wordCount": 86,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.2,
-      "characterCount": 463,
-      "nonWhitespaceCharacterCount": 387,
-      "readingTimeInMinutes": 0.22641509433962265,
+      "pageCount": 0.2866666666666667,
+      "characterCount": 672,
+      "nonWhitespaceCharacterCount": 556,
+      "readingTimeInMinutes": 0.32452830188679244,
       "linkCount": 6,
       "embedCount": 0,
       "aliases": [
         "classical guitar"
       ],
       "createdDate": 1737218261795,
-      "modifiedDate": 1737240174446,
-      "sizeInBytes": 549,
+      "modifiedDate": 1747605199460,
+      "sizeInBytes": 760,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.2,
@@ -8440,41 +8440,6 @@
         "contrasting": null
       }
     },
-    "Inbox/the problem with most capos design.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 64,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.21333333333333335,
-      "characterCount": 364,
-      "nonWhitespaceCharacterCount": 297,
-      "readingTimeInMinutes": 0.24150943396226415,
-      "linkCount": 0,
-      "embedCount": 1,
-      "aliases": null,
-      "createdDate": 1747601250304,
-      "modifiedDate": 1747601971929,
-      "sizeInBytes": 443,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
-      },
-      "frontmatter": {
-        "tags": [
-          "🌱"
-        ],
-        "aliases": null,
-        "upstream": null,
-        "downstream": null,
-        "aligned": null,
-        "contrasting": null
-      }
-    },
     "Attachments/Screenshot 2025-05-18 at 10.59.27 PM.png": {
       "isCountable": false,
       "targetNodeType": "file",
@@ -8498,6 +8463,118 @@
         "wordCount": 0,
         "characterCount": 0,
         "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Inbox/great acoustic guitar traditions.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 2065,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 6.883333333333334,
+      "characterCount": 18467,
+      "nonWhitespaceCharacterCount": 15708,
+      "readingTimeInMinutes": 7.7924528301886795,
+      "linkCount": 6,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1747604347271,
+      "modifiedDate": 1747605259635,
+      "sizeInBytes": 18566,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      },
+      "frontmatter": {
+        "tags": [
+          "🌱"
+        ],
+        "aliases": null,
+        "upstream": null,
+        "downstream": null,
+        "aligned": null,
+        "contrasting": null
+      }
+    },
+    "Garden/all 12 keys with 3 positions and a capo.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 80,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.26666666666666666,
+      "characterCount": 464,
+      "nonWhitespaceCharacterCount": 376,
+      "readingTimeInMinutes": 0.3018867924528302,
+      "linkCount": 7,
+      "embedCount": 1,
+      "aliases": null,
+      "createdDate": 1747604404974,
+      "modifiedDate": 1747604653169,
+      "sizeInBytes": 599,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      },
+      "frontmatter": {
+        "tags": [
+          "🌱",
+          "fretboardtheory"
+        ],
+        "aliases": null,
+        "upstream": [
+          "[[capo]]",
+          "[[accidentals]]"
+        ],
+        "downstream": null,
+        "aligned": null,
+        "contrasting": null
+      }
+    },
+    "Garden/the problem with most capos design.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 59,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.19666666666666666,
+      "characterCount": 318,
+      "nonWhitespaceCharacterCount": 256,
+      "readingTimeInMinutes": 0.22264150943396227,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1747601250304,
+      "modifiedDate": 1747604644793,
+      "sizeInBytes": 420,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      },
+      "frontmatter": {
+        "tags": [
+          "🌱",
+          "gear"
+        ],
+        "aliases": null,
+        "upstream": [
+          "[[capo]]"
+        ],
+        "downstream": null,
+        "aligned": null,
+        "contrasting": null
       }
     }
   }
