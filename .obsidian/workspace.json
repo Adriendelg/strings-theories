@@ -160,9 +160,32 @@
               "icon": "lucide-file",
               "title": "craftsmanship in the age of technology"
             }
+          },
+          {
+            "id": "55917d12163cf814",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Garden/Celestine guitar project.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Celestine guitar project"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -439,7 +462,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Garden/craftsmanship in the age of technology.md",
+                "file": "Garden/Celestine guitar project.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -538,7 +561,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of craftsmanship in the age of technology"
+              "title": "Graph of Celestine guitar project"
             }
           }
         ]
@@ -566,14 +589,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0c3b75733076d724",
+  "active": "6ef9b7b3abc7683b",
   "lastOpenFiles": [
+    "Garden/craftsmanship in the age of technology.md",
     "Inbox/great acoustic guitar traditions.md",
     "Garden/classical.md",
     "Garden/why I favoured modern guitars.md",
     "Garden/modern concert classical.md",
     "Garden/exploring traditional guitar building.md",
-    "Garden/craftsmanship in the age of technology.md",
     "Garden/P4 tuning.md",
     "Garden/why I use P4 and should you use it.md",
     "Garden/all 12 keys with 3 positions and a capo.md",
