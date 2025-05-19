@@ -5754,21 +5754,21 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 86,
+      "wordCount": 90,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.2866666666666667,
-      "characterCount": 672,
-      "nonWhitespaceCharacterCount": 556,
-      "readingTimeInMinutes": 0.32452830188679244,
+      "pageCount": 0.3,
+      "characterCount": 696,
+      "nonWhitespaceCharacterCount": 586,
+      "readingTimeInMinutes": 0.33962264150943394,
       "linkCount": 6,
       "embedCount": 0,
       "aliases": [
         "classical guitar"
       ],
       "createdDate": 1737218261795,
-      "modifiedDate": 1747605199460,
-      "sizeInBytes": 760,
+      "modifiedDate": 1747643837023,
+      "sizeInBytes": 784,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.2,
@@ -8239,8 +8239,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1746952415313,
-      "modifiedDate": 1747301064583,
-      "sizeInBytes": 3720,
+      "modifiedDate": 1747644379698,
+      "sizeInBytes": 3755,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -8255,7 +8255,8 @@
         "aliases": null,
         "upstream": [
           "[[my gear]]",
-          "[[luthier made guitars]]"
+          "[[luthier made guitars]]",
+          "[[Celestine guitar project]]"
         ],
         "downstream": null,
         "aligned": null,
@@ -8406,19 +8407,19 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 91,
+      "wordCount": 460,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.30333333333333334,
-      "characterCount": 560,
-      "nonWhitespaceCharacterCount": 465,
-      "readingTimeInMinutes": 0.3433962264150943,
+      "pageCount": 1.5333333333333334,
+      "characterCount": 2775,
+      "nonWhitespaceCharacterCount": 2308,
+      "readingTimeInMinutes": 1.7358490566037736,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1747302076999,
-      "modifiedDate": 1747302331834,
-      "sizeInBytes": 707,
+      "modifiedDate": 1747646084654,
+      "sizeInBytes": 2994,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -8469,19 +8470,19 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 2065,
+      "wordCount": 2041,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 6.883333333333334,
-      "characterCount": 18467,
-      "nonWhitespaceCharacterCount": 15708,
-      "readingTimeInMinutes": 7.7924528301886795,
-      "linkCount": 6,
+      "pageCount": 6.803333333333334,
+      "characterCount": 18257,
+      "nonWhitespaceCharacterCount": 15527,
+      "readingTimeInMinutes": 7.7018867924528305,
+      "linkCount": 7,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1747604347271,
-      "modifiedDate": 1747605259635,
-      "sizeInBytes": 18566,
+      "modifiedDate": 1747644314800,
+      "sizeInBytes": 18384,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -8491,10 +8492,12 @@
       },
       "frontmatter": {
         "tags": [
-          "🌱"
+          "🗺"
         ],
         "aliases": null,
-        "upstream": null,
+        "upstream": [
+          "[[music genres|genre]]"
+        ],
         "downstream": null,
         "aligned": null,
         "contrasting": null
@@ -8574,6 +8577,46 @@
         ],
         "downstream": null,
         "aligned": null,
+        "contrasting": null
+      }
+    },
+    "Garden/modern concert classical.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 134,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.44666666666666666,
+      "characterCount": 898,
+      "nonWhitespaceCharacterCount": 759,
+      "readingTimeInMinutes": 0.5056603773584906,
+      "linkCount": 5,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1747643915412,
+      "modifiedDate": 1747644190423,
+      "sizeInBytes": 1044,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      },
+      "frontmatter": {
+        "tags": [
+          "🌱",
+          "gear"
+        ],
+        "aliases": null,
+        "upstream": [
+          "[[classical]]"
+        ],
+        "downstream": null,
+        "aligned": [
+          "[[why I favoured modern guitars]]"
+        ],
         "contrasting": null
       }
     }

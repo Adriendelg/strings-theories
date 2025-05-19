@@ -5,6 +5,7 @@ aliases:
 upstream:
   - "[[my gear]]"
   - "[[luthier made guitars]]"
+  - "[[Celestine guitar project]]"
 downstream: 
 aligned: 
 contrasting:

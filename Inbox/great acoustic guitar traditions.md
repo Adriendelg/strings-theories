@@ -1,14 +1,13 @@
 ---
 tags:
-  - 🌱
+  - 🗺
 aliases: 
-upstream: 
+upstream:
+  - "[[music genres|genre]]"
 downstream: 
 aligned: 
 contrasting:
 ---
-
-
 ## I. European-Derived Traditions
 
 ### A. Classical & Modern
@@ -33,9 +32,8 @@ contrasting:
   - John Williams - "Barrios: Guitar Music" (1995)
   - Sharon Isbin - "Journey to the New World" (2009)
 - **Instruments**:
-  - Modern concert classical: Lattice bracing, double tops, elevated fingerboards
-  - Key makers: Greg Smallman, Matthias Dammann, Simon Marty
-  - Characteristics: Carbon fiber reinforcement, cutaways, armrests, higher string tension tolerance
+  - [[modern concert classical]]
+  
 
 ### B. Mediterranean Traditions
 
