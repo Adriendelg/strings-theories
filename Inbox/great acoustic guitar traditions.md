@@ -8,14 +8,15 @@ downstream:
 aligned: 
 contrasting:
 ---
-## I. European-Derived Traditions
+## I. European Traditions
 
 ### A. Classical & Modern
 #### European Classical
-- **Technique**: Right-hand fingerstyle with thumb and fingers assigned to specific strings; precise left-hand positioning
+- **Technique**: Right-hand fingerstyle with thumb and fingers assigned to specific strings, precise left-hand positioning, playing with [[nails]]
 	- [[classical guitar technique]]
 - **Tunings**: [[standard tuning]] occasional [[drop D]]
 - **Relevance**: Established fundamental technique, posture, and systematic approach to guitar playing
+- **Language**: mostly [[tonal music]] ranging from early Renaissance lute work to beginning of the 20th century 
 - **Key Artists**: Fernando Sor, Mauro Giuliani, Andrés Segovia, Julian Bream
 - **Essential Recordings**: 
   - Andrés Segovia - "The Art of Segovia" (1958)
@@ -25,8 +26,9 @@ contrasting:
 
 #### Modern Classical
 - **Technique**: [[extended techniques]], dynamic contrasts, varied timbres
-- **Tunings**: Standard with occasional [[alternate tunings]]
+- **Tunings**: Standard with occasional [[alternate tunings]] called scordatura in this genre
 - **Relevance**: Expanded technical and harmonic vocabulary, bridging traditional and contemporary approaches
+- **Language**: extended [[tonal music]], [[modal music]] and [[atonal music]], rich rhythmic playing
 - **Key Artists**: Heitor Villa-Lobos, Leo Brouwer, Benjamin Britten
 - **Essential Recordings**:
   - John Williams - "Barrios: Guitar Music" (1995)
@@ -38,9 +40,10 @@ contrasting:
 ### B. Mediterranean Traditions
 
 #### Flamenco
-- **Technique**: Rasgueado (rapid strumming), golpe (tapping), picado (single-note runs), alzapúa (thumb technique)
-- **Tunings**: Standard tuning
+- **Technique**: Rasgueado (rapid strumming), golpe (tapping the top), picado (single-note runs similar to [[rest strokes]]), alzapúa (thumb technique)
+- **Tunings**: Standard tuning, use of capo 
 - **Relevance**: Developed percussive elements and right-hand techniques that influenced numerous styles
+- **Language**: mix of tonal and modal harmony, insistance on the [[phrygian ♮3]] scale
 - **Key Artists**: Paco de Lucía, Sabicas, Vicente Amigo
 - **Essential Recordings**:
   - Paco de Lucía - "Fantasía Flamenca" (1969)
@@ -52,8 +55,8 @@ contrasting:
 
 #### Celtic/British Isles
 - **Technique**: Open-string drones, modal harmonies, finger-picking with emphasis on melody
-- **Tunings**: DADGAD, CGCGCD, Open D, various modal tunings
-- **Relevance**: Pioneered alternative tunings and modal approaches for steel-string guitar
+- **Tunings**: [[DADGAD]], CGCGCD, [[Open D]], various [[suspended modal tunings]]
+- **Relevance**: Pioneered [[alternate tunings]] and modal approaches for steel-string guitar
 - **Key Artists**: Davey Graham, John Renbourn, Pierre Bensusan
 - **Essential Recordings**:
   - Davey Graham - "Folk, Blues & Beyond" (1965)
@@ -76,7 +79,7 @@ contrasting:
   - Robert Johnson - "King of the Delta Blues Singers" (1961)
   - Mississippi Fred McDowell - "I Do Not Play No Rock 'N' Roll" (1969)
 - **Instruments**:
-  - Early parlor guitars, Stella, Kalamazoo, National resonators
+  - Early parlor guitars, Stella, Kalamazoo, National resonators, Martin 0 size
   - Key models: National Style O (metal body resonator), Stella 12-string
   - Characteristics: Often inexpensive instruments with high action, occasionally resonator guitars for volume, metal or glass slides
 
@@ -345,32 +348,4 @@ contrasting:
   - Guild M-20 (Nick Drake)
   - Characteristics: Often smaller-bodied instruments, fingerstyle-friendly neck profiles
 
-### B. Alternative & Contemporary 
 
-#### Indie Folk
-- **Technique**: Alternative tunings, textural strumming, minimalist approaches
-- **Tunings**: Various alternate and open tunings
-- **Relevance**: Brought new timbral and compositional approaches to folk guitar
-- **Key Artists**: Elliott Smith, Sufjan Stevens, José González
-- **Essential Recordings**:
-  - Elliott Smith - "Either/Or" (1997)
-  - José González - "Veneer" (2003)
-- **Instruments**:
-  - Small-bodied vintage guitars (Gibson LG, Martin 00)
-  - 1960s Japanese imports (Yamaki, Takamine)
-  - Contemporary makers catering to this aesthetic (Bourgeois, Collings)
-  - Characteristics: Often vintage instruments with unique character, medium-light gauge strings, occasionally nylon strings
-
-#### Modern Acoustic Experimentalists
-- **Technique**: Prepared guitar, extended techniques, alternative implements
-- **Tunings**: Standard, alternate, and microtonal
-- **Relevance**: Pushed boundaries of the acoustic guitar's sound possibilities
-- **Key Artists**: Fred Frith, Glenn Jones, William Tyler
-- **Essential Recordings**:
-  - Fred Frith - "Guitar Solos" (1974)
-  - William Tyler - "Impossible Truth" (2013)
-- **Instruments**:
-  - Various guitars modified with preparations (objects between strings, etc.)
-  - Alternate string materials (piano wire, fishing line)
-  - Extended range instruments (8-string, harp guitars)
-  - Characteristics: Often heavily modified instruments, sometimes with custom bridges, nuts, or fretboards to accommodate experimental techniques

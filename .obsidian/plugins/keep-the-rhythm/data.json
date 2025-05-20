@@ -1788,6 +1788,31 @@
             "current": 209
           }
         }
+      },
+      "2025-05-20": {
+        "totalDelta": -103,
+        "files": {
+          "Garden/craftsmanship in the age of technology.md": {
+            "initial": 495,
+            "current": 495
+          },
+          "Inbox/great acoustic guitar traditions.md": {
+            "initial": 2078,
+            "current": 1975
+          },
+          "Garden/exploring traditional guitar building.md": {
+            "initial": 424,
+            "current": 424
+          },
+          "Garden/why I favoured modern guitars.md": {
+            "initial": 609,
+            "current": 609
+          },
+          "Meta/Sprouts.md": {
+            "initial": 46,
+            "current": 46
+          }
+        }
       }
     }
   }
