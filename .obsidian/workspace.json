@@ -97,6 +97,35 @@
             }
           },
           {
+            "id": "a0491541d6ebefdc",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "modes",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Garden/modes.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"modes\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":89,\"ch\":0},\"to\":{\"line\":89,\"ch\":0}},\"scroll\":0}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inbox/modal music.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "modal music"
+            }
+          },
+          {
             "id": "0c3b75733076d724",
             "type": "leaf",
             "pane-relief:history-v1": {
@@ -143,7 +172,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -420,7 +449,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Inbox/great acoustic guitar traditions.md",
+                "file": "Inbox/modal music.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -519,7 +548,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of great acoustic guitar traditions"
+              "title": "Graph of modal music"
             }
           }
         ]
@@ -547,10 +576,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "162646a7e0e28f48",
+  "active": "a0491541d6ebefdc",
   "lastOpenFiles": [
-    "Meta/Sprouts.md",
+    "Garden/modes.md",
+    "Inbox/modal music.md",
+    "Meta/Strings Theories.md",
     "Inbox/great acoustic guitar traditions.md",
+    "Meta/Sprouts.md",
     "Garden/why I favoured modern guitars.md",
     "Garden/exploring traditional guitar building.md",
     "Garden/craftsmanship in the age of technology.md",
@@ -573,9 +605,6 @@
     "Garden/luthier made guitars.md",
     "Garden/my gear.md",
     "Garden/vernis gomme laque.md",
-    "Garden/Claude's woods.md",
-    "Garden/000 28.md",
-    "Garden/00 28.md",
     "Attachments/Screenshot 2025-05-09 at 9.42.18 AM.png",
     "Attachments/Screenshot 2025-05-09 at 9.34.36 AM.png",
     "Attachments/Screenshot 2025-05-05 at 7.53.26 PM.png",

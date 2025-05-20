@@ -1790,7 +1790,7 @@
         }
       },
       "2025-05-20": {
-        "totalDelta": -103,
+        "totalDelta": 170,
         "files": {
           "Garden/craftsmanship in the age of technology.md": {
             "initial": 495,
@@ -1811,6 +1811,18 @@
           "Meta/Sprouts.md": {
             "initial": 46,
             "current": 46
+          },
+          "Garden/modes.md": {
+            "initial": 563,
+            "current": 636
+          },
+          "Meta/Strings Theories.md": {
+            "initial": 428,
+            "current": 428
+          },
+          "Inbox/modal music.md": {
+            "initial": 0,
+            "current": 200
           }
         }
       }

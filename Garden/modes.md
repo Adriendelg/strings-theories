@@ -76,5 +76,18 @@ Let's take every mode's formula and apply it to a C root.
 | [[locrian]]             | C Db Eb F Gb Ab Bb | b2 b3 b5 b6 b7           | Db           |
 Characteristic interval here refers to the notes that deviate from the [[major scale]] or [[ionian]] mode and parent scale means the original major scale from which these modes are derived. 
 
+## other parent scales
+The same principles can be applied to any other 7 notes to the octave scales such as:
+- [[melodic minor scale]]
+- [[harmonic minor scale]]
+- [[harmonic major scale]]
+- [[double harmonic major scale]]
+
+
+> [!NOTE] major scale modes as families
+> When studying the modes of other parent scales, the modes of the major scale become reference points. In studying these other scales and their modes, we will encounter other dorians, phrygians, lydians etc. 
+
+
+
 
 
