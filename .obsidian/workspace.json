@@ -126,53 +126,42 @@
             }
           },
           {
-            "id": "0c3b75733076d724",
+            "id": "fc47b5b308c9d85e",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 0,
+              "pos": 1,
               "stack": [
+                {
+                  "title": "the beat",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Garden/the beat.md\",\"mode\":\"preview\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"the beat\"}",
+                  "eState": "{\"scroll\":0}"
+                },
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "rhythm",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Garden/rhythm.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"rhythm\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":16,\"ch\":119},\"to\":{\"line\":16,\"ch\":119}},\"scroll\":7.795043330348709}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Garden/craftsmanship in the age of technology.md",
-                "mode": "source",
+                "file": "Garden/basic rhythm notation.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "craftsmanship in the age of technology"
-            }
-          },
-          {
-            "id": "55917d12163cf814",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Garden/Celestine guitar project.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Celestine guitar project"
+              "title": "basic rhythm notation"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -449,7 +438,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Inbox/modal music.md",
+                "file": "Garden/basic rhythm notation.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -548,14 +537,14 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of modal music"
+              "title": "Graph of basic rhythm notation"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 321.5
+    "width": 318.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -576,17 +565,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a0491541d6ebefdc",
+  "active": "fc47b5b308c9d85e",
   "lastOpenFiles": [
+    "Inbox/boom chick.md",
+    "Inbox/tune with harmonics.md",
+    "Garden/craftsmanship in the age of technology.md",
+    "Inbox/great acoustic guitar traditions.md",
+    "Inbox/modal music.md",
+    "Garden/basic rhythm notation.md",
+    "Garden/the beat.md",
+    "Garden/rhythm.md",
     "Inbox/Untitled.md",
     "Garden/modes.md",
-    "Inbox/modal music.md",
     "Meta/Strings Theories.md",
-    "Inbox/great acoustic guitar traditions.md",
     "Meta/Sprouts.md",
     "Garden/why I favoured modern guitars.md",
     "Garden/exploring traditional guitar building.md",
-    "Garden/craftsmanship in the age of technology.md",
     "Garden/Celestine guitar project.md",
     "Garden/classical.md",
     "Garden/modern concert classical.md",
@@ -600,11 +594,6 @@
     "Garden/gear to bring for the project.md",
     "Garden/spread voicing.md",
     "Inbox/open chords.md",
-    "Inbox/drop 2.md",
-    "Garden/questions pour Claude.md",
-    "Garden/Martin guitars.md",
-    "Garden/luthier made guitars.md",
-    "Garden/my gear.md",
     "Attachments/Screenshot 2025-05-09 at 9.42.18 AM.png",
     "Attachments/Screenshot 2025-05-09 at 9.34.36 AM.png",
     "Attachments/Screenshot 2025-05-05 at 7.53.26 PM.png",

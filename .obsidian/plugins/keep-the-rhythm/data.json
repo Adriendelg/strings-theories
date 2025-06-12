@@ -1825,6 +1825,123 @@
             "current": 200
           }
         }
+      },
+      "2025-05-30": {
+        "totalDelta": 0,
+        "files": {
+          "Garden/rhythm.md": {
+            "initial": 64,
+            "current": 64
+          },
+          "Garden/basic rhythm notation.md": {
+            "initial": 775,
+            "current": 775
+          },
+          "Garden/the beat.md": {
+            "initial": 85,
+            "current": 85
+          },
+          "Garden/craftsmanship in the age of technology.md": {
+            "initial": 495,
+            "current": 495
+          },
+          "Inbox/modal music.md": {
+            "initial": 200,
+            "current": 200
+          },
+          "Inbox/great acoustic guitar traditions.md": {
+            "initial": 1975,
+            "current": 1975
+          }
+        }
+      },
+      "2025-06-03": {
+        "totalDelta": 0,
+        "files": {
+          "Garden/basic rhythm notation.md": {
+            "initial": 775,
+            "current": 775
+          }
+        }
+      }
+    },
+    "263fea15-8bdf-4444-92a8-c140266858af": {
+      "2025-05-28": {
+        "totalDelta": 0,
+        "files": {
+          "Garden/Celestine guitar project.md": {
+            "initial": 209,
+            "current": 209
+          },
+          "Garden/la rencontre avec Claude et son équipe.md": {
+            "initial": 912,
+            "current": 912
+          },
+          "Garden/questions pour Claude.md": {
+            "initial": 111,
+            "current": 111
+          },
+          "Garden/my gear.md": {
+            "initial": 136,
+            "current": 136
+          },
+          "Garden/why I favoured modern guitars.md": {
+            "initial": 609,
+            "current": 609
+          }
+        }
+      },
+      "2025-05-30": {
+        "totalDelta": 0,
+        "files": {
+          "Garden/Celestine guitar project.md": {
+            "initial": 209,
+            "current": 209
+          }
+        }
+      },
+      "2025-06-03": {
+        "totalDelta": 0,
+        "files": {
+          "Garden/Celestine guitar project.md": {
+            "initial": 209,
+            "current": 209
+          }
+        }
+      },
+      "2025-06-09": {
+        "totalDelta": 0,
+        "files": {
+          "Garden/tapping.md": {
+            "initial": 280,
+            "current": 280
+          },
+          "Garden/two chords cadences.md": {
+            "initial": 372,
+            "current": 372
+          }
+        }
+      },
+      "2025-06-12": {
+        "totalDelta": 0,
+        "files": {
+          "Garden/tuning the guitar.md": {
+            "initial": 277,
+            "current": 277
+          },
+          "Inbox/tune with harmonics.md": {
+            "initial": 0,
+            "current": 0
+          },
+          "Inbox/boom chick.md": {
+            "initial": 0,
+            "current": 0
+          },
+          "Garden/two chords cadences.md": {
+            "initial": 372,
+            "current": 372
+          }
+        }
       }
     }
   }
