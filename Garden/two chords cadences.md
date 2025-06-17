@@ -3,7 +3,7 @@ tags:
   - 🌲
   - musictheory
 ---
-There are plenty of two chord cadences, here are the most common. 
+,There are plenty of two chord cadences, here are the most common. 
 
 ```mermaid
 %%{ init: {
