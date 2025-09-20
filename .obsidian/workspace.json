@@ -182,7 +182,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -459,6 +459,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Inbox/modal music.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -557,7 +558,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Graph of modal music"
             }
           }
         ]
@@ -586,14 +587,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7e0927fc5994bf6d",
+  "active": "a0491541d6ebefdc",
   "lastOpenFiles": [
+    "Garden/basic rhythm notation.md",
+    "Inbox/modal music.md",
     "Inbox/boom chick.md",
     "Inbox/tune with harmonics.md",
     "Garden/craftsmanship in the age of technology.md",
     "Inbox/great acoustic guitar traditions.md",
-    "Inbox/modal music.md",
-    "Garden/basic rhythm notation.md",
     "Garden/the beat.md",
     "Garden/rhythm.md",
     "Inbox/Untitled.md",
